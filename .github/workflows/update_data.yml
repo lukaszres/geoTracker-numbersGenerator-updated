@@ -1,0 +1,45 @@
+name: Aktualizacja Danych Adresowych
+
+on:
+  schedule:
+    - cron: '0 2 1 * *' # 1-go dnia każdego miesiąca o 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-csv-mbtiles:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Pobranie repozytorium
+        uses: actions/checkout@v4
+
+      - name: Instalacja Tippecanoe
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev
+          git clone https://github.com/felt/tippecanoe.git
+          cd tippecanoe
+          make -j$(nproc)
+          sudo make install
+
+      - name: Konfiguracja Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalacja zależności Python
+        run: pip install osmium
+
+      - name: Pobranie i aktualizacja danych
+        run: python fetch_addresses.py
+
+      - name: Zapisanie zmian w repozytorium (Commit & Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add addresses/pl/*.csv
+          git add addresses/pl/*.mbtiles
+          git commit -m "Automatyczna aktualizacja danych (CSV + MBTiles)" || exit 0
+          git push
