@@ -481075,6 +481075,8 @@ lat,lon,housenumber,street,city
 51.6034576,16.8877461,5B,Manewrowa,Szymanowo
 51.6034515,16.8878521,5C,Manewrowa,Szymanowo
 53.1645554,16.6689181,159,Różana,Dolaszewo
+51.8510574,16.6157522,33,Leszczyńska,Kąkolewo
+51.8511096,16.6157495,33,Leszczyńska,Kąkolewo
 52.4185903,16.8809525,165,Jana Henryka Dąbrowskiego,Poznań
 52.4395342,16.9186667,2,Kaspra Drużbickiego,Poznań
 52.0761308,17.0151648,3,Dezyderego Chłapowskiego,Śrem
@@ -486402,6 +486404,7 @@ lat,lon,housenumber,street,city
 52.3719143,16.8749614,45,Ostatnia,Poznań
 52.3731777,16.885698,101,Rawicka,Poznań
 52.3726323,16.8820003,44,Śmiełowska,Poznań
+52.377087,16.8744525,233A,ul.Głogowska,Poznań
 52.3729744,16.8829333,43,Śmiełowska,Poznań
 52.3725758,16.8832853,8,Poniecka,Poznań
 52.3728715,16.8817251,35,Śmiełowska,Poznań
@@ -561973,6 +561976,7 @@ lat,lon,housenumber,street,city
 52.4138252,17.0776351,21,Zamkowa,Swarzędz
 52.4131021,17.0792253,10,Zygmunta Grudzińskiego,Swarzędz
 52.41205,17.0820084,11,Gruszczyńska,Swarzędz
+51.8511312,16.6157805,33,Leszczyńska,Kąkolewo
 51.851335,16.6156681,33,Leszczyńska,Kąkolewo
 51.8513757,16.6149753,39,Leszczyńska,Kąkolewo
 51.8506367,16.6164399,35,Leszczyńska,Kąkolewo
@@ -833746,7 +833750,7 @@ lat,lon,housenumber,street,city
 53.149561,16.7309349,14,Generała Władysława Sikorskiego,Piła
 52.4490376,16.9162924,6,Wacława Gieburowskiego,Poznań
 52.1770346,16.2507762,1B,,
-52.4283899,17.9306437,201,Przybrodzin,Przybrodzin
+52.4283899,17.9306437,201,,Przybrodzin
 52.4288946,17.9300632,212/1,,
 52.0713737,15.8717888,22,Łąkowa,Kargowa
 52.0708794,15.8720666,25,Łąkowa,Kargowa

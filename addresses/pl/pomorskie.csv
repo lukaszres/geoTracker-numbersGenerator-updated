@@ -32694,7 +32694,7 @@ lat,lon,housenumber,street,city
 54.51848,17.05423,3,,
 54.51074,16.90471,5,,
 54.41359,17.06617,5,Malinowa,Krępa Słupska
-54.48279,16.9226,141,Grodzka,Bierkowo
+54.4827775,16.9224369,141,Grodzka,Bierkowo
 54.49088,16.89807,11,,
 54.49925,17.04504,6,,
 54.45764,17.1365,12,,
@@ -84962,7 +84962,7 @@ lat,lon,housenumber,street,city
 54.72391,17.52741,21a,Jeziorna,Żarnowska
 54.7252,17.53022,22,Jeziorna,Żarnowska
 54.7495,17.5760819,1,Akacjowa,Nowęcin
-54.66777,17.62145,1,Bursztynowa,Wicko
+54.6677023,17.6207772,1,Bursztynowa,Wicko
 54.67531,17.60339,1,Fiołkowa,Charbrowo
 54.7247,17.5332,1,Jeziorna,Żarnowska
 54.67589,17.60215,1,Liliowa,Charbrowo
@@ -120893,7 +120893,6 @@ lat,lon,housenumber,street,city
 54.3379788,18.8372948,18,Przegalińska,Gdańsk
 54.3792072,18.621393,16/18,Aleja Generała Józefa Hallera,Gdańsk
 54.3777018,18.6362773,10,Twarda,Gdańsk
-54.3740512,18.6231089,1,Stanisława Konarskiego,Gdańsk
 54.4139337,18.4483337,15,Saturna,Gdańsk
 54.4145224,18.4476422,7,Saturna,Gdańsk
 54.4100854,18.446449,12,Andromedy,Gdańsk
@@ -144114,7 +144113,7 @@ lat,lon,housenumber,street,city
 54.4801684,16.9271875,14,Jarzębinowa,Bierkowo
 54.483267,16.9225621,145,Grodzka,Bierkowo
 54.479547,16.9248496,134,Grodzka,Bierkowo
-54.4825448,16.9227063,139,Grodzka,Bierkowo
+54.4825323,16.9226698,139,Grodzka,Bierkowo
 54.4782658,16.9265793,116,Grodzka,Bierkowo
 54.5241917,16.8933598,3,Graniczna,Pęplino
 54.4748729,16.9321068,29,Dębowa,Bierkowo
@@ -169039,6 +169038,17 @@ lat,lon,housenumber,street,city
 53.8058613,19.0801779,110G,,
 54.1928429,18.0364853,5,Osiedle Kasztelańskie,Sikorzyno
 54.1739623,18.5047464,270,,
+54.4729385,16.9321037,67,Dębowa,Bierkowo
+54.4743484,16.9220918,33,Strumykowa,Bierkowo
+54.4751975,16.9400031,12B,Aleja Lipowa,Bierkowo
+54.4755749,16.9395151,10A,Aleja Lipowa,Bierkowo
+54.4748146,16.9250408,4,Pogodna,Bierkowo
+54.4776522,16.9387386,35A,Grodzka,Bierkowo
+54.4694635,16.9383999,33,Sportowa,Bierkowo
+54.3551489,18.6497892,8/A,Rajska,
+54.3552809,18.6496538,8/B,Rajska,
+54.3554066,18.6495308,8/C,Rajska,
+54.3555336,18.6494127,8/D,Rajska,
 54.4353779,18.5503302,48,Generała Józefa Wybickiego,Sopot
 54.3872156,18.5924819,195/197,Aleja Grunwaldzka,Gdańsk
 54.4477475,18.5682734,12/14,Powstańców Warszawy,Sopot
@@ -394657,6 +394667,7 @@ lat,lon,housenumber,street,city
 54.4206222,18.3576627,5,Słoneczna,Warzenko
 54.4189089,18.3421475,9,Sosnowa,Warzenko
 54.4191579,18.3428327,8,Sosnowa,Warzenko
+54.4189611,18.3431682,6,Sosnowa,Warzenko
 54.4186609,18.3439582,2,Sosnowa,Warzenko
 54.4184125,18.3436746,1,Sosnowa,Warzenko
 54.4198944,18.3470522,4,Rumiankowa,Warzenko
@@ -433692,7 +433703,7 @@ lat,lon,housenumber,street,city
 54.487398,17.491926,7,Akacjowa,Potęgowo
 54.4864223,17.4932059,7,Liliowa,Potęgowo
 54.538894,17.7884197,6,Graniczna,Lębork
-54.538785,17.7879937,37,Wileńska,Lębork
+54.5388175,17.7879878,37,Wileńska,Lębork
 54.5441907,17.7906755,12,Przemysłowa,Lębork
 54.5577182,18.4360023,48,Hutnicza,Gdynia
 54.365874,18.407501,3,Na Wzgórzu,Pępowo
@@ -452295,3 +452306,17 @@ lat,lon,housenumber,street,city
 54.4711015,16.9950319,16A,Stefana Banacha,Słupsk
 54.4711952,16.9943324,18,Stefana Banacha,Słupsk
 54.1947923,18.3810824,36,Jeziorna,Miłowo
+54.374154,18.623101,1,Stanisława Konarskiego,Gdańsk
+54.4195919,18.3460604,2,Letnia,Warzenko
+54.4194316,18.3462939,4,Letnia,Warzenko
+54.4192645,18.3465228,6,Letnia,Warzenko
+54.4191001,18.3467516,8,Letnia,Warzenko
+54.4189357,18.3469851,10,Letnia,Warzenko
+54.4186304,18.3473583,12,Letnia,Warzenko
+54.419277,18.3456951,1,Jesienna,Warzenko
+54.4190437,18.3460437,3,Jesienna,Warzenko
+54.4205111,18.3430795,11,Migdałowa,Warzenko
+54.4202829,18.3434332,9,Migdałowa,Warzenko
+54.420052,18.3437893,7,Migdałowa,Warzenko
+54.4198223,18.3441496,5,Migdałowa,Warzenko
+54.4195941,18.3445075,3,Migdałowa,Warzenko

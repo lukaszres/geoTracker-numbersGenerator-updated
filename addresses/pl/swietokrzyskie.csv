@@ -170,6 +170,7 @@ lat,lon,housenumber,street,city
 51.0536717,21.0820979,29,Lipowa,Starachowice
 51.1135451,20.8477938,138,Krakowska,Skarżysko-Kamienna
 51.1184507,20.8573143,21,Księdza Jerzego Popiełuszki,Skarżysko-Kamienna
+51.1189418,20.8641058,5,Powstańców Warszawy,Skarżysko-Kamienna
 51.1092797,20.8528767,5,Energetyków,Skarżysko-Kamienna
 50.788851,20.6113981,51,Szkolna,
 50.7888409,20.6110386,53,Szkolna,
@@ -43185,7 +43186,6 @@ lat,lon,housenumber,street,city
 50.9581619,21.3785286,138,Iłżecka,Ostrowiec Świętokrzyski
 50.9364746,21.3883106,14,Czysta,Ostrowiec Świętokrzyski
 50.9703989,21.3614344,14,Las Rzeczki,Ostrowiec Świętokrzyski
-50.9559259,21.3592342,14,Mieczysława Karłowicza,Ostrowiec Świętokrzyski
 50.9305683,21.4182402,15,Szkolna,Ostrowiec Świętokrzyski
 50.9534759,21.4070134,147,Bałtowska,Ostrowiec Świętokrzyski
 50.908572,21.3875462,148,Opatowska,Ostrowiec Świętokrzyski
@@ -43387,8 +43387,7 @@ lat,lon,housenumber,street,city
 50.9487313,21.3740335,9,Elizy Orzeszkowej,Ostrowiec Świętokrzyski
 50.9313489,21.3907723,9,Juliusza Słowackiego,Ostrowiec Świętokrzyski
 50.9503955,21.3643991,95,Henryka Sienkiewicza,Ostrowiec Świętokrzyski
-50.9400574,21.4031129,96,Denkowska,Ostrowiec Świętokrzyski
-50.9409483,21.4162976,96a,Władysława Sikorskiego,Ostrowiec Świętokrzyski
+50.9409387,21.4163994,96a,Władysława Sikorskiego,Ostrowiec Świętokrzyski
 50.9494617,21.363666,97,Henryka Sienkiewicza,Ostrowiec Świętokrzyski
 51.0420636,21.0806238,5,Dworcowa,Starachowice
 51.1189751,20.8832476,12,Zielna,Skarżysko-Kamienna
@@ -54266,7 +54265,6 @@ lat,lon,housenumber,street,city
 50.42652,20.75077,81A,,
 50.46754,20.7541,81B,,
 50.47714,20.69138,81b,Mariana Langiewicza,Busko-Zdrój
-50.47803,20.69021,82,Mariana Langiewicza,Busko-Zdrój
 50.44708,20.81508,86,,
 50.45873,20.6347,86,,
 50.4676,20.75293,86,,
@@ -126095,7 +126093,7 @@ lat,lon,housenumber,street,city
 51.0531136,21.0721455,1,Bankowa,Starachowice
 51.0531378,21.0720273,1,Bankowa,Starachowice
 51.0531873,21.071933,1,Bankowa,Starachowice
-50.9345858,21.402807,49B,Jana Kilińskiego,Ostrowiec Świętokrzyski
+50.9345858,21.402807,10,Stanisława Saskiego,Ostrowiec Świętokrzyski
 51.1146012,20.8827547,22,1 Maja,Skarżysko-Kamienna
 51.11499,20.8847283,34,1 Maja,Skarżysko-Kamienna
 51.1111899,20.8528905,5,Metalowców,Skarżysko-Kamienna
@@ -144951,7 +144949,6 @@ lat,lon,housenumber,street,city
 50.9306697,21.417727,8,Podstawie,Ostrowiec Świętokrzyski
 50.9277149,21.4219495,37a,Mostowa,Ostrowiec Świętokrzyski
 50.9301275,21.422861,6,Garncarska,Ostrowiec Świętokrzyski
-50.9395629,21.4108852,111,Denkowska,Ostrowiec Świętokrzyski
 50.9307129,21.3784186,24,Centralnego Okręgu Przemysłowego,Ostrowiec Świętokrzyski
 50.9326579,21.3767225,11,Centralnego Okręgu Przemysłowego,Ostrowiec Świętokrzyski
 50.9317772,21.3767828,5,Centralnego Okręgu Przemysłowego,Ostrowiec Świętokrzyski
@@ -155380,11 +155377,6 @@ lat,lon,housenumber,street,city
 50.449136,20.7137889,101A,Świętokrzyska,Zbludowice
 50.4857857,20.7449332,9,Sasankowa,Łagiewniki
 50.4720794,20.7180174,8A,Sądowa,Busko-Zdrój
-50.4573904,20.7367704,23D,Przemysłowa,Owczary
-50.4574847,20.7363417,23B,Przemysłowa,Owczary
-50.4575292,20.736181,23A,Przemysłowa,Owczary
-50.4574282,20.7365956,23C,Przemysłowa,Owczary
-50.4575886,20.7359657,23,Przemysłowa,Owczary
 50.4725978,20.7110958,2,Polna,Busko-Zdrój
 50.4852413,20.7113196,9,Podlesie,Busko-Zdrój
 50.4659722,20.7429556,144A,Partyzantów,Busko-Zdrój
@@ -166871,6 +166863,24 @@ lat,lon,housenumber,street,city
 50.4692169,20.6811296,35,,
 50.4690167,20.6801878,42A,,
 50.4689698,20.6790032,52,,
+50.9396923,21.4047167,27W,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9395636,21.4046916,27U,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9394714,21.4046679,27T,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9393241,21.4046413,27S,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9389858,21.4045274,27N,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9388907,21.4045303,27M,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9387407,21.4044786,27L,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9386605,21.4044786,27K,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9385095,21.4044934,27I,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9384033,21.4044741,27H,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9382858,21.404449,27G,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9381693,21.4044224,27F,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9380593,21.4043987,27E,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9379419,21.4043765,27D,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9378235,21.4043529,27C,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9377098,21.4043292,27B,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9375868,21.404304,27A,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.937487,21.4042966,27,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
 50.9611872,21.3593799,8,Długa,Ostrowiec Świętokrzyski
 50.5640043,21.1670494,1,Rynek,Staszów
 51.0666875,20.8418697,12,Harcerska,Suchedniów
@@ -167928,7 +167938,7 @@ lat,lon,housenumber,street,city
 51.1197433,20.863392,2A,Spółdzielcza,Skarżysko-Kamienna
 51.1189156,20.8636719,3,Powstańców Warszawy,Skarżysko-Kamienna
 51.1198184,20.8637208,4,Spółdzielcza,Skarżysko-Kamienna
-51.1192685,20.8647867,7,Powstańców Warszawy,Skarżysko-Kamienna
+51.119266,20.8647909,7,Powstańców Warszawy,Skarżysko-Kamienna
 51.1205014,20.8665183,14,Spółdzielcza,Skarżysko-Kamienna
 51.1199828,20.8683063,21,Powstańców Warszawy,Skarżysko-Kamienna
 51.1204588,20.8662825,14A,Spółdzielcza,Skarżysko-Kamienna
@@ -168351,7 +168361,7 @@ lat,lon,housenumber,street,city
 51.1241494,20.8692852,19B,Orla,Skarżysko-Kamienna
 51.1233633,20.8663635,11,Orla,Skarżysko-Kamienna
 51.1234129,20.8660318,11A,Orla,Skarżysko-Kamienna
-51.1243718,20.867378,10,Wiejska,Skarżysko-Kamienna
+51.1243743,20.8673893,10,Wiejska,Skarżysko-Kamienna
 51.1231539,20.8657929,9,Orla,Skarżysko-Kamienna
 51.1244265,20.8663443,50,Stanisława Moniuszki,Skarżysko-Kamienna
 51.1241655,20.8658845,23,Stanisława Moniuszki,Skarżysko-Kamienna
@@ -181624,7 +181634,7 @@ lat,lon,housenumber,street,city
 51.0805222,21.0023037,31,Świętego Rocha,Wąchock
 50.8570993,20.6300708,49,Skalista,Kielce
 50.8575524,20.6283561,18,Generała Mariana Langiewicza,Kielce
-51.1243773,20.867932,12,Wiejska,Skarżysko-Kamienna
+51.1243768,20.8679429,12,Wiejska,Skarżysko-Kamienna
 50.8717881,20.6335305,10,Bodzentyńska,Kielce
 50.8719021,20.6336936,12a,Bodzentyńska,Kielce
 50.8719187,20.6339613,14,Bodzentyńska,Kielce
@@ -192222,7 +192232,6 @@ lat,lon,housenumber,street,city
 50.8413584,20.6219888,6,Świętego Rafała Kalinowskiego,Kielce
 50.8411124,20.6204737,15,Świętego Rafała Kalinowskiego,Kielce
 50.8415026,20.6208887,10,Świętego Rafała Kalinowskiego,Kielce
-50.8404116,20.6224323,3,Świętego Rafała Kalinowskiego,Kielce
 50.8413592,20.6217525,8,Świętego Rafała Kalinowskiego,Kielce
 50.8409999,20.6208767,11,Świętego Rafała Kalinowskiego,Kielce
 50.841211,20.62397,4,Włoszczowska,Kielce
@@ -233301,7 +233310,7 @@ lat,lon,housenumber,street,city
 50.1940457,20.4883509,9,,
 50.9432247,21.3807587,40,Henryka Sienkiewicza,Ostrowiec Świętokrzyski
 50.9433437,21.3805383,42,Henryka Sienkiewicza,Ostrowiec Świętokrzyski
-50.9433789,21.3796887,44,Henryka Sienkiewicza,Ostrowiec Świętokrzyski
+50.9433655,21.3797136,44,Henryka Sienkiewicza,Ostrowiec Świętokrzyski
 50.9445031,21.3799648,27,Polna,Ostrowiec Świętokrzyski
 50.944669,21.3784136,37,Polna,Ostrowiec Świętokrzyski
 50.9441979,21.3793833,31,Polna,Ostrowiec Świętokrzyski
@@ -233533,7 +233542,7 @@ lat,lon,housenumber,street,city
 51.0611666,21.0511491,14,Stalowa,Starachowice
 50.9435554,21.382227,12,Adama Mickiewicza,Ostrowiec Świętokrzyski
 50.9435661,21.3816922,14,Adama Mickiewicza,Ostrowiec Świętokrzyski
-50.9431691,21.3816976,14,Adama Mickiewicza,Ostrowiec Świętokrzyski
+50.9431755,21.3817142,14,Adama Mickiewicza,Ostrowiec Świętokrzyski
 50.9438078,21.3827433,10,Adama Mickiewicza,Ostrowiec Świętokrzyski
 50.9427944,21.3810591,18,Adama Mickiewicza,Ostrowiec Świętokrzyski
 50.9427593,21.3810965,20,Adama Mickiewicza,Ostrowiec Świętokrzyski
@@ -235383,7 +235392,7 @@ lat,lon,housenumber,street,city
 50.9456025,21.412723,38,Pogodna,Ostrowiec Świętokrzyski
 50.9458208,21.4116168,46,Pogodna,Ostrowiec Świętokrzyski
 50.9458773,21.4125137,40,Pogodna,Ostrowiec Świętokrzyski
-50.9469521,21.4094049,18,11 Listopada,Ostrowiec Świętokrzyski
+50.9469149,21.409344,18,11 Listopada,Ostrowiec Świętokrzyski
 50.9459529,21.4100377,18,Słoneczna,Ostrowiec Świętokrzyski
 50.9460839,21.4117616,44,Pogodna,Ostrowiec Świętokrzyski
 50.9460673,21.412515,42,Pogodna,Ostrowiec Świętokrzyski
@@ -238379,7 +238388,7 @@ lat,lon,housenumber,street,city
 50.959735,21.3759927,8,Konstantego Ildefonsa Gałczyńskiego,Ostrowiec Świętokrzyski
 50.9518934,21.3728392,8,Leopolda Staffa,Ostrowiec Świętokrzyski
 50.9535141,21.3740631,8,Lucjana Rydla,Ostrowiec Świętokrzyski
-50.9511073,21.3682968,8,Piaski,Ostrowiec Świętokrzyski
+50.9511597,21.3683161,8,Piaski,Ostrowiec Świętokrzyski
 50.9528479,21.3718143,8,Stanisława Witkiewicza,Ostrowiec Świętokrzyski
 50.9534781,21.3747978,8,Wincentego Witosa,Ostrowiec Świętokrzyski
 50.9580748,21.3771327,8,Witolda Gombrowicza,Ostrowiec Świętokrzyski
@@ -243576,7 +243585,7 @@ lat,lon,housenumber,street,city
 51.0226864,20.8325327,25A,Koszykowa,Suchedniów
 51.0224976,20.8323224,27,Koszykowa,Suchedniów
 51.0222361,20.831748,32,Koszykowa,Suchedniów
-51.1191238,20.8645087,5,Powstańców Warszawy,Skarżysko-Kamienna
+51.1191235,20.8645075,5,Powstańców Warszawy,Skarżysko-Kamienna
 51.1081066,20.0229531,86,Kościelna,Czermno
 51.1086047,20.0230263,20,Cmentarna,Czermno
 51.1085521,20.0226776,22,Cmentarna,Czermno
@@ -245947,7 +245956,7 @@ lat,lon,housenumber,street,city
 50.9465363,21.4130716,40,Władysława Sikorskiego,Ostrowiec Świętokrzyski
 50.9396346,21.4105439,109,Ogrodowa,Ostrowiec Świętokrzyski
 50.932578,21.3838956,11,Żabia,Ostrowiec Świętokrzyski
-50.9395566,21.4108499,111a,Ogrodowa,Ostrowiec Świętokrzyski
+50.9394966,21.4108794,111a,Ogrodowa,Ostrowiec Świętokrzyski
 50.9387475,21.4106519,115,Denkowska,Ostrowiec Świętokrzyski
 50.9387122,21.4108347,117,Denkowska,Ostrowiec Świętokrzyski
 50.9385549,21.4110297,119,Denkowska,Ostrowiec Świętokrzyski
@@ -246002,10 +246011,10 @@ lat,lon,housenumber,street,city
 50.9340991,21.4003355,47b,Jana Kilińskiego,Ostrowiec Świętokrzyski
 50.9327746,21.4020865,49,Jana Kilińskiego,Ostrowiec Świętokrzyski
 50.9339327,21.4026408,49A,Jana Kilińskiego,Ostrowiec Świętokrzyski
-50.9340291,21.4023402,49H,Jana Kilińskiego,Ostrowiec Świętokrzyski
-50.9345198,21.403113,49b,Jana Kilińskiego,Ostrowiec Świętokrzyski
+50.9340291,21.4023402,4,Stanisława Saskiego,Ostrowiec Świętokrzyski
+50.9345198,21.403113,10,Stanisława Saskiego,Ostrowiec Świętokrzyski
 50.9323169,21.4044283,49L,Jana Kilińskiego,Ostrowiec Świętokrzyski
-50.9322365,21.4025778,49f,Jana Kilińskiego,Ostrowiec Świętokrzyski
+50.9322365,21.4025778,49D,Jana Kilińskiego,Ostrowiec Świętokrzyski
 50.9323774,21.4030632,49g,Jana Kilińskiego,Ostrowiec Świętokrzyski
 50.9331186,21.403773,49i,Jana Kilińskiego,Ostrowiec Świętokrzyski
 50.9331634,21.4040998,49K,Jana Kilińskiego,Ostrowiec Świętokrzyski
@@ -323763,7 +323772,7 @@ lat,lon,housenumber,street,city
 50.9261633,21.3666487,34,Świętokrzyska,Ostrowiec Świętokrzyski
 50.9312572,21.4139023,42,Podstawie,Ostrowiec Świętokrzyski
 50.9352113,21.4099945,16,Leona Chrzanowskiego,
-50.9472838,21.4118267,28,11 Listopada,Ostrowiec Świętokrzyski
+50.947267,21.4118223,28,11 Listopada,Ostrowiec Świętokrzyski
 50.9514735,21.4132333,3,Koralowa,Ostrowiec Świętokrzyski
 50.9608378,21.4095622,22,Leśny Zakątek,Ostrowiec Świętokrzyski
 50.9608775,21.4099508,24,Leśny Zakątek,Ostrowiec Świętokrzyski
@@ -324191,7 +324200,7 @@ lat,lon,housenumber,street,city
 50.8693213,20.7093818,178R,,
 50.9441148,21.3898749,47,Siennieńska,Ostrowiec Świętokrzyski
 50.9615968,21.3544016,103,Długa,Ostrowiec Świętokrzyski
-50.9510424,21.3684866,6,Piaski,Ostrowiec Świętokrzyski
+50.9510487,21.3684873,6,Piaski,Ostrowiec Świętokrzyski
 50.9509235,21.3683497,4,Piaski,Ostrowiec Świętokrzyski
 50.9446924,21.3852568,42,Polna,Ostrowiec Świętokrzyski
 50.9957518,20.7966633,87B,,
@@ -333009,7 +333018,12 @@ lat,lon,housenumber,street,city
 50.4706891,20.7405673,46A,Widuchowska,Busko-Zdrój
 50.4475282,20.7237635,10,Strażacka,Zbludowice
 50.4740215,20.7394894,71,Szydłowska,Busko-Zdrój
+50.4576034,20.7361211,23,Przemysłowa,Owczary
 50.4577901,20.7363426,23F,Przemysłowa,Owczary
+50.4574269,20.7368526,23D,Przemysłowa,Owczary
+50.4574719,20.7366611,23C,Przemysłowa,Owczary
+50.457463,20.736221,23A,Przemysłowa,Owczary
+50.4575356,20.7363895,23B,Przemysłowa,Owczary
 50.4595949,20.7341619,13,Palmowa,Busko-Zdrój
 50.4595215,20.7346671,9,Palmowa,Busko-Zdrój
 50.4594848,20.7343792,11,Palmowa,Busko-Zdrój
@@ -333907,6 +333921,7 @@ lat,lon,housenumber,street,city
 50.9428509,21.4122985,45,Słoneczna,Ostrowiec Świętokrzyski
 50.9463721,21.4132693,79A,Osiedle Rosochy,Ostrowiec Świętokrzyski
 50.9494796,21.4115259,8,Władysława Sikorskiego,Ostrowiec Świętokrzyski
+50.93972,21.4108305,111,Denkowska,Ostrowiec Świętokrzyski
 50.9497592,21.4111597,4,Władysława Sikorskiego,Ostrowiec Świętokrzyski
 50.9487874,21.4123181,17,Władysława Sikorskiego,Ostrowiec Świętokrzyski
 50.9492663,21.412092,11,Władysława Sikorskiego,Ostrowiec Świętokrzyski
@@ -334563,7 +334578,7 @@ lat,lon,housenumber,street,city
 50.8430692,20.6225305,4A,Łagowska,Kielce
 50.8429812,20.6225085,4,Łagowska,Kielce
 50.8439938,20.6241064,6,Łotewska,Kielce
-50.8406753,20.6220817,122,Księdza Piotra Ściegiennego,Kielce
+50.8406753,20.6220817,3,Świętego Rafała Kalinowskiego,Kielce
 50.8407553,20.6241447,175B,Księdza Piotra Ściegiennego,Kielce
 50.8410717,20.6213583,7,Świętego Rafała Kalinowskiego,Kielce
 50.8410749,20.6226318,120A,Księdza Piotra Ściegiennego,Kielce
@@ -339298,3 +339313,10 @@ lat,lon,housenumber,street,city
 51.1121364,20.8264028,4,Pszenna,Skarżysko-Kamienna
 51.1160518,20.8128252,125B,Majora Jana Piwnika „Ponurego”,Skarżysko-Kamienna
 50.4112964,20.7981001,42,,
+50.8404441,20.6216639,3,Świętego Rafała Kalinowskiego,Kielce
+50.9400533,21.4032066,96,Denkowska,Ostrowiec Świętokrzyski
+50.9557614,21.359162,14,Mieczysława Karłowicza,Ostrowiec Świętokrzyski
+50.9326605,21.4021934,49E,Jana Kilińskiego,Ostrowiec Świętokrzyski
+50.9391651,21.4044838,27P,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+50.9392299,21.4046359,27R,Księcia Janusza Ostrogskiego,Ostrowiec Świętokrzyski
+51.0741452,20.9422186,34B,Złotoglin,Parszów

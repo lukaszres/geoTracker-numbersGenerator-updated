@@ -118199,7 +118199,7 @@ lat,lon,housenumber,street,city
 54.1828485,19.4123154,47,Suwalska,Elbląg
 54.1854161,19.4173159,19A,Kamienna,Elbląg
 54.1827438,19.407864,38,Wiślicka,Elbląg
-54.1863221,19.4148441,4,Hodowlana,Elbląg
+54.1863221,19.4148441,4,Ogólna,Elbląg
 54.1831644,19.4054801,51,Wiślicka,Elbląg
 54.1857411,19.4150746,18,Hodowlana,Elbląg
 54.1841626,19.4163663,23,Szczygla,Elbląg
@@ -215166,8 +215166,8 @@ lat,lon,housenumber,street,city
 53.5686025,21.2166484,18,Kościelna,Świętajno
 53.5689159,21.2175785,20,Kościelna,Świętajno
 53.5661572,21.2191625,32a,Parkowa,Świętajno
-53.5654317,21.2190747,9,Parkowa,Świętajno
-53.5655531,21.2187731,11,Parkowa,Świętajno
+53.565375,21.219186,9,Parkowa,Świętajno
+53.5655546,21.2187724,11,Parkowa,Świętajno
 53.5650942,21.2180941,24,Adama Mickiewicza,Świętajno
 53.5653072,21.2179376,26,Adama Mickiewicza,Świętajno
 53.5675749,21.215623,27,Kościelna,Świętajno
@@ -215674,19 +215674,19 @@ lat,lon,housenumber,street,city
 53.5654341,21.2213677,16,Parkowa,Świętajno
 53.5651885,21.2214649,14,Parkowa,Świętajno
 53.5651014,21.2215541,12,Parkowa,Świętajno
-53.5648654,21.2218746,10A,Parkowa,Świętajno
-53.5649604,21.2218815,10,Parkowa,Świętajno
-53.5646598,21.2223515,6,Parkowa,Świętajno
-53.5649536,21.2226676,8,Parkowa,Świętajno
+53.5648798,21.2220832,10A,Parkowa,Świętajno
+53.5649528,21.2219545,10,Parkowa,Świętajno
+53.5646609,21.2223422,6,Parkowa,Świętajno
+53.5648803,21.2225632,8,Parkowa,Świętajno
 53.5638462,21.2214478,2a,Adama Mickiewicza,Świętajno
 53.5634603,21.2202107,7,Adama Mickiewicza,Świętajno
 53.5638141,21.2204524,9,Adama Mickiewicza,Świętajno
 53.5638724,21.2201477,11,Adama Mickiewicza,Świętajno
 53.5636473,21.2208599,5,Adama Mickiewicza,Świętajno
-53.5635542,21.2212133,1,Adama Mickiewicza,Świętajno
-53.5636137,21.2211232,3,Adama Mickiewicza,Świętajno
+53.5635782,21.221294,1,Adama Mickiewicza,Świętajno
+53.5635576,21.2209973,3,Adama Mickiewicza,Świętajno
 53.5639348,21.2211588,2,Adama Mickiewicza,Świętajno
-53.5641842,21.2201203,6a,Adama Mickiewicza,Świętajno
+53.5641673,21.2201775,6a,Adama Mickiewicza,Świętajno
 53.5643429,21.2205593,6,Adama Mickiewicza,Świętajno
 53.5633133,21.2198826,7a,Adama Mickiewicza,Świętajno
 53.5659457,21.233374,20,Malinowa,Świętajno
@@ -218024,7 +218024,7 @@ lat,lon,housenumber,street,city
 53.5740366,20.9959607,10,Mikołaja Reja,Szczytno
 53.5741766,20.9957846,12,Mikołaja Reja,Szczytno
 53.5742735,20.9955673,14,Mikołaja Reja,Szczytno
-54.1863821,19.4149883,6,Hodowlana,Elbląg
+54.1863821,19.4149883,6,Ogólna,Elbląg
 54.1863247,19.4149798,8,Hodowlana,Elbląg
 54.1854863,19.4150597,25,Kamienna,Elbląg
 54.1854859,19.4149665,26,Kamienna,Elbląg
@@ -246681,7 +246681,7 @@ lat,lon,housenumber,street,city
 53.6822485,20.7810993,6,,
 53.6852451,20.7828453,5,,
 53.5629793,21.220664,13H,Grunwaldzka,Świętajno
-53.5650973,21.2237807,15C,Grunwaldzka,Świętajno
+53.5650425,21.223897,15C,Grunwaldzka,Świętajno
 54.0866435,19.405063,8,Kwiatowa,Żurawiec
 53.3844217,19.4666714,44,,
 54.1194236,19.2733346,2,,
@@ -254191,6 +254191,7 @@ lat,lon,housenumber,street,city
 53.8019983,21.5855482,14,Ptasia,Mikołajki
 53.8023968,21.5857995,14A,Ptasia,Mikołajki
 53.7921815,21.5866478,105A,Michała Kajki,Mikołajki
+53.7987251,21.5883694,33,Mewia,
 53.7989376,21.5883014,18,Kormoranów,Mikołajki
 53.7998641,21.5863965,7,Czapla,Mikołajki
 53.8027563,21.5807004,9,Fasolkowa,Mikołajki

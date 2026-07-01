@@ -52,7 +52,7 @@ lat,lon,housenumber,street,city
 50.0628558,19.93522,5,Jagiellońska,Kraków
 50.0631354,19.9357477,4,Szczepańska,Kraków
 50.0636209,19.9361546,8,Plac Szczepański,Kraków
-50.0637051,19.9363771,8,Plac Szczepański,
+50.0637452,19.9362107,8,Plac Szczepański,
 50.0640328,19.9362856,7,Plac Szczepański,Kraków
 50.0641583,19.9363632,7,Plac Szczepański,Kraków
 50.064154,19.9358288,6/5,Plac Szczepański,Kraków
@@ -113,8 +113,6 @@ lat,lon,housenumber,street,city
 50.0627113,19.9374057,38,Rynek Główny,Kraków
 50.0560182,19.9284264,1,Plac Juliusza Kossaka,Kraków
 50.0620524,19.9358577,2,Szewska,
-50.0623304,19.935688,5,Szewska,Kraków
-50.0623201,19.9356875,5,Szewska,Kraków
 50.0621671,19.9351801,4,Szewska,Kraków
 50.0626424,19.9348721,13,Szewska,Kraków
 50.0628486,19.9338577,22,Szewska,
@@ -25576,7 +25574,6 @@ lat,lon,housenumber,street,city
 50.0834058,19.9013057,47d,Walerego Eliasza Radzikowskiego,Kraków
 50.0211717,19.9790444,3,Na Kozłówce,Kraków
 50.0191126,19.9866397,1,Wlotowa,Kraków
-50.0628356,19.935425,6,Jagiellońska,Kraków
 50.0625615,19.9351592,11,Szewska,Kraków
 50.063698,19.9296496,2,Józefa Szujskiego,Kraków
 50.0637643,19.9296932,2,Józefa Szujskiego,Kraków
@@ -137766,7 +137763,6 @@ lat,lon,housenumber,street,city
 49.3258616,20.1276844,96,Halna,Brzegi
 49.4189894,20.0878226,96,Kobylarzówka,Groń
 49.3642025,20.1233661,96,Nadwodnia,Czarna Góra
-49.3396078,20.1010538,96,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.35519,20.1194396,96,Wierch Głodowski,Bukowina Tatrzańska
 49.3471098,20.0871313,95,Wierch Kurucowy,Bukowina Tatrzańska
 49.3398931,20.0828868,96,Wierch Olczański,Bukowina Tatrzańska
@@ -137774,7 +137770,6 @@ lat,lon,housenumber,street,city
 49.3470011,20.0882107,95B,Wierch Kurucowy,Bukowina Tatrzańska
 49.3259506,20.1274757,97,Halna,Brzegi
 49.3645045,20.1234503,97,Nadwodnia,Czarna Góra
-49.339541,20.1009133,97,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3533951,20.1171472,97,Wierch Głodowski,Bukowina Tatrzańska
 49.3403078,20.0817314,97,Wierch Olczański,Bukowina Tatrzańska
 49.3857658,20.1324656,97,Zagóra,Czarna Góra
@@ -210665,7 +210660,7 @@ lat,lon,housenumber,street,city
 50.0709676,19.8818264,40,Hamernia,Kraków
 50.069801,19.8877968,12B,Odlewnicza,Kraków
 50.0694621,19.8489465,22,Wiosenna,Kraków
-50.0732258,19.8872637,114A,Wiedeńska,Kraków
+50.0731892,19.8872789,114A,Wiedeńska,Kraków
 50.0761987,19.8470245,64A,Pylna,Kraków
 50.0686285,19.8788638,58N,Ludmiły Korbutowej,Kraków
 50.0697578,19.8881118,14B,Odlewnicza,Kraków
@@ -210787,7 +210782,6 @@ lat,lon,housenumber,street,city
 50.0700985,19.8291205,24,Insurekcji Kościuszkowskiej,Kraków
 50.069666,19.870467,13,Morelowa,Kraków
 50.0662993,19.8571207,52d,Aleja Kasztanowa,Kraków
-50.0729185,19.8870737,106a,Wiedeńska,Kraków
 50.0697948,19.8694738,24h,Morelowa,Kraków
 50.0763793,19.8471159,64C,Pylna,Kraków
 50.068795,19.8786405,58R,Ludmiły Korbutowej,Kraków
@@ -240424,8 +240418,6 @@ lat,lon,housenumber,street,city
 50.042712,19.9524781,8,Tatrzańska,Kraków
 50.0511532,19.9508817,91,Starowiślna,Kraków
 50.0433971,19.9699359,18B,Powstańców Wielkopolskich,Kraków
-50.0507434,19.9703849,45,Portowa,Kraków
-50.050814,19.9709949,45a,Portowa,Kraków
 50.0439813,19.9597253,3A,Świętej Kingi,Kraków
 50.0418511,19.9539898,3,Aleja Edwarda Dembowskiego,Kraków
 50.0407165,19.9595074,5,Plac Przystanek,Kraków
@@ -271745,7 +271737,6 @@ lat,lon,housenumber,street,city
 50.0627511,19.9372895,37,Rynek Główny,Kraków
 50.0626626,19.9375417,39,Rynek Główny,Kraków
 50.0626249,19.937661,39,Rynek Główny,Kraków
-50.1245028,19.3656352,40,Kroczymiech,Chrzanów
 49.730534,20.1119489,862,,
 50.102555,19.870773,54,Starego Dębu,Kraków
 50.0945716,19.9262466,15,Henryka Pachońskiego,Kraków
@@ -273755,7 +273746,6 @@ lat,lon,housenumber,street,city
 49.3415765,20.1052031,36,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3421022,20.107448,13A,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3410351,20.1071153,27,Tadeusza Kościuszki,Bukowina Tatrzańska
-49.3384246,20.1023951,89A,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3401052,20.1027305,78,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3342623,20.0962499,183B,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3344405,20.0992719,157A,Tadeusza Kościuszki,Bukowina Tatrzańska
@@ -277008,7 +276998,6 @@ lat,lon,housenumber,street,city
 49.4823451,20.0913168,131,Długa,Waksmund
 49.4775076,20.101596,9,Pańska,Ostrowsko
 50.322252,19.4037181,48,,Dąbrowa Górnicza
-49.339544,20.1013686,94,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.8803825,20.1007144,43,Szkolna,Dobczyce
 50.0541816,19.9640301,4,Profesora Marka Stachowskiego,Kraków
 50.071336,20.039605,11,,Kraków
@@ -296463,6 +296452,9 @@ lat,lon,housenumber,street,city
 50.1432084,19.6546708,8,Żółtych Słoneczników,Krzeszowice
 50.1432054,19.65442,10,Żółtych Słoneczników,Krzeszowice
 50.1431734,19.6541883,12,Żółtych Słoneczników,Krzeszowice
+50.0731794,19.8871611,114,Wiedeńska,Kraków
+50.0410772,19.9797929,17,Pułkownika Ryszarda Kuklińskiego,Kraków
+49.6101316,20.7110229,5 lok. 8,Edmunda Ciećkiewicza,Nowy Sącz
 50.071652,19.802155,3,Kapitana Mieczysława Medweckiego,Balice
 49.9692854,20.4287106,7,Plac Świętej Kingi,Bochnia
 50.0622183,19.9374962,3,Rynek Główny,Kraków
@@ -347310,7 +347302,7 @@ lat,lon,housenumber,street,city
 50.0825675,19.889156,7,Wernyhory,Kraków
 50.0754681,19.8858506,6,Olkuska,Kraków
 50.080208,19.8873344,21,Jabłonkowska,Kraków
-50.0728852,19.8866856,106,Wiedeńska,Kraków
+50.0728893,19.8866857,106,Wiedeńska,Kraków
 50.0682113,19.8824112,13,Zarudawie,Kraków
 50.0755146,19.8800389,8,Trawiasta,Kraków
 50.0696129,19.8854706,2,Kuźnicza,Kraków
@@ -347379,24 +347371,24 @@ lat,lon,housenumber,street,city
 50.0821253,19.8898512,123,Bronowicka,Kraków
 50.0691798,19.8921441,20,Spiżowa,Kraków
 50.0788141,19.8850976,11c,Na Błonie,Kraków
-50.0731351,19.8856014,94,Wiedeńska,Kraków
+50.0731354,19.8856047,94,Wiedeńska,Kraków
 50.0732068,19.8828862,66,Wiedeńska,Kraków
 50.0736513,19.8800743,40,Wiedeńska,Kraków
 50.0756574,19.8792957,2,Trawiasta,Kraków
-50.0732084,19.8863706,102,Wiedeńska,Kraków
+50.0732122,19.8863739,102,Wiedeńska,Kraków
 50.0796498,19.8872755,27,Jabłonkowska,Kraków
 50.0696627,19.898663,9,Armii Krajowej,Kraków
 50.0685481,19.8856351,3,Przesmyk,Kraków
 50.0694087,19.8867275,5,Hamernia,Kraków
 50.0823302,19.8881931,2,Jabłonkowska,
 50.0732593,19.8831799,70,Wiedeńska,Kraków
-50.0732819,19.8870514,112,Wiedeńska,Kraków
+50.0732819,19.8870511,112,Wiedeńska,Kraków
 50.0825744,19.8896312,13,Wernyhory,Kraków
 50.0753095,19.885312,7,Olkuska,Kraków
-50.0732561,19.8867694,108,Wiedeńska,Kraków
-50.0731843,19.8860906,98,Wiedeńska,Kraków
+50.0732578,19.8867717,108,Wiedeńska,Kraków
+50.073187,19.8860954,98,Wiedeńska,Kraków
 50.0729643,19.8778251,59,Na Błonie,Kraków
-50.0731086,19.8853303,90,Wiedeńska,Kraków
+50.0731098,19.8853298,90,Wiedeńska,Kraków
 50.0730943,19.8836496,74,Wiedeńska,Kraków
 50.0738535,19.8799041,38a,Wiedeńska,Kraków
 50.0726038,19.8788181,8,Pamiętna,Kraków
@@ -347421,13 +347413,12 @@ lat,lon,housenumber,street,city
 50.0731155,19.8845793,84,Wiedeńska,Kraków
 50.0760264,19.8794811,29,Na Błonie,Kraków
 50.0822699,19.8882962,146,Bronowicka,Kraków
-50.0731351,19.8856014,96,Wiedeńska,Kraków
+50.0731354,19.8856047,96,Wiedeńska,Kraków
 50.0737061,19.8805454,46,Wiedeńska,Kraków
 50.0765069,19.8821996,97,Zarzecze,Kraków
 50.0641555,19.8992166,10,Mydlnicka,Kraków
 50.069146,19.8876736,6,Odlewnicza,Kraków
 50.0685481,19.8856351,3a,Przesmyk,Kraków
-50.0732819,19.8870514,114,Wiedeńska,Kraków
 50.0733062,19.8833327,72,Wiedeńska,Kraków
 50.0736398,19.8809249,50,Wiedeńska,Kraków
 50.0735946,19.8811955,50b,Wiedeńska,Kraków
@@ -347439,12 +347430,12 @@ lat,lon,housenumber,street,city
 50.0824584,19.8863631,7,Balicka,Kraków
 50.0761104,19.881105,2,Wiedeńska,Kraków
 50.0733377,19.8830528,68,Wiedeńska,Kraków
-50.0731086,19.8853303,92,Wiedeńska,Kraków
-50.0732084,19.8863706,104,Wiedeńska,Kraków
-50.0731843,19.8860906,100,Wiedeńska,Kraków
+50.0731098,19.8853298,92,Wiedeńska,Kraków
+50.0732122,19.8863739,104,Wiedeńska,Kraków
+50.073187,19.8860954,100,Wiedeńska,Kraków
 50.0731723,19.877882,57,Na Błonie,Kraków
 50.0824973,19.8830685,41a,Balicka,Kraków
-50.0732561,19.8867694,110,Wiedeńska,Kraków
+50.0732578,19.8867717,110,Wiedeńska,Kraków
 50.0824374,19.8857132,13,Balicka,Kraków
 50.082119,19.887096,4,Balicka,Kraków
 50.0737642,19.8802808,42,Wiedeńska,Kraków
@@ -485700,12 +485691,14 @@ lat,lon,housenumber,street,city
 49.3395409,20.1006698,100,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3340418,20.0980785,170,Tadeusza Kościuszki,
 49.3382414,20.0993448,122,Tadeusza Kościuszki,Bukowina Tatrzańska
+49.3396613,20.1009998,96,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3355386,20.0982566,156,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3394518,20.1028054,84,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3360927,20.0999523,144,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3359806,20.099467,146,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3356818,20.0995198,147,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3385948,20.1004834,110,Tadeusza Kościuszki,Bukowina Tatrzańska
+49.3396516,20.1008741,97,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3385177,20.1010184,106,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3384264,20.0994802,119,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3396759,20.0999827,103 A,Tadeusza Kościuszki,Bukowina Tatrzańska
@@ -485720,6 +485713,7 @@ lat,lon,housenumber,street,city
 49.3355188,20.0987328,154,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3362824,20.0988627,145,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3388063,20.1001841,109,Tadeusza Kościuszki,Bukowina Tatrzańska
+49.3384477,20.1022974,89A,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3395875,20.1014232,94,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3383477,20.1000615,118,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3354575,20.0979845,159A,Tadeusza Kościuszki,Bukowina Tatrzańska
@@ -485737,6 +485731,7 @@ lat,lon,housenumber,street,city
 49.3276291,20.1018408,21,Leśna,Bukowina Tatrzańska
 49.3359062,20.0989107,148,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3352521,20.0985262,156a,Tadeusza Kościuszki,Bukowina Tatrzańska
+49.3390175,20.1021761,89B,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3387493,20.0998641,113,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.3382478,20.100074,118A,Tadeusza Kościuszki,Bukowina Tatrzańska
 49.5797351,20.7158159,22B,Juranda,Nowy Sącz
@@ -852085,6 +852080,8 @@ lat,lon,housenumber,street,city
 49.889921,19.659057,462B,,
 49.4386814,19.8646477,22E,Kolejowa,Czarny Dunajec
 49.4388149,19.8643808,22C,Kolejowa,Czarny Dunajec
+50.050088,19.9702552,45,Portowa,Kraków
+50.0508499,19.9714373,43,Portowa,Kraków
 49.961644,20.0773733,535,,
 49.961654,20.077521,534,,
 49.9618217,20.0774872,537,,

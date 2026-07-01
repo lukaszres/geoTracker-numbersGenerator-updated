@@ -29386,7 +29386,6 @@ lat,lon,housenumber,street,city
 53.1570778,18.1755869,3,Zwierzyniecka,Bydgoszcz
 53.1337142,17.9871167,3,Zygmunta Augusta,Bydgoszcz
 53.1338155,17.9875025,3,Zygmunta Augusta,Bydgoszcz
-53.1341478,17.9884394,3,Zygmunta Augusta,Bydgoszcz
 53.1281507,18.0070617,3,Zygmunta Krasińskiego,Bydgoszcz
 53.1282088,18.0083369,3,Zygmunta Krasińskiego,Bydgoszcz
 53.1028632,18.0382663,3,Złotowska,Bydgoszcz
@@ -128698,7 +128697,7 @@ lat,lon,housenumber,street,city
 53.3234191,19.4648144,197,,
 53.323441,19.4653865,198,,
 53.3235888,19.464632,199,,
-53.3336153,19.3783105,6,Młyńska,Zbiczno
+53.3333033,19.3757273,6,Młyńska,Zbiczno
 53.3336893,19.3786943,8,Młyńska,Zbiczno
 53.3982951,19.3540608,19A,,
 53.3097347,19.4059881,1A,,
@@ -162409,7 +162408,6 @@ lat,lon,housenumber,street,city
 52.8498401,18.6428642,1g,Księżyzna,Służewo
 52.8413344,18.6721428,2,Aleja 1000-lecia,Służewo
 52.8645987,18.7297578,2,Aleja Marii Danilewicz-Zielińskiej,Stawki
-52.8807194,18.6644679,2,Azaliowa,Rożno-Parcele
 52.8557535,18.6433499,2,Brzeska,Służewo
 52.9077222,18.7310983,2,Ciechocińska,Otłoczyn
 52.863651,18.7255023,2,Czesława Miłosza,Stawki
@@ -163122,7 +163120,6 @@ lat,lon,housenumber,street,city
 52.8504915,18.6416652,3b,Księżyzna,Służewo
 52.8427591,18.6676479,4,Aleja 1000-lecia,Służewo
 52.8635635,18.7253792,4,Aleja Marii Danilewicz-Zielińskiej,Stawki
-52.8807431,18.6641398,4,Azaliowa,Rożno-Parcele
 52.8555954,18.6433034,4,Brzeska,Służewo
 52.9165042,18.7196993,4,Brzozowa,Otłoczyn
 52.885599,18.6736069,4,Chabrowa,Rożno-Parcele
@@ -163456,7 +163453,6 @@ lat,lon,housenumber,street,city
 52.8762946,18.7060555,5l,,
 52.8759505,18.7056927,5m,,
 52.8448362,18.6600173,6,Aleja 1000-lecia,Służewo
-52.8810446,18.6638074,6,Azaliowa,Rożno-Parcele
 52.8555099,18.6432367,6,Brzeska,Służewo
 52.9080722,18.7300117,6,Ciechocińska,Otłoczyn
 52.867335,18.7214006,6,Feliksa Stamma,Łazieniec
@@ -163728,7 +163724,6 @@ lat,lon,housenumber,street,city
 52.8935987,18.739197,8,,
 52.8958673,18.7916549,8,,
 52.8974323,18.7662963,8,,
-52.8804305,18.6652206,80,Konwaliowa,Rożno-Parcele
 52.8718739,18.6385274,80,Toruńska,Służewo
 52.8326711,18.654602,80,,
 52.8723461,18.6384718,80A,Toruńska,Służewo
@@ -163753,7 +163748,6 @@ lat,lon,housenumber,street,city
 52.8259545,18.6856579,83,,
 52.8880178,18.7611839,83,,
 52.8706023,18.7208197,84,Edwarda Stachury,Łazieniec
-52.8802885,18.6644857,84,Konwaliowa,Rożno-Parcele
 52.8786643,18.6810674,84,Krokusowa,Rożno-Parcele
 52.8743906,18.6381111,84,Toruńska,Służewo
 52.8278838,18.6845591,84,,
@@ -163767,7 +163761,6 @@ lat,lon,housenumber,street,city
 52.8636717,18.7319155,85b,,
 52.88712,18.7627422,85c,,
 52.8710289,18.7212407,86,Edwarda Stachury,Łazieniec
-52.8803602,18.6640079,86,Konwaliowa,Rożno-Parcele
 52.8787241,18.6813823,86,Krokusowa,Rożno-Parcele
 52.8872812,18.7633057,86,,
 52.8872421,18.7634209,86A,,
@@ -163775,7 +163768,6 @@ lat,lon,housenumber,street,city
 52.9183215,18.7200184,87,Szlak Bursztynowy,Otłoczyn
 52.8729758,18.7079349,87,,
 52.8870893,18.7636193,87,,
-52.8803743,18.6638627,88,Konwaliowa,Rożno-Parcele
 52.886857,18.7635711,88,,
 52.8867131,18.7638618,88a,,
 52.8790319,18.6814631,89,Krokusowa,Rożno-Parcele
@@ -163836,7 +163828,6 @@ lat,lon,housenumber,street,city
 52.8959741,18.7914249,9,,
 52.8965559,18.7331982,9,,
 52.8980064,18.7654137,9,,
-52.880594,18.6632897,90,Konwaliowa,Rożno-Parcele
 52.8863764,18.7659882,90,,
 52.9223016,18.7171265,91,Szlak Bursztynowy,Otłoczyn
 52.884591,18.7589758,91,,
@@ -163844,7 +163835,6 @@ lat,lon,housenumber,street,city
 52.8842493,18.761817,92,,
 52.9252246,18.7155419,93,Szlak Bursztynowy,Otłoczyn
 52.8840449,18.7622351,93,,
-52.8821219,18.6579317,94,Konwaliowa,Rożno-Parcele
 52.8839572,18.7655471,94,,
 52.8828713,18.7634868,94a,,
 52.9271086,18.7144221,95,Szlak Bursztynowy,Otłoczyn
@@ -193089,7 +193079,6 @@ lat,lon,housenumber,street,city
 52.8789257,18.6690041,68,Konwaliowa,Rożno-Parcele
 52.8796213,18.6662973,76,Konwaliowa,Rożno-Parcele
 52.8786515,18.6701329,64,Konwaliowa,Rożno-Parcele
-52.8808826,18.6655623,78,Konwaliowa,Rożno-Parcele
 52.8806916,18.6616338,57,Konwaliowa,Rożno-Parcele
 52.8793609,18.6666063,53,Konwaliowa,Rożno-Parcele
 52.8749914,18.7066882,14,Edwarda Stachury,Łazieniec
@@ -197555,14 +197544,12 @@ lat,lon,housenumber,street,city
 52.883941,18.6552066,13,Poziomkowa,Rożno-Parcele
 52.8831218,18.6557011,8,Poziomkowa,Rożno-Parcele
 52.884141,18.6553756,15,Poziomkowa,Rożno-Parcele
-52.882954,18.6552421,5,Poziomkowa,Rożno-Parcele
 52.8894221,18.6675013,3,Malinowa,Rożno-Parcele
 52.8901508,18.6680755,11,Malinowa,Rożno-Parcele
 52.8892883,18.6692306,15,Malinowa,Rożno-Parcele
 52.8894704,18.6683452,13,Malinowa,Rożno-Parcele
 52.886166,18.6682477,63,Krokusowa,Rożno-Parcele
 52.8865054,18.6673436,66,Krokusowa,Rożno-Parcele
-52.8845591,18.6564805,7,Jeżynowa,Rożno-Parcele
 52.8847004,18.6554869,3,Jeżynowa,Rożno-Parcele
 52.8829813,18.6556241,6,Poziomkowa,Rożno-Parcele
 52.8834733,18.6558395,12,Poziomkowa,Rożno-Parcele
@@ -197572,13 +197559,11 @@ lat,lon,housenumber,street,city
 52.8843056,18.6556209,6,Jeżynowa,Rożno-Parcele
 52.8842154,18.6548642,10,Jagodowa,Rożno-Parcele
 52.882755,18.6544112,2,Jagodowa,Rożno-Parcele
-52.8841486,18.6543799,5,Jagodowa,Rożno-Parcele
 52.8830309,18.6545651,4,Jagodowa,Rożno-Parcele
 52.8828057,18.6548603,3,Poziomkowa,Rożno-Parcele
 52.8831774,18.6551458,7,Poziomkowa,Rożno-Parcele
 52.8826995,18.6556115,4,Poziomkowa,Rożno-Parcele
 52.8836538,18.6559504,14,Poziomkowa,Rożno-Parcele
-52.8833191,18.6553881,9,Poziomkowa,Rożno-Parcele
 52.8835321,18.6551669,11,Poziomkowa,Rożno-Parcele
 52.8833379,18.6557543,10,Poziomkowa,Rożno-Parcele
 52.887527,18.670161,6,Malinowa,Rożno-Parcele
@@ -197590,7 +197575,6 @@ lat,lon,housenumber,street,city
 52.8861997,18.6687573,60,Krokusowa,Rożno-Parcele
 52.8863047,18.668257,62,Krokusowa,Rożno-Parcele
 52.8800387,18.6647888,82,Konwaliowa,Rożno-Parcele
-52.8849074,18.654905,1,Jeżynowa,Rożno-Parcele
 52.8844473,18.6548431,2,Jeżynowa,Rożno-Parcele
 52.8843456,18.6552688,4,Jeżynowa,Rożno-Parcele
 52.8841504,18.6562771,8,Jeżynowa,Rożno-Parcele
@@ -227201,7 +227185,6 @@ lat,lon,housenumber,street,city
 52.8489998,18.6417992,1K,Księżyzna,Służewo
 52.8854971,18.6613602,71C,Krokusowa,Rożno-Parcele
 52.8882581,18.6859767,1,Kozacka,Aleksandrów Kujawski
-52.8837879,18.6572342,94B,Konwaliowa,Rożno-Parcele
 52.8797878,18.6610453,55B,Konwaliowa,Rożno-Parcele
 52.8848807,18.6489223,101B,Konwaliowa,Rożno-Parcele
 52.8767229,18.6784891,24,Konwaliowa,Rożno-Parcele
@@ -236492,6 +236475,7 @@ lat,lon,housenumber,street,city
 52.4627112,18.9595516,21a,Szczytno,Szczytno
 52.4560978,18.9628246,41,Szczytno,Szczytno
 52.4558451,18.9631986,42,Szczytno,Szczytno
+53.1332994,17.9920888,4d,Unii Lubelskiej,Bydgoszcz
 53.0306403,18.6927501,155,Szosa Lubicka,Toruń
 52.9936784,18.5933594,73,Poznańska,Toruń
 52.993457,18.5938861,69,Poznańska,Toruń
@@ -253106,6 +253090,7 @@ lat,lon,housenumber,street,city
 53.113056,17.9609648,105,Szubińska,Bydgoszcz
 53.112271,17.9619505,14,Bronisława Potockiego,Bydgoszcz
 53.1139194,17.9617704,105,Szubińska,Bydgoszcz
+53.052968,18.642725,37/53,Kociewska,Toruń
 53.5128525,18.4933739,33,Główna,Jeżewo
 53.5150581,18.4945999,6,Leśna,Jeżewo
 53.5125619,18.4935497,29,Główna,Jeżewo
@@ -286063,7 +286048,7 @@ lat,lon,housenumber,street,city
 53.4109025,18.4500021,1,Generała Józefa Hallera,Świecie
 53.4104977,18.4516195,159,Wojska Polskiego,Świecie
 53.411645,18.4493179,6,Tadeusza Kościuszki,Świecie
-53.2502478,19.037044,56,,
+53.2502138,19.0369973,56,,
 53.2510747,19.0326803,81a,,
 53.2518594,19.0355082,61,,
 53.2507548,19.0295972,70,,
@@ -375884,10 +375869,12 @@ lat,lon,housenumber,street,city
 52.8755919,18.7003542,27a,Wojska Polskiego,Aleksandrów Kujawski
 52.8758442,18.700094,27,Wojska Polskiego,Aleksandrów Kujawski
 52.875439,18.6775634,18A,Liliowa,Rożno-Parcele
+52.8807136,18.6645219,2,Azaliowa,Rożno-Parcele
 52.8673316,18.6921793,21,Adama Mickiewicza,Aleksandrów Kujawski
 52.8751084,18.7036042,5b,Wspólna,Aleksandrów Kujawski
 52.8726681,18.6818968,6,Generała Władysława Sikorskiego,Aleksandrów Kujawski
 52.8766311,18.7050146,2,Spółdzielcza,Aleksandrów Kujawski
+52.8807387,18.6641681,4,Azaliowa,Rożno-Parcele
 52.8803889,18.6955708,5,Stanisława Wyspiańskiego,Aleksandrów Kujawski
 52.8726006,18.696335,18,Piekarska,Aleksandrów Kujawski
 52.8778369,18.6735334,50,Konwaliowa,Rożno-Parcele
@@ -375930,17 +375917,21 @@ lat,lon,housenumber,street,city
 52.8797629,18.668799,6,Sosnowa,Rożno-Parcele
 52.8801855,18.6674281,7,Wrzosowa,Rożno-Parcele
 52.8796425,18.6685224,4,Sosnowa,Rożno-Parcele
+52.8821161,18.6579858,94,Konwaliowa,Rożno-Parcele
 52.879028,18.6723645,6,Hiacyntowa,Rożno-Parcele
 52.88173,18.6770107,9,Kwiatowa,Rożno-Parcele
 52.8684003,18.6864247,25,,
 52.8822347,18.6578877,94A,Konwaliowa,Rożno-Parcele
+52.8805462,18.6652339,80,Konwaliowa,Rożno-Parcele
 52.8801399,18.6679484,8,Wrzosowa,Rożno-Parcele
 52.8706006,18.6980162,6,Długa,Aleksandrów Kujawski
+52.8802835,18.6645388,84,Konwaliowa,Rożno-Parcele
 52.875594,18.7038824,10B,Świstucha,Aleksandrów Kujawski
 52.8777724,18.6614557,2A,,
 52.8641478,18.6763895,17a,,
 52.8625056,18.6945513,23E,,
 52.871199,18.6870151,12,Księdza Franciszka Szczygłowskiego,Aleksandrów Kujawski
+52.8805841,18.6633641,90,Konwaliowa,Rożno-Parcele
 52.8740778,18.7022292,33J,Wojska Polskiego,Aleksandrów Kujawski
 52.8740196,18.7021045,33I,Wojska Polskiego,Aleksandrów Kujawski
 52.8710212,18.6967383,9B,Krzywa,Aleksandrów Kujawski
@@ -376015,6 +376006,7 @@ lat,lon,housenumber,street,city
 52.8728621,18.6806986,7,Akacjowa,Aleksandrów Kujawski
 52.8728528,18.6809578,7a,Akacjowa,Aleksandrów Kujawski
 52.8729233,18.6806107,9,Akacjowa,Aleksandrów Kujawski
+52.8810416,18.6638636,6,Azaliowa,Rożno-Parcele
 52.8734724,18.6796243,5,Kameliowa,Rożno-Parcele
 52.8739757,18.6792473,4,Kameliowa,Rożno-Parcele
 52.8733167,18.67889,16,Akacjowa,Aleksandrów Kujawski
@@ -376151,6 +376143,8 @@ lat,lon,housenumber,street,city
 52.8784841,18.6842573,5,Dębowa,Aleksandrów Kujawski
 52.877318,18.6754307,42,Konwaliowa,Rożno-Parcele
 52.8767919,18.6850206,4,Świerkowa,Aleksandrów Kujawski
+52.8803652,18.6639372,88,Konwaliowa,Rożno-Parcele
+52.8803527,18.6640791,86,Konwaliowa,Rożno-Parcele
 52.8748463,18.7063762,12,Edwarda Stachury,Łazieniec
 52.8742292,18.6937447,7,Strażacka,Aleksandrów Kujawski
 52.8678352,18.6891363,33,,
@@ -376298,6 +376292,7 @@ lat,lon,housenumber,street,city
 52.8807023,18.6736226,7,Narcyzowa,Rożno-Parcele
 52.8803458,18.661738,55,Konwaliowa,Rożno-Parcele
 52.8798086,18.6725243,12,Hiacyntowa,Rożno-Parcele
+52.8808734,18.6657318,78,Konwaliowa,Rożno-Parcele
 52.8821844,18.6765049,6,Kwiatowa,Rożno-Parcele
 52.8785727,18.7007959,1,Pogodna,Aleksandrów Kujawski
 52.8786179,18.6902577,20,Henryka Sienkiewicza,Aleksandrów Kujawski
@@ -381801,6 +381796,7 @@ lat,lon,housenumber,street,city
 52.8717235,18.7489306,18,Kwiatowa,Odolion
 52.8664041,18.7525089,3,Cicha,Odolion
 52.8817552,18.6513637,61,Konwaliowa,Rożno-Parcele
+52.8838653,18.6569958,94B,Konwaliowa,Rożno-Parcele
 52.8854534,18.6613275,71,Krokusowa,Rożno-Parcele
 52.8879307,18.6567543,73,Krokusowa,Rożno-Parcele
 52.8880265,18.6692181,8,Malinowa,Rożno-Parcele
@@ -381816,7 +381812,7 @@ lat,lon,housenumber,street,city
 52.8885913,18.6620381,74,Krokusowa,Rożno-Parcele
 52.8854963,18.6502429,100,Konwaliowa,Rożno-Parcele
 52.8859624,18.6670073,67A,Krokusowa,Rożno-Parcele
-52.8849408,18.6543848,7,Jagodowa,Rożno-Parcele
+52.884838,18.654511,7,Jagodowa,Rożno-Parcele
 52.8892581,18.6676761,1,Malinowa,Rożno-Parcele
 52.8892595,18.6573816,76,Krokusowa,Rożno-Parcele
 52.8832677,18.6533605,98,Konwaliowa,Rożno-Parcele
@@ -396729,6 +396725,9 @@ lat,lon,housenumber,street,city
 52.8861588,18.6737891,6,Chabrowa,Rożno-Parcele
 52.8836557,18.6830046,4F,Krokusowa,Rożno-Parcele
 52.8848216,18.6783293,28,Dębowa,Rożno-Parcele
+52.8828874,18.6552764,5,Poziomkowa,Rożno-Parcele
+52.8833581,18.6554494,9,Poziomkowa,Rożno-Parcele
+52.8841057,18.6544215,5,Jagodowa,Rożno-Parcele
 52.8808906,18.6731558,3,Narcyzowa,Rożno-Parcele
 52.8776494,18.6609898,2G,,
 52.8879327,18.6861628,5,Kozacka,Aleksandrów Kujawski
@@ -405217,3 +405216,6 @@ lat,lon,housenumber,street,city
 53.1235698,19.0913235,18J,,
 52.8794853,18.6784459,17,Jarzębinowa,Rożno-Parcele
 52.8810701,18.6827902,5,Krokusowa,Rożno-Parcele
+53.5030598,18.7972833,78,Ignacego Paderewskiego,Grudziądz
+52.8848556,18.6550716,1,Jeżynowa,Rożno-Parcele
+52.8844751,18.6566232,7,Jeżynowa,Rożno-Parcele

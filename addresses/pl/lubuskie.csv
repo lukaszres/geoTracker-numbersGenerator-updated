@@ -237,7 +237,7 @@ lat,lon,housenumber,street,city
 52.590591,14.6478449,7,Piastowska,Kostrzyn nad Odrą
 51.9369731,15.4615802,79,Leona Wyczółkowskiego,Zielona Góra
 52.1482086,14.6770784,15,Oderberge,Eisenhüttenstadt
-52.4174746,14.5295762,1c,Gewerbepark-Kirschallee,Lebus
+52.4174746,14.5295762,1c,Gewerbepark Kirschallee,Lebus
 52.3490865,14.5576724,1,Jedności Robotniczej,Słubice
 52.3422411,14.5524399,8,Logenstraße,Frankfurt (Oder)
 52.1646565,15.8369798,18,1 Maja,Babimost
@@ -689,7 +689,7 @@ lat,lon,housenumber,street,city
 52.4254065,14.5343798,1,Kirschallee,Lebus
 52.4230273,14.5402945,13,Kietzer Straße,Lebus
 52.4255165,14.5340996,2,Kirschallee,Lebus
-52.418586,14.5311069,20a,Gewerbepark-Kirschallee,Lebus
+52.418586,14.5311069,20a,Gewerbepark Kirschallee,Lebus
 52.4316284,14.5344403,29a,Kietzer Chaussee,Lebus
 52.4256883,14.5338532,3,Kirschallee,Lebus
 52.4215254,14.5346274,33,Kirschallee,Lebus
@@ -20716,7 +20716,6 @@ lat,lon,housenumber,street,city
 51.7521283,15.0093954,5a,Wąska,Jasień
 51.75213,15.00922,5b,Wąska,Jasień
 51.7521317,15.0090346,5c,Wąska,Jasień
-51.78756,15.13049,52,,
 51.7263,15.01809,64,,
 51.72625,15.01808,64A,,
 51.75254,15.00938,7a,Wąska,Jasień
@@ -30141,30 +30140,30 @@ lat,lon,housenumber,street,city
 52.4186505,14.53189,59,Kirschallee,Lebus
 52.4182865,14.532447,58,Kirschallee,Lebus
 52.4181652,14.5331472,57,Kirschallee,Lebus
-52.4188138,14.5308953,21A,Gewerbepark-Kirschallee,Lebus
+52.4188138,14.5308953,21A,Gewerbepark Kirschallee,Lebus
 52.4186941,14.5305001,21B,Gewerbepark Kirschallee,Lebus
-52.4181053,14.5305956,22,Gewerbepark-Kirschallee,Lebus
-52.4178853,14.530768,19,Gewerbepark-Kirschallee,Lebus
-52.4174049,14.5304152,18B,Gewerbepark-Kirschallee,Lebus
-52.4172916,14.5311128,18A,Gewerbepark-Kirschallee,Lebus
-52.4169584,14.5321817,12,Gewerbepark-Kirschallee,Lebus
+52.4181053,14.5305956,22,Gewerbepark Kirschallee,Lebus
+52.4178853,14.530768,19,Gewerbepark Kirschallee,Lebus
+52.4174049,14.5304152,18B,Gewerbepark Kirschallee,Lebus
+52.4172916,14.5311128,18A,Gewerbepark Kirschallee,Lebus
+52.4169584,14.5321817,12,Gewerbepark Kirschallee,Lebus
 52.4173644,14.5320783,17,Gewerbepark Kirschallee,Lebus
-52.4169535,14.5324284,16,Gewerbepark-Kirschallee,Lebus
+52.4169535,14.5324284,16,Gewerbepark Kirschallee,Lebus
 52.4161026,14.5332135,14A,Gewerbepark Kirschallee,Lebus
 52.4163986,14.5332825,15A,Gewerbepark Kirschallee,Lebus
-52.4161802,14.5321366,14,Gewerbepark-Kirschallee,Lebus
-52.4159748,14.5320809,13,Gewerbepark-Kirschallee,Lebus
-52.4167222,14.5316937,11,Gewerbepark-Kirschallee,Lebus
-52.4162174,14.5315982,10,Gewerbepark-Kirschallee,Lebus
-52.4159521,14.5314868,9,Gewerbepark-Kirschallee,Lebus
+52.4161802,14.5321366,14,Gewerbepark Kirschallee,Lebus
+52.4159748,14.5320809,13,Gewerbepark Kirschallee,Lebus
+52.4167222,14.5316937,11,Gewerbepark Kirschallee,Lebus
+52.4162174,14.5315982,10,Gewerbepark Kirschallee,Lebus
+52.4159521,14.5314868,9,Gewerbepark Kirschallee,Lebus
 52.4164326,14.5307866,8,Gewerbepark Kirschallee,Lebus
-52.4168581,14.5309484,7,Gewerbepark-Kirschallee,Lebus
-52.4169681,14.5300466,6,Gewerbepark-Kirschallee,Lebus
+52.4168581,14.5309484,7,Gewerbepark Kirschallee,Lebus
+52.4169681,14.5300466,6,Gewerbepark Kirschallee,Lebus
 52.4165976,14.5296832,5,Gewerbepark Kirschallee,Lebus
 52.4163905,14.5292668,4,Gewerbepark Kirschallee,Lebus
 52.4166914,14.5294392,3,Gewerbepark Kirschallee,Lebus
-52.417654,14.529845,1B,Gewerbepark-Kirschallee,Lebus
-52.4177915,14.5298954,1A,Gewerbepark-Kirschallee,Lebus
+52.417654,14.529845,1B,Gewerbepark Kirschallee,Lebus
+52.4177915,14.5298954,1A,Gewerbepark Kirschallee,Lebus
 52.4048212,14.5299429,1,Unterkrug,Lebus
 52.4197932,14.5286067,1A,Am Elisenberg,Lebus
 52.4200873,14.5286854,2,Am Elisenberg,Lebus
@@ -32910,7 +32909,6 @@ lat,lon,housenumber,street,city
 51.7897836,14.9701026,25,Kanałowa,Lubsko
 51.785415,14.971128,2,Tkacka,Lubsko
 51.7751151,14.9970914,166,,
-51.7529662,15.0303939,6,Zacisze,Jasień
 51.7847489,14.9701396,2,Gazowa,Lubsko
 51.7838448,14.9694585,5,Szkolna,Lubsko
 51.7784467,14.937684,2,Lisia,Lubsko
@@ -39381,7 +39379,6 @@ lat,lon,housenumber,street,city
 51.6978393,15.3004895,60D,,
 51.7052759,15.2918163,82A,,
 51.7692794,15.1005514,10B,,
-51.7864486,15.1244466,43C,,
 51.6859284,15.0725859,33,,
 51.6829117,15.1782094,58,,
 51.6875576,15.1905324,144A,,
@@ -49711,7 +49708,7 @@ lat,lon,housenumber,street,city
 52.8775535,15.5299593,21,Bolesława Chrobrego,Strzelce Krajeńskie
 52.8743089,15.5291694,6A,Ogrodowa,Strzelce Krajeńskie
 52.4208098,14.5298209,15a,Frankfurter Straße,Lebus
-52.4167098,14.5323577,15,Gewerbepark-Kirschallee,Lebus
+52.4167098,14.5323577,15,Gewerbepark Kirschallee,Lebus
 52.3637429,14.5394262,41,Kliestower Weg,
 52.3637104,14.5393311,40,Kliestower Weg,
 52.3636797,14.539243,39,Kliestower Weg,
@@ -50041,7 +50038,6 @@ lat,lon,housenumber,street,city
 51.8263794,14.9782011,1,Wiejska,Górzyn
 51.7768295,14.9887438,54,Ogrodowa,Budziechów
 51.7808718,14.9775781,14,Jasieńska,Lubsko
-51.7693211,15.0002126,54A,,
 51.7803529,15.0204145,88A,,
 51.7801732,15.0217965,94,,
 51.7792539,15.0253467,26A,,
@@ -51045,7 +51041,7 @@ lat,lon,housenumber,street,city
 52.4322766,14.5328392,13b,Kietzer Chaussee,Lebus
 52.432953,14.5329367,14h,Kietzer Chaussee,Lebus
 52.4298978,14.533652,32a,Kietzer Chaussee,Lebus
-52.4182177,14.5313322,20e,Gewerbepark-Kirschallee,Lebus
+52.4182177,14.5313322,20e,Gewerbepark Kirschallee,Lebus
 52.4195208,14.5326363,8,Schlehenweg,Lebus
 52.4195983,14.5324109,10,Schlehenweg,Lebus
 52.4196293,14.5321458,12,Schlehenweg,Lebus
@@ -52418,7 +52414,7 @@ lat,lon,housenumber,street,city
 51.8930798,15.5538148,7,Drzonków-Lipowa,Zielona Góra
 52.004605,15.279667,35,,
 52.0045018,15.27963,35C,,
-51.943714,14.7079115,53,Kaltenborner Str.,Guben
+51.943714,14.7079115,53,Kaltenborner Straße,Guben
 52.4388154,15.1189006,3,Kupiecka,Sulęcin
 52.7311036,15.2420473,8,Obotrycka,
 52.8341815,15.8397682,9A,Cicha,Drezdenko
@@ -53308,7 +53304,7 @@ lat,lon,housenumber,street,city
 51.8084719,14.8319658,82,,Biecz
 52.7171744,15.1168422,99,,Racław
 52.427178,14.5323951,1,Kietzer Chaussee,Lebus
-52.4175282,14.5297737,1C,Gewerbepark-Kirschallee,Lebus
+52.4175282,14.5297737,1C,Gewerbepark Kirschallee,Lebus
 52.853123,15.8360037,2,Dworcowa,Drezdenko
 52.8531021,15.8363321,1,Dworcowa,Drezdenko
 52.2715888,15.8140168,11,Chlastawska,Dąbrówka Wielkopolska
@@ -53756,7 +53752,6 @@ lat,lon,housenumber,street,city
 51.6217241,15.1513257,34,Leśna,Żary
 52.6649539,15.2162064,1a,,
 51.915819,15.5604051,10,Witkiewicza,Zielona Góra
-51.7689856,15.1003829,10C,,
 51.6366634,15.1451533,4,Siostry Marii Edelburgis,Żary
 51.8882408,16.0698858,11,Radosna,Sława
 51.8889498,16.0696379,1,Szczęśliwa,Sława
@@ -60486,7 +60481,6 @@ lat,lon,housenumber,street,city
 52.7295348,15.2275661,44,Generała Władysława Sikorskiego,Gorzów Wielkopolski
 52.7292851,15.227524,43,Generała Władysława Sikorskiego,Gorzów Wielkopolski
 52.7295376,15.2281032,42,Generała Władysława Sikorskiego,Gorzów Wielkopolski
-52.7294447,15.2289675,8a,Dworcowa,Gorzów Wielkopolski
 52.7297608,15.2289287,39,Generała Władysława Sikorskiego,Gorzów Wielkopolski
 52.7297448,15.2287532,40,Generała Władysława Sikorskiego,Gorzów Wielkopolski
 52.7297309,15.2285921,41,Generała Władysława Sikorskiego,Gorzów Wielkopolski
@@ -124356,7 +124350,7 @@ lat,lon,housenumber,street,city
 51.7511041,15.0140871,2,Tadeusza Kościuszki,Jasień
 51.7491534,15.0127422,2,Tokarska,Jasień
 51.7526732,15.0301442,2,Wodna,Jasień
-51.7528541,15.0301474,2,Zacisze,Jasień
+51.7528541,15.0301474,6,Zacisze,Jasień
 51.7506746,15.0131759,2,Żwirowa,Jasień
 51.7458418,15.0150067,20,Henryka Sienkiewicza,Jasień
 51.7483144,15.0110692,20,I Armii,Jasień
@@ -124425,7 +124419,7 @@ lat,lon,housenumber,street,city
 51.7525106,15.0264217,59,Kolejowa,Jasień
 51.7512871,15.0134485,5C,Jana Pawła II,Jasień
 51.7511517,15.0135422,5D,Jana Pawła II,Jasień
-51.7500791,15.0097229,6,I Armii,Jasień
+51.750079,15.0097227,6,I Armii,Jasień
 51.7501218,15.0123278,6,Kościelna,Jasień
 51.7540749,15.0114342,6,Obrońców,Jasień
 51.7511041,15.0099927,6,Plac Armii Krajowej,Jasień
@@ -153787,7 +153781,7 @@ lat,lon,housenumber,street,city
 51.6896616,15.1226841,48,,
 51.7867257,15.1292956,48,,
 51.7223684,15.2009169,49,Górna,Bieniów
-51.7874144,15.1296212,49,,
+51.7874143,15.1296207,49,,
 51.7198211,15.1811226,4A,Górna,Bieniów
 51.71867,15.1717953,4C,Dolna,Bieniów
 51.7188057,15.1714393,4D,Dolna,Bieniów
@@ -153822,7 +153816,7 @@ lat,lon,housenumber,street,city
 51.8502214,15.2618246,5,Zacisze,Bogaczów
 51.7186454,15.1773457,5,Zielonogórska,Bieniów
 51.8562619,15.2541164,50,Aleja Lipowa,Bogaczów
-51.7872476,15.1303393,50,,
+51.787247,15.1303406,50,,
 51.7227937,15.2031419,51,Górna,Bieniów
 51.6889845,15.1216613,51A,,
 51.6891472,15.1218776,51,,
@@ -153850,7 +153844,7 @@ lat,lon,housenumber,street,city
 51.6914246,15.1163504,58,,
 51.7878313,15.1274795,58,,
 51.723436,15.2081419,59,Górna,Bieniów
-51.7878053,15.1271862,59,,
+51.7878122,15.1271893,59,,
 51.9106055,15.0882908,5A,,
 51.8460317,15.1960126,5A,,
 51.8427285,15.2138453,5,,
@@ -154020,6 +154014,8 @@ lat,lon,housenumber,street,city
 51.910161,15.1483365,12,,
 51.9101621,15.1532101,38,,
 51.9084832,15.1474194,4,,
+51.7873864,15.1308999,51,Zabłocie,
+51.7876842,15.1305171,52,Zabłocie,
 51.9098992,15.1489947,11,,
 51.9101812,15.1488009,10,,
 51.7879933,15.1254944,64B,,
@@ -172147,7 +172143,7 @@ lat,lon,housenumber,street,city
 51.8260374,14.9227156,16,,
 51.767549,15.0791913,12,,
 51.7684875,15.0763585,38,,
-51.7680885,15.0802039,52,,
+51.7680888,15.0802037,52,,
 51.7679031,15.0797125,51,,
 51.7675809,15.0796046,10,,
 51.7676079,15.0799492,9,,
@@ -172156,7 +172152,7 @@ lat,lon,housenumber,street,city
 51.7678336,15.0781332,47,,
 51.7684005,15.0807457,1,,
 51.7689601,15.0804988,53,,
-51.7678389,15.0789421,49A,,
+51.767839,15.0789419,49A,,
 51.7678061,15.0785463,48,,
 51.7676314,15.0802688,8,,
 51.7675136,15.0787795,14,,
@@ -180565,24 +180561,24 @@ lat,lon,housenumber,street,city
 51.7733777,14.9940728,70,,
 51.7735538,14.9938967,71,,
 51.7732389,14.9938181,94,,
-51.775034,14.9915251,20,,
+51.7750378,14.9915249,20,,
 51.774081,14.9933999,73,,
-51.7748984,14.9934963,76,,
+51.7749036,14.9934971,76,,
 51.7752562,14.9923856,79,,
-51.7731518,14.9934945,31,,
+51.773152,14.9934842,31,,
 51.7733644,14.9936855,93,,
-51.7731524,14.9932682,30,,
-51.7743651,14.9931336,73a,,
+51.7731554,14.9932675,30,,
+51.7743678,14.9931334,73a,,
 51.7734107,14.9929058,29,,
 51.7738192,14.992736,27,,
 51.7737235,14.9937278,72,,
-51.7730043,14.9936457,32,,
+51.7730088,14.9936494,32,,
 51.7733022,14.9935427,92,,
 51.7735234,14.9929968,28,,
 51.7736063,14.9933157,91,,
 51.7740386,14.9925221,26,,
 51.7727893,14.9936655,33,,
-51.774642,14.993123,74,,
+51.7746837,14.9932334,74,,
 51.7741938,14.9922594,25,,
 51.7745147,14.9917654,23,,
 51.7733162,14.9979825,63,,
@@ -180629,6 +180625,7 @@ lat,lon,housenumber,street,city
 51.7782107,14.9884252,88,,
 51.7738133,14.9718686,9,Artyleryjska,Lubsko
 51.7735245,14.9724898,17,Artyleryjska,Lubsko
+51.7693267,15.0001264,54A,Budziechów,
 51.7809844,14.9808554,77,Wrocławska,Lubsko
 51.7770141,14.9871447,3,,
 51.777423,14.9875658,2,,
@@ -180857,6 +180854,7 @@ lat,lon,housenumber,street,city
 51.7689377,15.1064207,25,,
 51.7687545,15.1046343,20,,Guzów
 51.7647856,15.1085823,30,,
+51.7690234,15.1002635,10C,,
 51.7683352,15.1044736,20A,,Guzów
 51.7679327,15.1057281,31,,
 51.7642426,15.1092677,29,,
@@ -209486,6 +209484,7 @@ lat,lon,housenumber,street,city
 51.7591533,15.1981507,17A,Dąbrowiec,
 51.7689608,15.0781215,57B,,
 51.7712055,15.0961984,82,Guzów,
+51.7866346,15.1244621,43C,,
 51.7342989,15.0713936,18A,Bieszków,Jasień
 51.7454122,15.0275443,91A,Żarska,Jasień
 51.7563819,15.2021176,12,Dąbrowiec,
@@ -211569,3 +211568,4 @@ lat,lon,housenumber,street,city
 51.7718957,14.9917765,38B,,
 51.7743782,14.9900179,29,Ogrodowa,Budziechów
 51.7719551,14.9923937,5,Ogrodowa,Budziechów
+51.7872675,15.130869,51B,Zabłocie,

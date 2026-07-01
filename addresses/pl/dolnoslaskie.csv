@@ -16262,7 +16262,6 @@ lat,lon,housenumber,street,city
 51.1144344,17.0632883,66,Grunwaldzka,Wrocław
 51.0552076,17.0156577,33,Majora Henryka Sucharskiego,Wrocław
 51.0965393,17.0141489,62,Gajowicka,Wrocław
-51.1236901,16.9159723,1-3,Strachowicka,Wrocław
 51.0991182,16.94122,103,Stanisławowska,Wrocław
 51.0779024,17.0486133,18,Mieczysława Orłowicza,Wrocław
 51.1477796,16.8784677,27a,Jeleniogórska,Wrocław
@@ -30519,7 +30518,6 @@ lat,lon,housenumber,street,city
 51.0790639,16.9648408,14,Ludwika Solskiego,Wrocław
 51.1160754,17.1273535,18,Miłoszycka,Wrocław
 51.1092491,16.9680219,83,Belgijska,Wrocław
-51.1223317,16.9142997,15,Strachowicka,Wrocław
 51.1397394,17.0924662,38,Rakowa,Wrocław
 51.1058854,16.9627944,56a,Grecka,Wrocław
 51.1208148,17.0312739,51,Pomorska,Wrocław
@@ -83186,7 +83184,6 @@ lat,lon,housenumber,street,city
 51.3664056,17.4684744,17,Rynek,Twardogóra
 51.0930267,17.1921779,8-10,Wrocławska,Dobrzykowice
 51.253232,15.5807085,48i,Stefana Starzyńskiego,Bolesławiec
-51.1123082,17.0555755,18,Benedykta Polaka,Wrocław
 50.5513441,16.6894483,14,,
 50.4979358,16.2684269,199,,
 50.3750708,16.311093,254,,
@@ -187338,7 +187335,6 @@ lat,lon,housenumber,street,city
 51.2610101,17.3470416,20A,Tęczowa,Dobroszyce
 51.2610677,17.3471144,20,Tęczowa,Dobroszyce
 51.0789818,17.0208986,148,Ślężna,Wrocław
-51.1117824,17.0545692,10/U4,Benedykta Polaka,
 51.1098451,17.0244462,46A/007,Ruska,
 51.1190558,17.0396496,32,Jana Kilińskiego,
 50.8634468,15.6668685,70a,Cieplicka,Jelenia Góra
@@ -188537,7 +188533,6 @@ lat,lon,housenumber,street,city
 50.715584,16.4470869,4B,Wiejska,Walim
 50.7157594,16.4417613,9B,Górnośląska,Walim
 50.7164815,16.4463944,3E,Wiejska,Walim
-51.1120485,17.0547767,14/U2,Benedykta Polaka,Wrocław
 51.1354675,16.9742679,8c1,Kolista,
 51.1386173,16.9643795,8,Dokerska,Wrocław
 51.1392583,16.9641577,16,Dokerska,Wrocław
@@ -190332,7 +190327,7 @@ lat,lon,housenumber,street,city
 51.0587086,17.0678363,21,Sosnowa,Iwiny
 51.0453039,17.091275,1,Orzechowa,Zacharzyce
 51.0447976,17.0912346,5A,Orzechowa,Zacharzyce
-51.0416349,17.0789235,31,Malinowa,Iwiny
+51.0416803,17.0788617,31,Malinowa,Iwiny
 51.0386897,17.106356,7,aleja Róż,Zacharzyce
 51.101559,17.1560156,4,Chrząstawska,Wrocław
 51.0816399,17.1591435,1,Wałowa,Łany
@@ -193136,7 +193131,7 @@ lat,lon,housenumber,street,city
 51.1552139,16.7893174,17A,Długa,Wróblowice
 51.1542587,16.7872622,6B,Długa,Wróblowice
 51.1547084,16.7894053,20,Długa,Wróblowice
-51.1575871,16.7827322,14,Boczna,Wróblowice
+51.1575915,16.7826525,14,Boczna,Wróblowice
 51.156366,16.7911805,6,Akacjowa,Wróblowice
 51.1521239,16.8011971,7,Innowacyjna,Wróblowice
 51.1537042,16.7809973,1,Sosnowa,Wróblowice
@@ -194024,7 +194019,7 @@ lat,lon,housenumber,street,city
 51.120554,16.8703297,9A,Heleny i Ludwika Adamczewskich,Wrocław
 51.112,16.9113099,12E,Generała Witolda Urbanowicza,Wrocław
 51.1352407,16.9204461,26,Ernsta Maya,Wrocław
-51.1238488,16.9156982,280,Żernicka,Wrocław
+51.1238473,16.9156987,280,Żernicka,Wrocław
 51.1314475,16.8555304,32,Dukielska,Wrocław
 51.1312831,16.8549122,16,Dukielska,Wrocław
 50.6458949,16.476191,54,Kolonia Jana Kasprowicza,Ludwikowice Kłodzkie
@@ -194147,7 +194142,7 @@ lat,lon,housenumber,street,city
 51.0468509,17.0784943,38C,Miodowa,Iwiny
 51.0470805,17.0780609,42C,Miodowa,Iwiny
 51.0471696,17.0774384,46A,Miodowa,Iwiny
-51.0472949,17.0771925,48A,Miodowa,Iwiny
+51.0473384,17.0771479,48A,Miodowa,Iwiny
 51.0470165,17.0779779,42B,Miodowa,Iwiny
 51.041062,17.0783837,27,Malinowa,Iwiny
 51.0414006,17.0786999,29A,Malinowa,Iwiny
@@ -194163,11 +194158,11 @@ lat,lon,housenumber,street,city
 51.0471961,17.0778372,44C,Miodowa,Iwiny
 51.0471272,17.0777455,44B,Miodowa,Iwiny
 51.0467553,17.077995,40,Miodowa,Iwiny
-51.0474478,17.0773807,48C,Miodowa,Iwiny
-51.0472207,17.0770852,48,Miodowa,Iwiny
+51.0474707,17.0773318,48C,Miodowa,Iwiny
+51.0472778,17.0770828,48,Miodowa,Iwiny
 51.0469719,17.0782643,40C,Miodowa,Iwiny
 51.0472445,17.0775356,46B,Miodowa,Iwiny
-51.0473733,17.0772878,48B,Miodowa,Iwiny
+51.047414,17.0772673,48B,Miodowa,Iwiny
 51.0476193,17.0770236,50A,Miodowa,Iwiny
 51.0467186,17.0783133,38A,Miodowa,Iwiny
 51.0413204,17.078623,29,Malinowa,Iwiny
@@ -195396,6 +195391,9 @@ lat,lon,housenumber,street,city
 51.1384623,16.8507688,45,Miodowa,Wrocław
 51.0955691,16.9892643,39/303,Inżynierska,Wrocław
 51.0955502,16.9892589,39/303,Inżynierska,Wrocław
+51.167269,16.8988146,118,Stabłowicka,Wrocław
+51.1134761,17.0508603,9,Szczytnicka,Wrocław
+51.1144997,17.051841,30/3-4,Mikołaja Sępa-Szarzyńskiego,Wrocław
 50.7346038,15.6957829,203,,
 50.7394845,15.7287962,20,Na Śnieżkę,Karpacz
 50.7621219,15.6351786,108,,
@@ -252451,49 +252449,49 @@ lat,lon,housenumber,street,city
 51.042698,17.07312,45,Tadeusza Kościuszki,Iwiny
 51.0408212,17.0735458,38,Tadeusza Kościuszki,Iwiny
 51.04251,17.0701221,48,Tadeusza Kościuszki,Iwiny
-51.0400038,17.0763969,2a,Tadeusza Kościuszki,Iwiny
-51.041355,17.0733832,42,Tadeusza Kościuszki,Iwiny
+51.039941,17.076613,2a,Tadeusza Kościuszki,Iwiny
+51.04131,17.072988,42,Tadeusza Kościuszki,Iwiny
 51.0408742,17.0736011,38a,Tadeusza Kościuszki,Iwiny
 51.046213,17.073271,4,Wrzosowa,Iwiny
-51.0402703,17.077327,9,Tadeusza Kościuszki,Iwiny
+51.040322,17.077624,9,Tadeusza Kościuszki,Iwiny
 51.0453628,17.0733677,20,Magnoliowa,Iwiny
 51.0422486,17.0698178,1,Wiśniowa,Iwiny
 51.0420173,17.0731964,37,Tadeusza Kościuszki,Iwiny
 51.0403088,17.0741557,6,Sadowa,Iwiny
 51.0410116,17.0739262,36,Tadeusza Kościuszki,Iwiny
 51.0425263,17.0699419,50,Tadeusza Kościuszki,Iwiny
-51.0401735,17.0778258,7,Tadeusza Kościuszki,Iwiny
+51.040099,17.077648,7,Tadeusza Kościuszki,Iwiny
 51.0426324,17.0721559,4,Tadeusza Kościuszki,Iwiny
 51.039925,17.0771731,2b,Tadeusza Kościuszki,Iwiny
 51.0424349,17.0720691,47,Tadeusza Kościuszki,Iwiny
 51.0437093,17.0708537,29,Zielona,Iwiny
 51.0413939,17.0707154,10,Łąkowa,Iwiny
 51.0402617,17.0737036,10,Sadowa,Iwiny
-51.0402029,17.0789822,1a,Tadeusza Kościuszki,Iwiny
+51.040165,17.079143,1a,Tadeusza Kościuszki,Iwiny
 51.0425955,17.0715266,51,Tadeusza Kościuszki,Iwiny
-51.0416955,17.0732027,44,Tadeusza Kościuszki,Iwiny
-51.0399335,17.0788971,1,Tadeusza Kościuszki,Iwiny
+51.041609,17.073348,44,Tadeusza Kościuszki,Iwiny
+51.039925,17.07888,1,Tadeusza Kościuszki,Iwiny
 51.0446658,17.0728413,12,Magnoliowa,Iwiny
 51.0442845,17.0703094,6,Spacerowa,Iwiny
 51.0440098,17.0709654,6a,Spacerowa,Iwiny
 51.0416412,17.0725402,46,Tadeusza Kościuszki,Iwiny
 51.0413581,17.0736272,36a,Tadeusza Kościuszki,Iwiny
-51.0399957,17.0784287,3,Tadeusza Kościuszki,Iwiny
+51.039875,17.078398,3,Tadeusza Kościuszki,Iwiny
 51.0416805,17.069509,8,Wiśniowa,Iwiny
 51.0430638,17.0711036,6,Zielona,Iwiny
 51.0428934,17.0722701,47b,Tadeusza Kościuszki,Iwiny
 51.0410326,17.0709516,12,Łąkowa,Iwiny
-51.0394407,17.0794531,2e,Tadeusza Kościuszki,Iwiny
+51.039407,17.079435,2e,Tadeusza Kościuszki,Iwiny
 51.0390836,17.0788562,4,Braterska,Iwiny
 51.0390315,17.0792998,2,Braterska,Iwiny
-51.039468,17.0792537,2d,Tadeusza Kościuszki,Iwiny
+51.03948,17.079099,2d,Tadeusza Kościuszki,Iwiny
 51.0411091,17.075233,21,Tadeusza Kościuszki,Iwiny
 51.0408671,17.0755687,19,Tadeusza Kościuszki,Iwiny
 51.0405903,17.0768712,13,Tadeusza Kościuszki,Iwiny
-51.0406818,17.0760593,17,Tadeusza Kościuszki,Iwiny
+51.04065,17.076097,17,Tadeusza Kościuszki,Iwiny
 51.0404364,17.0766187,15,Tadeusza Kościuszki,Iwiny
-51.0392771,17.0800137,2f,Tadeusza Kościuszki,Iwiny
-51.0395258,17.0785765,2c,Tadeusza Kościuszki,Iwiny
+51.039316,17.079892,2f,Tadeusza Kościuszki,Iwiny
+51.039512,17.078707,2c,Tadeusza Kościuszki,Iwiny
 51.0428268,17.0746249,10,Ptasia,Iwiny
 51.043845,17.074487,10,Miodowa,Iwiny
 51.0436354,17.0748094,15,Słoneczna,Iwiny
@@ -252509,10 +252507,10 @@ lat,lon,housenumber,street,city
 51.0432751,17.0772031,1,Pogodna,Iwiny
 51.043618,17.074429,8,Miodowa,Iwiny
 51.043562,17.074067,6,Miodowa,Iwiny
-51.0397178,17.0756058,1,Kolejowa,Iwiny
+51.039675,17.075754,1,Kolejowa,Iwiny
 51.0442788,17.0748754,12,Miodowa,Iwiny
 51.043158,17.076683,6,Słoneczna,Iwiny
-51.0398119,17.0750374,3a,Kolejowa,Iwiny
+51.039812,17.075034,3a,Kolejowa,Iwiny
 51.041996,17.076306,2,Ptasia,Iwiny
 51.0420012,17.07524,3,Ptasia,Iwiny
 51.043762,17.076247,5,Pogodna,Iwiny
@@ -279434,16 +279432,16 @@ lat,lon,housenumber,street,city
 51.1525471,16.7704956,2B,Wrocławska,Wróblowice
 51.1545713,16.78554,5,Słoneczna,Wróblowice
 51.154115,16.7855955,23A,Lutyńska,Wróblowice
-51.1549533,16.7890944,14,Długa,Wróblowice
+51.154934,16.789096,14,Długa,Wróblowice
 51.1539005,16.7854104,25,Lutyńska,Wróblowice
 51.1543897,16.7878215,8A,Długa,Wróblowice
 51.155256,16.7879828,10,Długa,Wróblowice
 51.1553409,16.7859858,1,Słoneczna,Wróblowice
 51.155341,16.7873419,6,Długa,Wróblowice
-51.1548138,16.7878373,8,Długa,Wróblowice
+51.15474,16.787844,8,Długa,Wróblowice
 51.1552056,16.7850173,17,Lutyńska,Wróblowice
 51.1547094,16.7846886,21,Lutyńska,Wróblowice
-51.1550702,16.7885787,12,Długa,Wróblowice
+51.155033,16.788738,12,Długa,Wróblowice
 51.1546607,16.7873142,6A,Długa,Wróblowice
 51.154681,16.7897622,22,Długa,Wróblowice
 51.1547758,16.7903023,24,Długa,Wróblowice
@@ -346086,26 +346084,26 @@ lat,lon,housenumber,street,city
 51.1561333,16.7837056,12,Lutyńska,Wróblowice
 51.155961,16.7837452,14,Lutyńska,Wróblowice
 51.1556734,16.783808,16,Lutyńska,Wróblowice
-51.1573228,16.7833989,2,Lutyńska,Wróblowice
+51.157331,16.78331,2,Lutyńska,Wróblowice
 51.1545223,16.7840379,2,Osiedlowa,Wróblowice
-51.1591901,16.7863332,2,Wiśniowa,Wróblowice
-51.1581004,16.7832247,2,Wrocławska,Wróblowice
+51.159141,16.786328,2,Wiśniowa,Wróblowice
+51.158014,16.783213,2,Wrocławska,Wróblowice
 51.1546828,16.7849563,21b,Lutyńska,Wróblowice
 51.1540571,16.7844685,22,Lutyńska,Wróblowice
 51.1538238,16.7847101,24,Lutyńska,Wróblowice
 51.1535911,16.7849639,26,Lutyńska,Wróblowice
 51.1518498,16.7725839,2A,Wrocławska,Wróblowice
 51.1569921,16.7833911,4,Lutyńska,Wróblowice
-51.1580874,16.7838801,4,Wrocławska,Wróblowice
+51.158088,16.783874,4,Wrocławska,Wróblowice
 51.1567294,16.7833987,6,Lutyńska,Wróblowice
 51.1599297,16.785808,7,Wiśniowa,Wróblowice
 51.1565376,16.7835573,8,Lutyńska,Wróblowice
 51.1555341,16.7841208,2,Stawowa,Wróblowice
 51.1570437,16.7854141,10,Słoneczna,Wróblowice
 51.157004,16.778216,22,Stawowa,Wróblowice
-51.1574415,16.7839202,3,Lutyńska,Wróblowice
+51.157443,16.783983,3,Lutyńska,Wróblowice
 51.1573711,16.7854648,9,Lutyńska,Wróblowice
-51.1577853,16.7839232,1,Lutyńska,Wróblowice
+51.157786,16.783915,1,Lutyńska,Wróblowice
 51.1569368,16.779361,18,Stawowa,Wróblowice
 50.4387082,16.6529831,1a,Tumska,Kłodzko
 50.4320932,16.6490031,2,Harcerzy,Kłodzko
@@ -346412,7 +346410,7 @@ lat,lon,housenumber,street,city
 51.1596888,16.7211885,3,Średzka,Źródła
 51.1597825,16.7208618,5,Średzka,Źródła
 51.1594473,16.720317,7,Średzka,Źródła
-51.1576195,16.7284011,8,Familijna,Źródła
+51.157615,16.728561,8,Familijna,Źródła
 50.5304453,16.7558028,28,,
 50.5306331,16.756563,24a,,
 50.5292999,16.7538767,36,,
@@ -371460,7 +371458,7 @@ lat,lon,housenumber,street,city
 50.2379352,16.7166149,195,,
 50.2384968,16.7153727,194,,
 50.239981,16.7136915,188,,
-50.2390237,16.7147593,190,,
+50.2390392,16.7146544,190,,
 50.2401412,16.7122176,187,,
 50.238557,16.7152264,192,,
 50.2403517,16.7128641,186,,
@@ -371469,7 +371467,7 @@ lat,lon,housenumber,street,city
 50.2441771,16.7077215,163a,,
 50.2423764,16.7112158,177,,
 50.2413543,16.7112709,180,,
-50.2441656,16.7089079,170,,
+50.2441759,16.7089168,170,,
 50.2443999,16.7056387,157,,
 50.2443083,16.7084737,165,,
 50.2438417,16.7073198,167,,
@@ -371481,12 +371479,12 @@ lat,lon,housenumber,street,city
 50.2479937,16.6892677,117,,
 50.2471783,16.6986698,144a,,
 50.2477071,16.7019218,150,,
-50.2451286,16.7080349,162,,
+50.245139,16.7080627,162,,
 50.2483826,16.6958455,137,,
 50.2484632,16.7005013,149,,
-50.2481047,16.6949033,136,,
+50.2481091,16.6949345,136,,
 50.2485727,16.6888217,116,,
-50.2461315,16.7047739,150b,,
+50.2461303,16.7047738,150b,,
 50.2453576,16.7045458,154,,
 50.2489978,16.688563,113B,,
 50.2484181,16.6913344,128,,
@@ -371495,7 +371493,7 @@ lat,lon,housenumber,street,city
 50.2450515,16.7063961,159,,
 50.2458069,16.7077293,161,,
 50.2483485,16.6900131,126a,,
-50.245609,16.7077721,161A,,
+50.245608,16.7077708,161A,,
 50.248773,16.6943367,138a,,
 50.2479952,16.6951952,135,,
 50.2457929,16.7052818,158,,
@@ -371521,7 +371519,7 @@ lat,lon,housenumber,street,city
 50.2499931,16.6846183,107,,
 50.2508153,16.6861193,102d,,
 50.2519732,16.6837805,102A,,
-50.2503939,16.6847262,106,,
+50.2503552,16.6847262,106,,
 50.2513918,16.6837522,102,,
 50.2503197,16.6871342,102G,,
 50.25058,16.686537,102F,,
@@ -382945,7 +382943,7 @@ lat,lon,housenumber,street,city
 50.7230051,16.5898691,26,Świdnicka,Pieszyce
 50.7008762,16.5693105,106b,Mikołaja Kopernika,Pieszyce
 51.1364786,16.7769771,46,Kościelna,Lutynia
-51.1376605,16.7762243,13,Słoneczna,Lutynia
+51.137642,16.776222,13,Słoneczna,Lutynia
 51.1371029,16.7777828,16,Słoneczna,Lutynia
 51.1360632,16.7776055,52,Tadeusza Kościuszki,Lutynia
 51.1384125,16.6842518,1b,,
@@ -382966,7 +382964,7 @@ lat,lon,housenumber,street,city
 51.135592,16.7788392,61,Tadeusza Kościuszki,Lutynia
 51.1367323,16.7835576,5,Wróblowicka,Lutynia
 51.1394446,16.6853204,1,,
-51.1374837,16.7772635,19,Słoneczna,Lutynia
+51.137409,16.777253,19,Słoneczna,Lutynia
 51.1373958,16.7787152,21,Słoneczna,Lutynia
 51.1286193,16.6708337,75,,
 50.7031535,16.1127343,12,,
@@ -389899,7 +389897,7 @@ lat,lon,housenumber,street,city
 51.1563093,16.724564,6,Sportowa,Źródła
 51.1633527,16.8138879,5,Morwowa,Krępice
 51.1557484,16.7830378,4,Stawowa,Wróblowice
-51.1558472,16.7881178,13,Długa,Wróblowice
+51.155839,16.788291,13,Długa,Wróblowice
 51.1600954,16.7546114,2,Cicha,Błonie
 51.1624933,16.8127171,21,Wrocławska,Krępice
 51.1040147,16.6078267,23,,
@@ -390029,7 +390027,7 @@ lat,lon,housenumber,street,city
 51.1586379,16.7225584,1,Ogrodowa,Źródła
 51.1642948,16.8068129,2,Wróblowicka,Krępice
 51.1587606,16.7230372,4,Akacjowa,Źródła
-51.1553663,16.7885412,15,Długa,Wróblowice
+51.155396,16.788605,15,Długa,Wróblowice
 51.1643048,16.8122061,11,Morwowa,Krępice
 51.1598024,16.7545738,5,Roberta Kocha,Błonie
 51.1629691,16.8105354,10,Wrocławska,Krępice
@@ -400282,7 +400280,7 @@ lat,lon,housenumber,street,city
 50.270397,16.6532909,8a,,
 50.2431323,16.7112645,179c,,
 50.1713684,16.7309578,53,,
-50.2482368,16.6979067,146,,
+50.2482584,16.6979187,146,,
 50.2504766,16.6821621,101,,
 50.2491231,16.6969014,139c,,
 50.2474949,16.698164,144,,
@@ -400316,7 +400314,7 @@ lat,lon,housenumber,street,city
 50.1769039,16.7122636,13A,,
 50.1721933,16.7224309,66,,
 50.1716916,16.730169,55,,
-50.2493443,16.682876,103,,
+50.2492313,16.6828331,103,,
 50.1765515,16.7134925,16,,
 50.1500539,16.6595949,2,Na Wzgórzu,Międzylesie
 50.1747089,16.7154921,22a,,
@@ -489633,7 +489631,7 @@ lat,lon,housenumber,street,city
 51.3985542,17.6698262,3,Krótka,Międzybórz
 51.3967849,17.6727876,5,Polna,Międzybórz
 50.3206984,16.7221627,7,,
-50.3220328,16.7202886,6,,
+50.3220207,16.720285,6,,
 50.3197791,16.7229279,102,,
 51.1531971,15.5492912,20BS,,
 51.1420364,15.6071715,23,,
@@ -538576,7 +538574,7 @@ lat,lon,housenumber,street,city
 51.1156066,16.9283592,50a,Onufrego Zagłoby,Wrocław
 51.1157813,16.9283438,50b,Onufrego Zagłoby,Wrocław
 51.1157762,16.9291291,50c,Onufrego Zagłoby,Wrocław
-51.1160815,16.9298675,50m,Onufrego Zagłoby,Wrocław
+51.116084,16.929656,50m,Onufrego Zagłoby,Wrocław
 51.1160868,16.9292292,50n,Onufrego Zagłoby,Wrocław
 51.1160685,16.9289567,50p,Onufrego Zagłoby,Wrocław
 51.1154179,16.9257685,47w,Onufrego Zagłoby,Wrocław
@@ -542728,7 +542726,7 @@ lat,lon,housenumber,street,city
 50.6765214,16.627535,16,Osiedle Europejskie,Bielawa
 50.6768405,16.6279882,20,Osiedle Europejskie,Bielawa
 51.1934394,16.9788424,3,Załęże,Wrocław
-51.1075985,16.8986761,1,Podpułkownika Stanisława Skarżyńskiego,Wrocław
+51.107503,16.89866,1,Podpułkownika Stanisława Skarżyńskiego,Wrocław
 51.3960186,16.2181292,22A,Ścinawska,Lubin
 51.3191428,17.1807075,5,Jesienna,Zawonia
 51.3180543,17.1887297,14,Swobodna,Zawonia
@@ -554395,7 +554393,7 @@ lat,lon,housenumber,street,city
 51.1362322,16.7914915,4B,Tęczowa,Lutynia
 51.1374779,16.7949167,14,Jasna,Lutynia
 51.1569578,16.7828667,2A,Lutyńska,Wróblowice
-51.1137392,16.9235567,19,Żurawinowa,Wrocław
+51.113742,16.92355,19,Żurawinowa,Wrocław
 51.0798735,16.8924341,11,Laurowa,Smolec
 51.0799498,16.8923244,13,Laurowa,Smolec
 51.0801349,16.8920581,15,Laurowa,Smolec
@@ -554543,7 +554541,7 @@ lat,lon,housenumber,street,city
 51.1450893,16.8933571,20,Seledynowa,Wrocław
 51.146654,16.8935607,7,Niebieska,Wrocław
 51.1340259,16.8924244,20,Częstochowska,Wrocław
-51.1076947,16.8977079,4,Władysława Zarembowicza,Wrocław
+51.107691,16.897707,4,Władysława Zarembowicza,Wrocław
 51.09694,17.1647001,234c,Strachocińska,Wrocław
 51.0971653,17.1646939,234b,Strachocińska,Wrocław
 51.08521,17.162616,11,Zbożowa,Łany
@@ -565830,7 +565828,7 @@ lat,lon,housenumber,street,city
 50.797054,16.246735,22b,Bolesława Prusa,Szczawno-Zdrój
 50.6471668,16.4060172,102a,,
 50.6470183,16.4061327,102a,,
-51.0418478,17.0794903,34,Malinowa,Iwiny
+51.041771,17.07945,34,Malinowa,Iwiny
 51.3972126,16.2263507,46,Ścinawska,Lubin
 51.0623387,16.9194421,14,Cesarska,Cesarzowice
 51.0625818,16.9195697,12,Cesarska,Cesarzowice
