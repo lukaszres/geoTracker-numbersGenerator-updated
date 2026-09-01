@@ -8881,7 +8881,6 @@ lat,lon,housenumber,street,city
 53.3534275,14.7240835,46,Deszczowa,Szczecin
 53.3472589,14.7153903,112,Senna,Szczecin
 53.3531832,14.734552,5a,Trawiasta,Szczecin
-53.3511209,14.7248675,36,Senna,Szczecin
 53.3456394,14.7178028,146a,Senna,Szczecin
 53.3536188,14.7288052,20,Deszczowa,Szczecin
 53.3536145,14.7277705,1,Mokradłowa,Szczecin
@@ -10127,7 +10126,7 @@ lat,lon,housenumber,street,city
 53.5419844,14.5431213,20b,Stefana Roweckiego,Police
 53.5420829,14.5431704,20c,Stefana Roweckiego,Police
 53.5421539,14.5434086,20d,Stefana Roweckiego,Police
-53.4941645,14.4913494,20a,Osowska,Pilchowo
+53.4940307,14.491371,20a,Osowska,Pilchowo
 53.5423016,14.5553316,21,Bankowa,Police
 53.5438002,14.5453729,21,Janusza Korczaka,Police
 53.540537,14.5495673,21,Kardynała Stefana Wyszyńskiego,Police
@@ -27459,7 +27458,7 @@ lat,lon,housenumber,street,city
 53.2113301,15.742806,87,Choszczeńska,Drawno
 54.2184164,15.7679557,77a,Bolesława Chrobrego,Ustronie Morskie
 54.2158637,15.7537256,18,Bolesława Chrobrego,Ustronie Morskie
-53.1625347,15.4343513,6e,Staszica,Choszczno
+53.1625178,15.4343619,6e,Staszica,Choszczno
 53.1675928,15.4167035,7b,Wolności,Choszczno
 53.1677686,15.4267402,7b,Grunwaldzka,Choszczno
 54.1904751,16.1903852,109,Zwycięstwa,Koszalin
@@ -27729,7 +27728,7 @@ lat,lon,housenumber,street,city
 53.1599956,15.4331133,39a,Władysława Jagiełły,Choszczno
 53.1599351,15.4329237,39b,Władysława Jagiełły,Choszczno
 53.1598631,15.4326983,39c,Władysława Jagiełły,Choszczno
-53.1619495,15.4335006,4A,Staszica,Choszczno
+53.1619426,15.4334983,4A,Staszica,Choszczno
 53.1620221,15.4333398,4B,Staszica,Choszczno
 53.1620502,15.4331733,4C,Staszica,Choszczno
 53.1620817,15.433,4D,Staszica,Choszczno
@@ -34989,7 +34988,7 @@ lat,lon,housenumber,street,city
 52.69289,14.70458,34,Jana Pawła II,Cychry
 52.736,14.69819,34,Jana Pawła II,Dębno
 52.73241,14.70098,34,Ludwika Waryńskiego,Dębno
-52.68532,14.7659,34,,
+52.6852528,14.7659148,34,,
 52.8196,14.72822,34,,
 52.68572,14.76557,34A,,
 52.74067,14.6897,35,Chojeńska,Dębno
@@ -40755,7 +40754,7 @@ lat,lon,housenumber,street,city
 53.92901,16.27352,10,Akacjowa,Tychowo
 53.92731,16.25774,10,Wolności,Tychowo
 53.85727,16.24392,10,,
-53.88358,16.27865,10a,,
+53.8836917,16.2786728,10a,,
 53.92899,16.27393,11,Akacjowa,Tychowo
 53.92255,16.25334,11,Jana Kochanowskiego,Tychowo
 53.92275,16.25645,11,Szczecinecka,Tychowo
@@ -40800,7 +40799,7 @@ lat,lon,housenumber,street,city
 53.99217,16.30324,2,,
 53.93651,16.26962,20,Leśna,Tychowo
 53.89593,16.20546,20,,
-53.93779,16.23469,20,,
+53.9378092,16.2345622,20,,
 53.98705,16.12033,20,,
 53.92411,16.26308,21,Parkowa,Tychowo
 53.87193,16.23487,21,,
@@ -40812,18 +40811,18 @@ lat,lon,housenumber,street,city
 53.92381,16.26304,22C,Parkowa,Tychowo
 53.94745,16.35114,23,,
 53.86857,16.23285,24A,,
-53.94914,16.34665,25A,,
+53.9490247,16.3467641,25A,,
 53.86617,16.22711,27,,
 53.93046,16.27476,28,Topolowa,Tychowo
 53.99237,16.11583,28B,,
 53.92637,16.25235,2a,Białogardzka,Tychowo
 53.92121,16.2519,2A,Jana Kochanowskiego,Tychowo
-53.94812,16.32727,2A,,
+53.9482772,16.3262154,2A,,
 53.92133,16.25219,2B,Jana Kochanowskiego,Tychowo
 53.92147,16.25244,3,Jana Kochanowskiego,Tychowo
 53.92765,16.25612,3,Koszalińska,Tychowo
 53.94217,16.28823,3,Leona Mroczkiewicza,Tychowo
-53.93105,16.27444,3,Sosnowa,Tychowo
+53.9311528,16.2744241,3,Sosnowa,Tychowo
 53.94656,16.33029,3,,
 53.91757,16.18374,31,,
 53.90954,16.06526,32,,
@@ -40837,7 +40836,7 @@ lat,lon,housenumber,street,city
 53.92144,16.25235,3A,Jana Kochanowskiego,Tychowo
 53.94225,16.28822,3A,Leona Mroczkiewicza,Tychowo
 53.92153,16.2526,3B,Jana Kochanowskiego,Tychowo
-53.92665,16.25047,4,Białogardzka,Tychowo
+53.9266058,16.2504244,4,Białogardzka,Tychowo
 53.92126,16.25044,4,Jana Kochanowskiego,Tychowo
 53.93039,16.27236,4,Jaśminowa,Tychowo
 53.9295,16.27397,4,Klonowa,Tychowo
@@ -40865,10 +40864,10 @@ lat,lon,housenumber,street,city
 54.00143,16.33674,5,,
 54.02554,16.19757,5,,
 53.88985,16.19945,50a,,
-53.91511,16.39129,52,,
-53.93596,16.27718,53,Bobolicka,Tychowo
+53.9151478,16.3910314,52,,
+53.9360757,16.277438,53,Bobolicka,Tychowo
 53.93062,16.26211,54,Wolności,Tychowo
-53.92189,16.37525,56,,
+53.9217252,16.3754468,56,,
 53.92142,16.25111,5A,Jana Kochanowskiego,Tychowo
 53.9215,16.251,5B,Jana Kochanowskiego,Tychowo
 53.9288916,16.2554475,5b,Koszalińska,Tychowo
@@ -40906,10 +40905,10 @@ lat,lon,housenumber,street,city
 53.9373,16.23648,8,,
 53.94767,16.33567,8,,
 54.00205,16.17099,8,,
-53.93703,16.28424,86,Bobolicka,Tychowo
+53.9369352,16.2843926,86,Bobolicka,Tychowo
 53.93005,16.27375,9,Klonowa,Tychowo
 53.93052,16.26659,9,Polna,Tychowo
-53.93073,16.27589,9,Topolowa,Tychowo
+53.9307863,16.2756213,9,Topolowa,Tychowo
 53.85748,16.24351,9,,
 53.91445,16.42883,9,,
 54.0444,16.22352,1,,
@@ -49291,7 +49290,6 @@ lat,lon,housenumber,street,city
 53.5430827,14.5522264,2c,Józefa Piłsudskiego,Police
 54.1759851,15.5872021,24,Koszalińska,Kołobrzeg
 53.4433954,14.5493544,1,Księdza Stanisława Staszica,Szczecin
-54.1819444,15.5915488,11,Aleksandra Fredry,
 54.182398,15.5920009,13,Aleksandra Fredry,
 54.1821728,15.5884171,8,Hugo Kołłątaja,Kołobrzeg
 54.1821407,15.5913531,11,Aleksandra Fredry,Kołobrzeg
@@ -50664,7 +50662,7 @@ lat,lon,housenumber,street,city
 53.53479,16.23224,9h,Pławieńska,Czaplinek
 53.92172,16.26272,23,Parkowa,Tychowo
 53.93061,16.25785,3,Ogrodowa,Tychowo
-53.93513,16.27202,37A,Bobolicka,Tychowo
+53.9349909,16.2721394,37A,Bobolicka,Tychowo
 53.2968977,15.9047099,22E,Wolności,Kalisz Pomorski
 53.28535,15.90421,4,,
 53.28187,15.87564,6,Modrzewiowa,Kalisz Pomorski
@@ -51632,6 +51630,7 @@ lat,lon,housenumber,street,city
 53.8987042,14.2343412,8,Nowokarsiborska,Świnoujście
 53.896234,14.2243756,9a,Mazowiecka,Świnoujście
 53.8981588,14.2261264,9b,Wielkopolska,Świnoujście
+53.8986792,14.2319393,54a,Grunwaldzka,Świnoujście
 52.8758566,14.1444279,14,Hohensaatener Mühlenstraße,Bad Freienwalde (Oder)
 53.9038346,14.2352229,11b,Szkolna,Świnoujście
 53.9034979,14.2354233,13a,Szkolna,Świnoujście
@@ -52015,9 +52014,9 @@ lat,lon,housenumber,street,city
 53.4413895,14.5142016,99,Romualda Traugutta,
 53.26191,15.55273,24A,Kolejowa,Recz
 53.599051,16.2523437,1A,,
-53.5215174,16.2283551,1B,,
-53.5212143,16.2282557,1C,,
-53.52085,16.22802,1D,,
+53.5215052,16.2283665,1B,,
+53.5212048,16.228283,1C,,
+53.5208067,16.2282728,1D,,
 53.52708,15.82586,1E,Sadowa,Drawsko Pomorskie
 53.45437,14.7622,11m,Słoneczna,Kliniska Wielkie
 53.58323,14.79595,9g,,
@@ -52146,7 +52145,6 @@ lat,lon,housenumber,street,city
 53.9099799,14.2491136,10,Marszałka Józefa Piłsudskiego,Świnoujście
 53.910181,14.2491501,10a,Marszałka Józefa Piłsudskiego,Świnoujście
 53.9105219,14.2474481,1a,Piastowska,Świnoujście
-53.9105021,14.247866,3,Piastowska,Świnoujście
 53.9096531,14.2490421,4,Marszałka Józefa Piłsudskiego,Świnoujście
 53.9104674,14.2485294,5,Piastowska,Świnoujście
 53.9106276,14.2484031,56,Piastowska,Świnoujście
@@ -54888,8 +54886,6 @@ lat,lon,housenumber,street,city
 53.16061,16.48953,37,,
 53.16338,16.49061,38,,
 54.1784777,15.5706769,2,Armii Krajowej,Kołobrzeg
-53.7064868,16.6947243,1,Adama Mickiewicza,Szczecinek
-53.7065625,16.6949111,1,Adama Mickiewicza,Szczecinek
 53.7089743,16.6933117,18,Plac Wolności,Szczecinek
 53.7097352,16.6926698,11,Plac Wolności,Szczecinek
 53.7095321,16.6903237,18,Bohaterów Warszawy,Szczecinek
@@ -57555,7 +57551,7 @@ lat,lon,housenumber,street,city
 54.0608122,14.9348947,97,Grunwaldzka,
 54.0604897,14.933402,87,Grunwaldzka,
 54.2192763,15.770946,4,Graniczna,Ustronie Morskie
-53.9293269,16.2795228,1,Lipowa,Tychowo
+53.9293069,16.2795692,1,Lipowa,Tychowo
 52.9065422,14.9541365,19A,,
 53.4938443,16.2559562,19A,,
 54.0365366,14.8098674,25a,Wolności,Dziwnówek
@@ -58000,7 +57996,7 @@ lat,lon,housenumber,street,city
 52.80782,14.81922,9,,
 53.9828491,16.1938373,23,,
 54.00329,16.31608,1A,,
-53.92912,16.27936,2,Lipowa,Tychowo
+53.9291318,16.279533,2,Lipowa,Tychowo
 54.0336835,15.8777797,4,Franciszka Żwirki,Karlino
 54.00946,15.96932,25,Kołobrzeska,Białogard
 54.00961,15.96901,27,Kołobrzeska,Białogard
@@ -58014,7 +58010,6 @@ lat,lon,housenumber,street,city
 52.7409747,14.7011678,13,Spacerowa,Dębno
 53.4360768,15.5355234,145A,,
 53.3000785,14.8149577,1B,Cystersów,Kołbacz
-53.9291178,16.2793639,2,Lipowa,Tychowo
 53.917662,15.1753802,26F,,
 53.3012664,14.8170893,2A,Szarych Mnichów,Kołbacz
 53.2998908,14.814269,2C,Cystersów,Kołbacz
@@ -58541,15 +58536,12 @@ lat,lon,housenumber,street,city
 53.896107,14.9095273,17C,,
 53.896086,14.9096335,17D,,
 53.8961276,14.9094122,17B,,
-53.983637,14.7856198,12,Czesława Niemena,Kamień Pomorski
 53.9507365,14.8644921,12B,,
-53.9849683,14.786572,1,Czesława Niemena,Kamień Pomorski
 53.2509721,14.488929,1,Niepodległości,Gryfino
 53.9010612,14.9206985,1,,
 53.9701167,14.7220919,14b,,
 53.9956112,14.7715288,10A,,
 53.9714438,14.7772203,2D,Kanałowa,Kamień Pomorski
-53.9848028,14.7864887,3,Czesława Niemena,Kamień Pomorski
 54.2502577,16.6254779,3A,,
 53.9218761,14.7589658,11A,,
 53.9284108,14.7915886,11A,,
@@ -58576,7 +58568,6 @@ lat,lon,housenumber,street,city
 53.3381899,16.0818802,7A,Adama Mickiewicza,Mirosławiec
 54.2120068,15.7661523,7b,Polna,Ustronie Morskie
 54.2116809,15.7657942,7d,Polna,Ustronie Morskie
-53.9841699,14.7858819,8,Czesława Niemena,Kamień Pomorski
 54.0131202,14.8672199,8A,,
 53.2604883,15.5488184,14A,Ratuszowa,Recz
 53.2605021,15.548592,14B,Ratuszowa,Recz
@@ -60752,7 +60743,7 @@ lat,lon,housenumber,street,city
 53.1950804,16.156572,10,Wolności,Tuczno
 52.9213188,14.8730962,11,Torowa,Myślibórz
 54.0555755,15.4070045,12a,,
-53.6957905,14.3660366,12c,,
+53.6958159,14.3659588,12c,,
 53.2847942,16.4640676,13,,Wałcz
 53.5108127,15.3447293,13,,
 53.5848408,16.3820427,15C,Polna,Łubowo
@@ -65958,6 +65949,7 @@ lat,lon,housenumber,street,city
 53.490778,14.5856075,2,Bronisława Sobola,Szczecin
 53.490606,14.5856371,4,Bronisława Sobola,Szczecin
 53.4904828,14.5856675,6,Bronisława Sobola,Szczecin
+53.3990382,14.5315313,57A,Szczawiowa,Szczecin
 53.54721,14.95019,59,,
 53.510684,14.56615,11,Nad Potokiem,Przęsocin
 53.5106285,14.5652206,14,Nad Potokiem,Przęsocin
@@ -66506,8 +66498,6 @@ lat,lon,housenumber,street,city
 53.28329,15.07576,8a,Papieża Jana Pawła II,Witkowo Pierwsze
 53.28174,15.0814,2A,Papieża Jana Pawła II,Witkowo Pierwsze
 53.296,15.04926,5,Ogrodowa,Witkowo Drugie
-53.30954,15.04595,68,Kresowian,Witkowo Drugie
-53.30951,15.04598,66,Kresowian,Witkowo Drugie
 53.29891,15.05016,40,Kresowian,Witkowo Drugie
 53.29881,15.05014,38,Kresowian,Witkowo Drugie
 53.34951,15.13557,43a,,
@@ -66995,7 +66985,6 @@ lat,lon,housenumber,street,city
 53.2227045,14.6659754,48F,,
 53.2137678,14.5006088,44B,Polna,Pniewo
 53.2014402,14.4887807,19I,,
-53.3096566,15.0458178,70,Kresowian,Witkowo Drugie
 53.3500611,14.9403835,18,Stargardzka,Lipnik
 53.3495826,14.9404201,17,Stargardzka,Lipnik
 53.3662293,15.1012617,30G,,
@@ -67437,7 +67426,6 @@ lat,lon,housenumber,street,city
 53.4131629,15.2446803,29F,,
 53.0587713,14.7060302,84a,,
 53.296868,15.0337899,16G,Różana,Witkowo Drugie
-53.3098717,15.0456248,74,Kresowian,Witkowo Drugie
 53.6133769,16.2516276,63C,,
 52.6782051,14.6118219,73A,,
 52.7232871,14.5798236,19C,Stefana Żeromskiego,Boleszkowice
@@ -67517,7 +67505,7 @@ lat,lon,housenumber,street,city
 53.4786401,14.7725438,53C,Goleniowska,Rurzyca
 53.4786231,14.7730581,53B,Goleniowska,Rurzyca
 53.4786026,14.7734727,53A,Goleniowska,Rurzyca
-53.4780542,16.054618,40A,,
+53.4780018,16.0545579,40A,,
 53.3257282,14.6819416,4,Bohaterów,Kołowo
 53.6101577,16.3556865,16A,,
 53.5825196,16.5487743,31W,Bolesława Chrobrego,Borne Sulinowo
@@ -67732,7 +67720,6 @@ lat,lon,housenumber,street,city
 53.9820594,14.786298,4,Lazurowa,Kamień Pomorski
 53.8582687,15.7393815,2a,,
 53.0892539,14.6559675,27,Leśna,Banie
-53.3097729,15.045719,72,Kresowian,Witkowo Drugie
 53.3667312,15.100919,36A,,
 53.3000826,15.4395128,19B,,
 53.3733959,15.3692102,28A,,
@@ -68050,7 +68037,6 @@ lat,lon,housenumber,street,city
 53.382107,15.1708518,18,,
 53.8973898,15.6987566,6b,Łąkowa,Sławoborze
 53.1184513,14.7237583,19b,,
-53.3100221,15.0454964,76,Kresowian,Witkowo Drugie
 53.427829,14.8997754,43C,Sosnowa,Sowno
 53.4067403,15.0837809,36ZG,,
 54.01577,16.3944096,47,,
@@ -68259,7 +68245,7 @@ lat,lon,housenumber,street,city
 53.9300122,16.2830167,14,Kasztanowa,Tychowo
 53.9300885,16.2825433,12,Kasztanowa,Tychowo
 53.9301522,16.2819587,10,Kasztanowa,Tychowo
-53.9305217,16.279437,1,Kasztanowa,Tychowo
+53.9305465,16.2793528,1,Kasztanowa,Tychowo
 52.9871632,14.6073984,137a,,
 52.9869665,14.6076739,137,,
 54.1615291,16.0336207,6d-4,,
@@ -68394,32 +68380,32 @@ lat,lon,housenumber,street,city
 53.4574428,15.0657249,38N,,
 53.4434418,15.0763917,40,,
 53.0894885,15.6080491,49A,,
-53.5939129,16.2149927,21Z,,
-53.5936132,16.2151955,21Y,,
-53.5937848,16.2153599,21X,,
-53.5935191,16.2154519,21W,,
-53.5937599,16.2156494,21U,,
-53.5935717,16.215715,21T,,
+53.5938364,16.2150256,21Z,,
+53.5935487,16.2151829,21Y,,
+53.5940218,16.2153801,21X,,
+53.5935341,16.2154544,21W,,
+53.5938334,16.2156469,21U,,
+53.5932852,16.2157074,21T,,
 53.5937768,16.2159402,21S,,
-53.5935744,16.2159804,21R,,
-53.5937235,16.2161951,21P,,
-53.5935308,16.216258,21O,,
-53.5937473,16.2165405,21N,,
-53.5935255,16.2165196,21M,,
-53.5936978,16.2168273,21Ł,,
-53.5935087,16.216799,21L,,
-53.5936645,16.2170996,21K,,
-53.5934954,16.2170782,21J,,
-53.5936918,16.2173636,21I,,
+53.5933504,16.2159343,21R,,
+53.5937743,16.2162105,21P,,
+53.5934891,16.2162602,21O,,
+53.5939618,16.2165279,21N,,
+53.593476,16.2165437,21M,,
+53.5937645,16.2168292,21Ł,,
+53.5934714,16.2167725,21L,,
+53.5938737,16.2171225,21K,,
+53.5934253,16.2170763,21J,,
+53.5937359,16.2174112,21I,,
 53.5934097,16.2173776,21H,,
-53.5936535,16.2176821,21G,,
-53.5934558,16.2176419,21F,,
-53.593644,16.2180311,21E,,
-53.5934516,16.2179139,21D,,
-53.5936288,16.2182034,21C,,
-53.593355,16.2182155,21B,,
-53.5936078,16.2148532,21AA,,
-53.5933848,16.2185531,21A,,
+53.5937225,16.2176611,21G,,
+53.593397,16.2176419,21F,,
+53.5936666,16.2179739,21E,,
+53.5933815,16.2179215,21D,,
+53.5937543,16.2182472,21C,,
+53.5933946,16.2181812,21B,,
+53.5935622,16.2148708,21AA,,
+53.593352,16.2184521,21A,,
 53.5936647,16.2185533,21,,
 53.6490881,16.1841728,1A,Polna,Kluczewo
 53.2256823,14.5002243,42A,Jaśminowa,Żórawki
@@ -68694,7 +68680,6 @@ lat,lon,housenumber,street,city
 54.0253652,14.8383849,23,,
 54.0259951,14.8340476,22,,
 54.02625,14.8345056,21,,
-53.9851323,14.7852875,4,Witolda Lutosławskiego,Kamień Pomorski
 53.9267744,14.7905009,30C,,
 53.9548914,14.8487014,15,Osiedle Leśne,Grębowo
 53.2925968,16.5338327,282,,
@@ -69422,7 +69407,7 @@ lat,lon,housenumber,street,city
 53.3838906,14.6818468,104,Pomorska,Szczecin
 54.1560671,15.5442577,38,Starynowska,Kołobrzeg
 54.1567541,15.545287,48,Aleksandra Orłowskiego,
-54.252416,16.0417236,33,Okrężna,Mielno
+54.2524493,16.041687,33,Okrężna,Mielno
 53.461672,14.4627758,34C,Bukszpanowa,Bezrzecze
 53.4620775,14.4623376,7,Korzenna,Bezrzecze
 54.1568161,15.5465897,3,Józefa Chełmońskiego,Kołobrzeg
@@ -70258,7 +70243,7 @@ lat,lon,housenumber,street,city
 53.6645087,16.4904457,70,,
 53.9285912,16.2786995,6,Lipowa,Tychowo
 53.9218805,16.247163,27,Dworcowa,Tychowo
-53.935715,16.2727371,37C,Bobolicka,Tychowo
+53.9357569,16.2727442,37C,Bobolicka,Tychowo
 53.557738,15.509177,49c,,
 54.3667311,16.721294,43,Mieszka I,Warszkowo
 54.341672,16.5989345,16C,,
@@ -71677,16 +71662,16 @@ lat,lon,housenumber,street,city
 53.3589629,15.4198033,15,Spółdzielcza,Dobrzany
 53.9265413,16.066313,13,,
 53.0424376,14.7750722,1A,,
-53.5779931,16.2157755,1AU,,
-53.5782505,16.2155108,1AT,,
-53.5785625,16.2151831,1AS,,
+53.5779978,16.215622,1AU,,
+53.5782634,16.2155065,1AT,,
+53.5785406,16.2151722,1AS,,
 53.5783234,16.2163797,1AR,,
-53.5785359,16.2159996,1AP,,
-53.5787613,16.2157191,1AO,,
-53.5786686,16.2164161,1AN,,
+53.5785927,16.2159597,1AP,,
+53.5787826,16.2156413,1AO,,
+53.57855,16.2166114,1AN,,
 53.5790724,16.2160263,1AM,,
 53.5791962,16.2163666,1AŁ,,
-53.5793687,16.2166799,1AL,,
+53.579371,16.2166498,1AL,,
 53.5795926,16.2170962,1AK,,
 53.5797623,16.2175927,1AJ,,
 53.5802357,16.2177034,1AI,,
@@ -71696,8 +71681,8 @@ lat,lon,housenumber,street,city
 53.5795197,16.2161221,1AE,,
 53.5794114,16.2158458,1AD,,
 53.5791758,16.2155365,1AC,,
-53.5789837,16.2151575,1AB,,
-53.5788203,16.214754,1AA,,
+53.5789637,16.2151255,1AB,,
+53.578794,16.2148205,1AA,,
 53.2559214,15.0826729,19,,
 52.8800822,14.2071335,16A,Mieszka I,Cedynia
 53.7267775,15.7770745,16/3,,
@@ -73045,7 +73030,7 @@ lat,lon,housenumber,street,city
 54.22231,16.08398,13,Różana,Mścice
 54.21502,16.10802,9,Rzemieślnicza,Mścice
 54.2169,16.09577,5,Ogrodowa,Mścice
-54.21856,16.10703,28A,Koszalińska,Mścice
+54.2180328,16.1070005,28A,Koszalińska,Mścice
 54.1713307,15.5578046,15,Świętego Macieja,Kołobrzeg
 54.1725251,15.5565232,5,Jana Matejki,Kołobrzeg
 54.1722435,15.5563518,6,Jana Matejki,Kołobrzeg
@@ -73358,15 +73343,15 @@ lat,lon,housenumber,street,city
 53.6311074,16.5529422,1E,,
 53.9295677,16.2834147,43,Topolowa,Tychowo
 53.9299915,16.280251,31,Topolowa,Tychowo
-53.9301714,16.2786931,23,Topolowa,Tychowo
-53.9302498,16.2781224,21,Topolowa,Tychowo
+53.9302237,16.2786677,23,Topolowa,Tychowo
+53.9302816,16.2782272,21,Topolowa,Tychowo
 53.9303182,16.2776551,19,Topolowa,Tychowo
 53.9303985,16.2772064,17,Topolowa,Tychowo
 53.93044,16.2769402,15,Topolowa,Tychowo
-53.9304912,16.2766049,13,Topolowa,Tychowo
+53.9305622,16.2766112,13,Topolowa,Tychowo
 53.9281638,16.2780361,9,Lipowa,Tychowo
-53.9288662,16.2791124,4,Lipowa,Tychowo
-53.9290082,16.2792549,3,Lipowa,Tychowo
+53.9288203,16.2794137,4,Lipowa,Tychowo
+53.9289732,16.2793922,3,Lipowa,Tychowo
 53.9283491,16.277768,11,Lipowa,Tychowo
 53.928191,16.2776919,10,Lipowa,Tychowo
 53.3047617,15.3687079,53C,,
@@ -73639,7 +73624,7 @@ lat,lon,housenumber,street,city
 53.4718632,14.5643535,59,Małe Błonia,Szczecin
 53.4722025,14.5641753,57,Małe Błonia,Szczecin
 53.4842365,14.5839937,9,Sobótki,Szczecin
-53.3870283,14.6507596,39,Gryfińska,Szczecin
+53.3871822,14.6502411,39,Gryfińska,Szczecin
 53.3962959,14.6688275,12,Drukarska,Szczecin
 53.4574798,14.5047627,245,aleja Wojska Polskiego,Szczecin
 53.4487628,14.5713634,7,Willowa,Szczecin
@@ -73886,7 +73871,6 @@ lat,lon,housenumber,street,city
 54.3510817,16.5048722,41A,,
 54.4000127,16.4064777,8,Miętowa,Rusko
 54.4365336,16.5509551,38,,
-54.4606384,16.4270739,7E,,
 54.3799798,16.3206828,14,Zielona,Dąbki
 54.3806651,16.321553,1,Zielona,Dąbki
 54.3794804,16.3225855,6D,Turystyczna,Dąbki
@@ -74840,7 +74824,6 @@ lat,lon,housenumber,street,city
 53.086376,16.1227119,14,Jana III Sobieskiego,Człopa
 54.2365144,15.9786878,2AA,,
 54.2154329,15.8933375,7O,,
-54.2570783,16.1045183,144m,,
 54.2134814,16.0995909,9,,
 54.2137264,16.0995563,7,,
 54.2133304,16.0998898,11,,
@@ -77557,7 +77540,7 @@ lat,lon,housenumber,street,city
 53.9960276,15.4388827,13,,
 54.1746458,15.5789575,2,Kamienna,Kołobrzeg
 53.3458747,14.5904873,11,Bielska,Szczecin
-53.4213193,14.5233495,22d,Ku Słońcu,Szczecin
+53.4214497,14.5232995,22d,Ku Słońcu,Szczecin
 53.1963974,16.1577983,20,Wolności,Tuczno
 53.1505398,14.8898977,23B,Wojciecha Bartosza Głowackiego,Pyrzyce
 53.1504977,14.8899288,23A,Wojciecha Bartosza Głowackiego,Pyrzyce
@@ -77577,7 +77560,7 @@ lat,lon,housenumber,street,city
 54.1575725,16.1405719,21o,,
 54.1709544,16.1552325,1E,,
 54.0654256,16.1648053,27e,,
-54.1191715,16.1598497,295/1,,
+54.1191715,16.1598497,13,,
 54.1528909,16.1858141,33K,,
 54.1498826,16.1614356,252a,,
 54.1583209,16.1690873,156C,,
@@ -78368,7 +78351,6 @@ lat,lon,housenumber,street,city
 54.300993,16.3593669,14A,,
 54.5072943,16.4701937,5A,Leśna,Wicie
 54.3977585,16.5310027,19B,,
-54.4595731,16.4275771,7N,,
 54.3817369,16.3332135,8,Nowa,Bobolin
 54.3823828,16.3331346,4,Nowa,Bobolin
 54.3817703,16.3345466,22,Nowa,Bobolin
@@ -79123,7 +79105,6 @@ lat,lon,housenumber,street,city
 53.9813164,14.785964,1,Urocza,Kamień Pomorski
 53.9826592,14.7883559,33F,Fryderyka Chopina,Kamień Pomorski
 53.9804854,14.7894516,19B,,Kamień Pomorski
-53.9846794,14.7865321,3,Czesława Niemena,Kamień Pomorski
 53.9747123,14.7473529,321,,
 54.0416767,14.8760354,10,Morska,Łukęcin
 53.0819596,14.6113539,23a,,
@@ -79443,7 +79424,7 @@ lat,lon,housenumber,street,city
 54.0901701,15.1191574,2,Konwaliowa,Pogorzelica
 54.0901155,15.1191789,6,Chabrowa,Pogorzelica
 53.176789,15.3985716,27A,,
-53.9360424,16.2678812,15B,Leśna,Tychowo
+53.9360424,16.2678459,15B,Leśna,Tychowo
 53.9252527,16.2494365,20A,Dworcowa,Tychowo
 53.954088,16.1658873,14A,,
 53.2011281,15.8354152,7,Wiśniowa,Dominikowo
@@ -80225,7 +80206,6 @@ lat,lon,housenumber,street,city
 53.9058019,15.2056464,1B,Liliowa,Gryfice
 54.4347994,16.4861307,22A,,
 54.3979952,16.4134339,8A,,
-54.4600392,16.4275647,7K,,
 54.4622819,16.4323853,10C,,
 54.3495798,16.3951751,53B,,
 54.3620945,16.3993843,34B,,
@@ -80645,10 +80625,10 @@ lat,lon,housenumber,street,city
 54.0605796,14.9416377,2,Kujawska,Pobierowo
 54.1540212,16.1422316,270A,,
 53.9314568,16.2777783,8,Sosnowa,Tychowo
-53.931431,16.2774139,6,Sosnowa,Tychowo
+53.9314273,16.2773641,6,Sosnowa,Tychowo
 53.9313977,16.2767999,4,Sosnowa,Tychowo
-53.9312769,16.2747667,2,Sosnowa,Tychowo
-53.9315205,16.2787298,12,Sosnowa,Tychowo
+53.9312673,16.2748929,2,Sosnowa,Tychowo
+53.9314685,16.2788222,12,Sosnowa,Tychowo
 53.9314705,16.2782299,10,Sosnowa,Tychowo
 53.7032598,15.3353817,31,,
 53.4172069,15.1464902,5D,,
@@ -81481,7 +81461,7 @@ lat,lon,housenumber,street,city
 53.5348425,15.7932269,52,Zakopiańska,Drawsko Pomorskie
 53.173886,15.5325459,14A,Wolności,Rzecko
 53.1551221,15.393158,8Z,,
-53.9355904,16.2724521,37B,Bobolicka,Tychowo
+53.9356072,16.2724343,37B,Bobolicka,Tychowo
 53.9955244,16.3080569,10A,,
 53.2016836,16.1617832,83A,Wolności,Tuczno
 53.2512101,16.1371892,14,Adama Mickiewicza,Rzeczyca
@@ -82773,7 +82753,7 @@ lat,lon,housenumber,street,city
 53.551713,16.2397511,56,Wałecka,
 54.1758503,15.581186,9,Słowińców,Kołobrzeg
 54.0939335,15.4320741,59b,,
-54.1758371,15.5818452,8,Słowińców,Kołobrzeg
+54.1758453,15.5820204,8,Słowińców,Kołobrzeg
 53.6834719,15.1210283,10,Generała Józefa Bema,Nowogard
 53.6902093,15.0845888,7a,,
 53.5567562,16.2229955,2A,Komunalna,Czaplinek
@@ -83214,7 +83194,6 @@ lat,lon,housenumber,street,city
 54.2159481,15.8907712,9MA,,
 54.234265,16.0675108,8RK,,
 54.2333698,16.0585622,6KD,,
-54.2530318,16.0953087,224A,,
 54.2222574,16.1058832,12,Jarzębinowa,Mścice
 54.2130642,16.1001577,13,,
 54.2128762,15.9942852,81N,,
@@ -83760,7 +83739,6 @@ lat,lon,housenumber,street,city
 54.0161971,14.8111792,100,,
 54.0160269,14.8112859,101,,
 54.0208988,14.8711974,2A,,
-53.9842414,14.785222,9,Witolda Lutosławskiego,Kamień Pomorski
 53.9843926,14.7847236,8,Witolda Lutosławskiego,Kamień Pomorski
 53.9844944,14.7853216,7,Witolda Lutosławskiego,Kamień Pomorski
 53.9849321,14.7850746,6,Witolda Lutosławskiego,Kamień Pomorski
@@ -87099,7 +87077,7 @@ lat,lon,housenumber,street,city
 53.1975429,15.8459067,32,Brzozowa,Dominikowo
 53.0084254,15.6304848,22A,,
 53.0352983,15.6633947,5B,Sienkiewicza,Bierzwnik
-53.9495331,16.3431309,12A,,
+53.9495864,16.34315,12A,,
 53.9239911,16.2546392,9A,Szczecinecka,Tychowo
 53.9365203,16.2403964,18A,,
 53.9000595,16.2155592,12A,,
@@ -87444,33 +87422,9 @@ lat,lon,housenumber,street,city
 53.542051,15.6124559,18,,
 53.7653027,15.7584356,14A,Toruńska,Świdwin
 53.3721196,14.99469,22,Rubinowa,Żarowo
-53.3097731,15.04423,8,Szmaragdowa,Witkowo Drugie
-53.3098125,15.044464,6,Szmaragdowa,Witkowo Drugie
-53.3098262,15.0445596,4,Szmaragdowa,Witkowo Drugie
-53.3098855,15.0448094,2,Szmaragdowa,Witkowo Drugie
-53.3096433,15.0434967,18,Szmaragdowa,Witkowo Drugie
-53.3096614,15.0436182,16,Szmaragdowa,Witkowo Drugie
-53.309698,15.0438203,14,Szmaragdowa,Witkowo Drugie
-53.3097209,15.0439297,12,Szmaragdowa,Witkowo Drugie
-53.3097611,15.0441313,10,Szmaragdowa,Witkowo Drugie
-53.3096941,15.0450266,1,Szmaragdowa,Witkowo Drugie
-53.3101431,15.0446828,1,Rubinowa,Witkowo Drugie
 53.2925522,15.0483497,13,Pogodna,Witkowo Drugie
 53.2932301,15.0525753,1,Pogodna,Witkowo Drugie
 53.2951117,15.0572807,2,Łąkowa,Witkowo Drugie
-53.3100932,15.0447138,59,Kresowian,Witkowo Drugie
-53.3099368,15.0447693,57,Kresowian,Witkowo Drugie
-53.3096364,15.045035,55,Kresowian,Witkowo Drugie
-53.3094921,15.0451362,53,Kresowian,Witkowo Drugie
-53.3093091,15.0445458,8,Koralowa,Witkowo Drugie
-53.3093511,15.0447533,6,Koralowa,Witkowo Drugie
-53.3093704,15.0448571,4,Koralowa,Witkowo Drugie
-53.3094376,15.0451883,2,Koralowa,Witkowo Drugie
-53.3091788,15.043798,18,Koralowa,Witkowo Drugie
-53.3091967,15.0439136,16,Koralowa,Witkowo Drugie
-53.3092318,15.0441216,14,Koralowa,Witkowo Drugie
-53.3092601,15.0442335,12,Koralowa,Witkowo Drugie
-53.3092861,15.0444364,10,Koralowa,Witkowo Drugie
 53.4043544,14.9490742,7ZB,,
 53.3400972,15.2002453,66B,,
 53.3864591,15.0052845,35A,,
@@ -87584,7 +87538,7 @@ lat,lon,housenumber,street,city
 53.9278456,16.2578944,14A,Wolności,Tychowo
 53.9292142,16.2508308,9,Strefowa,Tychowo
 53.9286133,16.2499059,7,Strefowa,Tychowo
-53.9279074,16.2491197,5,Strefowa,Tychowo
+53.9280172,16.2492433,5,Strefowa,Tychowo
 53.9275122,16.2493831,3,Strefowa,Tychowo
 53.9299701,16.25193,11,Strefowa,Tychowo
 53.9277407,16.248624,1,Strefowa,Tychowo
@@ -88321,7 +88275,6 @@ lat,lon,housenumber,street,city
 53.311557,15.0473169,88,Kresowian,Witkowo Drugie
 53.3110048,15.0470965,84,Kresowian,Witkowo Drugie
 53.3108921,15.0468362,82C,Kresowian,Witkowo Drugie
-53.3085922,15.0423294,18,Diamentowa,Witkowo Drugie
 53.3098096,14.9211686,1S,,
 53.3106093,14.936176,8F,,
 53.3682222,14.9848217,14,Magiczna,Grzędzice
@@ -88462,7 +88415,6 @@ lat,lon,housenumber,street,city
 53.8997001,15.2026321,4,Żwirki i Wigury,Brodniki
 54.2930489,16.363702,36A,,
 54.3701413,16.4016197,1A,,
-54.4620241,16.4123139,62C,,
 54.3942003,16.4584822,72C,,
 54.3805717,16.3276058,9C,Wczasowa,Dąbki
 54.476654,16.5117543,46A,,
@@ -88875,7 +88827,6 @@ lat,lon,housenumber,street,city
 53.932505,14.5696244,58A,,
 53.9337781,14.608717,16A,,
 53.1020759,15.5476094,20M2,,
-54.255203,16.0958332,1J,,
 54.2201306,15.8317969,14,Wietrzna,Kładno
 54.2154922,15.8893122,10L,,
 54.2002053,15.8997694,14,,
@@ -89696,7 +89647,7 @@ lat,lon,housenumber,street,city
 52.8738929,14.2166679,5,Akacjowa,Cedynia
 53.0343402,15.2981918,4C,Bolesława Chrobrego,Pełczyce
 53.1483249,15.3506922,50,,
-53.9358708,16.2680964,15A,Leśna,Tychowo
+53.9358619,16.2680636,15A,Leśna,Tychowo
 53.9547399,14.8297628,9,Leśna,Mokrawica
 53.9543448,14.8294209,8,Leśna,Mokrawica
 53.9541005,14.8292666,7,Leśna,Mokrawica
@@ -90759,7 +90710,6 @@ lat,lon,housenumber,street,city
 54.1857359,16.1614169,25,Szczecińska,Koszalin
 54.1873486,16.1642834,8,Szczecińska,Koszalin
 53.4273022,14.5539897,7c,Staromłyńska,Szczecin
-54.1717419,15.5334845,17i,Klonowa,Kołobrzeg
 52.9909827,15.2379888,4,Młyn Leśny,
 54.2417831,15.8968055,20,Osiedlowa,Gąski
 54.2397608,15.8995628,39c,Masztowa,Gąski
@@ -91179,6 +91129,7 @@ lat,lon,housenumber,street,city
 53.429444,14.5512466,50,aleja Papieża Jana Pawła II,
 53.4632679,14.4626433,25,Maciejki,Bezrzecze
 53.3623885,14.6839339,13B,Aleksandra Świętochowskiego,Szczecin
+54.176394,15.5568213,41,Bałtycka,
 54.1759157,15.5574109,6a/1,Bałtycka,Kołobrzeg
 53.4359318,14.5645762,21/1U,Jana Kazimierza,Szczecin
 53.4228788,14.5639967,4,Zbożowa,Szczecin
@@ -91533,7 +91484,6 @@ lat,lon,housenumber,street,city
 54.1635427,15.504084,25a,Nadmorska,Grzybowo
 54.1639629,15.5062979,30,Nadmorska,Grzybowo
 53.5288463,15.8161621,13,Kupiecka,Drawsko Pomorskie
-53.4258064,14.5309307,42,Al. Bohaterów Warszawy,Szczecin
 54.004786,15.9844228,20C,Świdwińska,Białogard
 54.0047811,15.9847881,20B,Świdwińska,Białogard
 54.004858,15.9850616,20A,Świdwińska,Białogard
@@ -91944,7 +91894,6 @@ lat,lon,housenumber,street,city
 53.4849218,14.3895419,12,Przyjazna,Dobra
 54.0631462,15.2659686,2,Juliusza Słowackiego,Trzebiatów
 54.0621199,15.265244,21,Rynek,Trzebiatów
-54.0618627,15.2660301,26,Rynek,Trzebiatów
 54.0625784,15.2665495,4,Rynek,Trzebiatów
 54.0630625,15.2662016,11,Rynek,Trzebiatów
 54.063021,15.2661119,11,Rynek,Trzebiatów
@@ -92139,7 +92088,6 @@ lat,lon,housenumber,street,city
 53.2693078,16.0947588,25,,
 53.275889,16.1217357,22,,
 53.706422,16.69475,1,Adama Mickiewicza,Szczecinek
-53.7065041,16.6948725,1,Adama Mickiewicza,Szczecinek
 53.5708067,14.8387267,16,Nowogardzka,Goleniów
 53.5705541,14.8395757,16A,Nowogardzka,Goleniów
 53.6685891,15.123909,19B,700 Lecia,Nowogard
@@ -92892,7 +92840,7 @@ lat,lon,housenumber,street,city
 54.2028967,15.71494,10,Jaśminowa,Sianożęty
 54.196415,15.7369643,13,Malechowska,Sianożęty
 54.1972419,15.7369189,13A,Malechowska,Sianożęty
-54.2076663,15.7168796,38B,Lotnicza,Sianożęty
+54.206795,15.7177036,38,Lotnicza,Sianożęty
 53.4523627,14.3801317,11B,Lubieszyn,Dołuje
 53.9146186,15.1830828,25,Łąkowa,
 54.0580698,15.2899367,2a,Kryształowa,Trzebiatów
@@ -93149,7 +93097,7 @@ lat,lon,housenumber,street,city
 53.2799699,16.4628269,16,Kołobrzeska,Wałcz
 53.582159,16.5352631,17,Sosnowa,Borne Sulinowo
 53.4161393,14.5476442,5,Krzysztofa Kolumba,
-54.1836149,15.5552696,45,Portowa,Kołobrzeg
+54.1836262,15.5553251,45,Portowa,Kołobrzeg
 54.1905115,16.1953368,133,Zwycięstwa,Koszalin
 54.1905186,16.1954291,133,Zwycięstwa,Koszalin
 54.190624,16.1960286,1,Jana Matejki,Koszalin
@@ -93200,7 +93148,6 @@ lat,lon,housenumber,street,city
 53.2595961,16.4500386,83,Generała Władysława Andersa,Wałcz
 53.6937193,16.7220029,8,Leśna,Szczecinek
 53.6926466,16.7203742,10,Leśna,Szczecinek
-53.309453,15.0424176,34,Szmaragdowa,Witkowo Drugie
 53.7105751,16.6986628,17,Lipowa,Szczecinek
 53.7108038,16.698955,24,Lipowa,Szczecinek
 53.7172445,16.6971378,51,Kaszubska,Szczecinek
@@ -93443,6 +93390,7 @@ lat,lon,housenumber,street,city
 53.3645347,14.6493866,9,Kolorowych Domów,Szczecin
 53.4315975,14.505041,12,Antoniego Kaliny,
 53.4315709,14.5049911,12,Antoniego Kaliny,
+53.5418585,14.5682784,52,Marszałka Józefa Piłsudskiego,Police
 54.2019489,16.2065077,26,Orląt Lwowskich,Koszalin
 53.9107688,14.2496072,7,Marszałka Józefa Piłsudskiego,
 53.5289236,14.5525234,75B,,
@@ -93639,6 +93587,59 @@ lat,lon,housenumber,street,city
 54.205174,16.6886616,11,,
 54.0584732,15.9035173,2C,,
 53.184421,16.3798886,73,Dzikowo,Dzikowo
+54.060013,15.2909941,12,Koralowa,Trzebiatów
+54.0599614,15.2906727,10,Koralowa,Trzebiatów
+54.060214,15.2897993,5,Koralowa,Trzebiatów
+54.0607661,15.2927319,4,Turkusowa,Trzebiatów
+53.4551615,14.5349571,22,Fryderyka Chopina,Szczecin
+53.9999106,14.9699301,90L,,Gostyniec
+54.0009272,14.9406472,31,,
+53.4920742,14.4969695,44,Osowska,Pilchowo
+53.2676631,16.2998661,51,Nakielno,
+53.6960324,14.3657921,12a,,
+53.421317,14.5185328,3,Generała Aleksandra Litwinowicza,Szczecin
+53.2619514,16.3028611,25,,
+53.5208916,16.2296816,1E,,
+53.519097,16.2290117,5E,,
+53.5774195,16.2173347,1BD,,
+54.1811908,16.1772892,16,Poprzeczna,
+53.5735992,16.2247029,4E,Pięciu Pomostów,Czaplinek
+53.5732876,16.2255569,4C,Pięciu Pomostów,Czaplinek
+53.5735718,16.2249667,4D,Pięciu Pomostów,Czaplinek
+54.5373698,16.5318462,9J,Leśna,Jarosławiec
+54.5372017,16.5323196,9L,Leśna,Jarosławiec
+54.537085,16.5323934,9M,Leśna,Jarosławiec
+53.7007238,16.69427,21/1,Adama Mickiewicza,Szczecinek
+53.9207584,16.3585433,4B,,
+53.9211204,16.3570044,4A,,
+53.9222421,16.3593115,7A,,
+53.9173935,16.3977509,49,,
+53.9491082,16.3463067,25,,
+53.9472491,16.3489646,31,,
+53.9473179,16.3499667,30A,,
+53.3435577,15.0530582,1,Gdańska,Stargard
+53.3438649,15.0526907,1,Gdańska,Stargard
+53.920347,16.3371188,6,,
+53.9316808,16.276095,11,Sosnowa,Tychowo
+53.9313875,16.2743322,5,Sosnowa,Tychowo
+53.9309741,16.2772834,6A,Sosnowa,Tychowo
+53.9309068,16.2777237,6B,Sosnowa,Tychowo
+53.936378,16.2777973,54,Bobolicka,Tychowo
+53.9359534,16.2769093,52,Bobolicka,Tychowo
+54.183515,15.5555588,45,Portowa,Kołobrzeg
+53.9171913,16.250971,7A,Dolna,Tychowo
+53.9164282,16.2497573,7,Dolna,Tychowo
+53.9157187,16.247088,8,Dolna,Tychowo
+53.9625023,14.5720031,9a,Warnowska,
+54.2455661,16.1812735,5,Platynowa,Koszalin
+54.244657,16.1772501,16,Złota,Koszalin
+54.2457118,16.1776632,9,Srebrna,Koszalin
+53.8842201,16.2772416,4A,,
+53.9362311,16.2723729,37E,Bobolicka,Tychowo
+53.9362612,16.2674899,15C,Leśna,Tychowo
+53.9365195,16.2671696,15D,Leśna,Tychowo
+53.9367334,16.2668669,15E,Leśna,Tychowo
+53.9826935,16.3079475,17C,,
 53.9328078,14.2068393,1,Waldoase,Heringsdorf
 53.6540923,14.6145391,7,Rybacka,Stepnica
 54.0355218,14.8038836,12,Kamieńska,Dziwnówek
@@ -93837,7 +93838,7 @@ lat,lon,housenumber,street,city
 53.4402942,14.4972529,6,Józefa Dwernickiego,Szczecin
 53.4403047,14.4997514,2a,Józefa Dwernickiego,Szczecin
 53.4403191,14.4974602,2,Listopadowa,Szczecin
-53.4403466,14.4988301,34,Reduty Ordona,Szczecin
+53.4403381,14.4988268,34,Reduty Ordona,Szczecin
 53.4424022,14.4963037,46c,Somosierry,Szczecin
 53.4420134,14.4964283,46,Somosierry,Szczecin
 53.4422659,14.4963471,46b,Somosierry,Szczecin
@@ -96236,7 +96237,7 @@ lat,lon,housenumber,street,city
 53.4212892,14.5198955,24a,Ku Słońcu,Szczecin
 53.4218814,14.5222497,24,Ku Słońcu,
 53.4219856,14.5224755,23e,Ku Słońcu,Szczecin
-53.4213901,14.5236733,22a,Ku Słońcu,Szczecin
+53.4213859,14.5235897,22a,Ku Słońcu,Szczecin
 53.4215927,14.5293892,10,Ku Słońcu,Szczecin
 53.4214123,14.5241403,21,Ku Słońcu,Szczecin
 53.4215382,14.5243942,20,Ku Słońcu,Szczecin
@@ -96849,7 +96850,7 @@ lat,lon,housenumber,street,city
 53.4243334,14.5353315,18,aleja Piastów,Szczecin
 53.4264822,14.537214,52,aleja Piastów,Szczecin
 53.4261903,14.5375553,51-of,aleja Piastów,Szczecin
-53.4262585,14.5371257,51,aleja Piastów,Szczecin
+53.4262593,14.5371249,51,aleja Piastów,Szczecin
 53.4245817,14.538277,17,Władysława Jagiełły,Szczecin
 53.424522,14.5379196,16-of,Władysława Jagiełły,Szczecin
 53.4244757,14.5382327,17-of,Władysława Jagiełły,Szczecin
@@ -97220,7 +97221,7 @@ lat,lon,housenumber,street,city
 53.4272636,14.5398149,11,Błogosławionej Królowej Jadwigi,Szczecin
 53.4288151,14.5387223,14-ofof,Andrzeja Małkowskiego,Szczecin
 53.4287124,14.5390316,13-ofof,Andrzeja Małkowskiego,Szczecin
-53.4285744,14.5380456,61,aleja Piastów,Szczecin
+53.4285773,14.5380425,61,aleja Piastów,Szczecin
 53.4283672,14.5388763,13,Andrzeja Małkowskiego,Szczecin
 53.4291854,14.5388637,14-of,Bohaterów Getta Warszawskiego,Szczecin
 53.4291069,14.5393261,13-of,Bohaterów Getta Warszawskiego,Szczecin
@@ -97814,7 +97815,7 @@ lat,lon,housenumber,street,city
 53.4206141,14.5501864,4,plac Zawiszy Czarnego,Szczecin
 53.4205505,14.550677,2,plac Zawiszy Czarnego,Szczecin
 53.4207935,14.5518572,6,Księcia Świętopełka,Szczecin
-53.4207002,14.5528816,1,plac Grodnicki,Szczecin
+53.4206999,14.5528811,1,plac Grodnicki,Szczecin
 53.4214053,14.5512035,5,Józefa Korzeniowskiego,Szczecin
 53.423773,14.5546806,55,Podgórna,Szczecin
 53.4238041,14.5533986,66,Podgórna,Szczecin
@@ -99743,6 +99744,7 @@ lat,lon,housenumber,street,city
 53.4461374,14.5579295,17-ofof,Hipolita Cegielskiego,Szczecin
 53.4489172,14.5473374,11a,Elizy Orzeszkowej,Szczecin
 53.4494234,14.5528052,4d,Księcia Warcisława I,Szczecin
+53.4230845,14.5381777,27-28,Błogosławionej Królowej Jadwigi,
 53.4375294,14.5767419,24,Stanisława Dubois,Szczecin
 53.4381544,14.577694,23,Stanisława Dubois,Szczecin
 53.4376396,14.5665316,5,plac Matki Teresy z Kalkuty,Szczecin
@@ -112066,7 +112068,7 @@ lat,lon,housenumber,street,city
 53.413166,14.5717895,7a,Gdańska,Szczecin
 53.4088146,14.5599974,4,Łososiowa,Szczecin
 53.4126475,14.5683896,3EC,Gdańska,Szczecin
-53.4083944,14.5607662,7,Marynarska,Szczecin
+53.4083946,14.5607668,7,Marynarska,Szczecin
 53.4081719,14.562056,9,Marynarska,Szczecin
 53.4095722,14.5634467,21,Kanałowa,Szczecin
 53.4055735,14.5654045,7,Flisacka,Szczecin
@@ -113146,7 +113148,7 @@ lat,lon,housenumber,street,city
 53.3736645,14.609087,37,Granitowa,Szczecin
 53.3684456,14.6036325,14,Marmurowa,Szczecin
 53.3599366,14.5877021,1,Kapitana Adama Walczaka,Szczecin
-53.3799265,14.6271901,95a,Batalionów Chłopskich,Szczecin
+53.3799259,14.6271901,95a,Batalionów Chłopskich,Szczecin
 53.3591115,14.5950512,18,Cynowa,Szczecin
 53.3596662,14.5969443,4,Smocza,Szczecin
 53.3793384,14.6275783,23,Batalionów Chłopskich,Szczecin
@@ -113343,7 +113345,7 @@ lat,lon,housenumber,street,city
 53.3686679,14.5985469,1,Karpia,Szczecin
 53.3575775,14.6049038,5,Marii Grzegorzewskiej,Szczecin
 53.3586313,14.5889893,10,Kapitana Adama Walczaka,Szczecin
-53.3799385,14.6264089,97a,Batalionów Chłopskich,Szczecin
+53.379941,14.6264199,97a,Batalionów Chłopskich,Szczecin
 53.361187,14.6029553,42,Ruda,Szczecin
 53.3623052,14.6105503,8a,Chojnicka,Szczecin
 53.3572208,14.5960808,8,Leśników,Szczecin
@@ -114046,7 +114048,7 @@ lat,lon,housenumber,street,city
 53.3567212,14.5840112,2b,Kołowska,Szczecin
 53.3629899,14.6030424,35,Stalowa,Szczecin
 53.3598388,14.5982487,34,Przewiewna,Szczecin
-53.3797397,14.6269412,96,Batalionów Chłopskich,Szczecin
+53.3797381,14.6269398,96,Batalionów Chłopskich,Szczecin
 53.3627952,14.6055557,19,Sąsiedzka,Szczecin
 53.3613771,14.5947129,12,Planty,Szczecin
 53.3702122,14.600957,4,Marmurowa,Szczecin
@@ -119826,7 +119828,7 @@ lat,lon,housenumber,street,city
 54.1761649,15.5809336,4,Słowińców,Kołobrzeg
 54.1747304,15.5823088,2,Lipowa,Kołobrzeg
 54.1761481,15.5717949,14,Wąska,Kołobrzeg
-54.1758122,15.5816569,8,Słowińców,Kołobrzeg
+54.1758105,15.5816589,8,Słowińców,Kołobrzeg
 54.176524,15.572429,10,Wąska,Kołobrzeg
 54.1770212,15.5727892,2,Wąska,Kołobrzeg
 54.1782179,15.5713531,6,Armii Krajowej,Kołobrzeg
@@ -137528,6 +137530,7 @@ lat,lon,housenumber,street,city
 53.1786918,15.4086436,58,Stargardzka,Choszczno
 53.1634813,15.4222522,42,Bolesława Chrobrego,Choszczno
 53.1656677,15.4245807,8,Majora Henryka Sucharskiego,Choszczno
+53.1619914,15.4335822,4,Stanisława Staszica,Choszczno
 53.1776234,15.413373,31,Jana Długosza,Choszczno
 53.1702116,15.4293621,21,Jacka Malczewskiego,Choszczno
 53.1660548,15.4067846,3,Józefa Ignacego Kraszewskiego,Choszczno
@@ -137893,7 +137896,7 @@ lat,lon,housenumber,street,city
 53.1461511,15.6237416,19,,
 53.1512879,15.6260466,45,,
 53.1460186,15.6280691,5,,
-53.1511314,15.6255383,33A,,
+53.1511431,15.6255517,33A,,
 53.1465751,15.6270758,30,,
 53.148719,15.6263629,31C,,
 53.1519648,15.6261172,43,,
@@ -140515,7 +140518,6 @@ lat,lon,housenumber,street,city
 54.2078638,15.7268219,1F,Lotnicza,Sianożęty
 54.211499,15.7444005,2b,Rolna,Ustronie Morskie
 54.2074948,15.7279943,1,Lotnicza,Sianożęty
-54.2069947,15.7179588,38,Lotnicza,Sianożęty
 54.2082501,15.7279675,1a,Lotnicza,Sianożęty
 54.2171509,15.7580732,12,Tadeusza Kościuszki,Ustronie Morskie
 54.2084383,15.7276128,1B,Lotnicza,Sianożęty
@@ -142865,7 +142867,6 @@ lat,lon,housenumber,street,city
 53.5812803,16.543166,3,Mikołaja Reja,Borne Sulinowo
 53.5821781,16.5403414,5A,Juliusza Słowackiego,Borne Sulinowo
 53.5803549,16.53641,11,Juliusza Słowackiego,Borne Sulinowo
-53.5803674,16.5346912,11A,Kardynała Stefana Wyszyńskiego,Borne Sulinowo
 53.5821125,16.5394679,8,Kardynała Stefana Wyszyńskiego,Borne Sulinowo
 53.5809477,16.5356181,10,Kardynała Stefana Wyszyńskiego,Borne Sulinowo
 53.5834796,16.5414721,13,Aleja Niepodległości,Borne Sulinowo
@@ -144184,7 +144185,7 @@ lat,lon,housenumber,street,city
 52.6852996,14.7553585,52,,
 52.6872217,14.7622433,10,,
 52.6855755,14.7586286,45,,
-52.6853779,14.7628446,36,,
+52.6854123,14.7628229,36,,
 52.6879615,14.7621144,7a,,
 52.6860129,14.7560263,3,,
 52.6868226,14.7579856,6,,
@@ -144194,7 +144195,7 @@ lat,lon,housenumber,street,city
 52.6866464,14.7651697,12,,
 52.685779,14.7583491,46,,
 52.6860906,14.7611212,40,,
-52.686004,14.7627097,35,,
+52.6859994,14.7626998,35,,
 52.6870568,14.7612106,8,,
 52.6857441,14.7600256,43,,
 52.6867162,14.7631203,11,,
@@ -146786,7 +146787,7 @@ lat,lon,housenumber,street,city
 54.1869318,16.2036148,47,Wojska Polskiego,Koszalin
 54.2168661,16.2025394,1,Kujawska,Koszalin
 54.2170588,16.2033031,1,Mazurska,Koszalin
-54.2166465,16.2015354,1,Podlaska,Koszalin
+54.2165934,16.2015998,1,Podlaska,Koszalin
 54.2174136,16.2041358,1,Warmińska,Koszalin
 54.2173251,16.2024428,10,Kujawska,Koszalin
 54.2177901,16.2033312,10,Mazurska,Koszalin
@@ -146795,7 +146796,7 @@ lat,lon,housenumber,street,city
 54.217996,16.2040946,10,Warmińska,Koszalin
 54.2173344,16.2020091,11,Kujawska,Koszalin
 54.2175536,16.2027303,11,Mazurska,Koszalin
-54.2164408,16.2012152,11,Podlaska,Koszalin
+54.2164408,16.201215,11,Podlaska,Koszalin
 54.2178897,16.2035807,11,Warmińska,Koszalin
 54.2174022,16.202354,12,Kujawska,Koszalin
 54.2177489,16.2032306,12,Mazurska,Koszalin
@@ -146814,7 +146815,7 @@ lat,lon,housenumber,street,city
 54.2168681,16.2004081,14,Wielkopolska,Koszalin
 54.2175424,16.2017683,15,Kujawska,Koszalin
 54.2177626,16.2024896,15,Mazurska,Koszalin
-54.216339,16.2012243,15,Podlaska,Koszalin
+54.2163386,16.2012241,15,Podlaska,Koszalin
 54.218099,16.2033407,15,Warmińska,Koszalin
 54.2176098,16.2021124,16,Kujawska,Koszalin
 54.2179595,16.2029877,16,Mazurska,Koszalin
@@ -146833,7 +146834,7 @@ lat,lon,housenumber,street,city
 54.217232,16.2005033,18,Wielkopolska,Koszalin
 54.2177505,16.2015259,19,Kujawska,Koszalin
 54.217972,16.2022554,19,Mazurska,Koszalin
-54.2161468,16.2007986,19,Podlaska,Koszalin
+54.2161461,16.2007983,19,Podlaska,Koszalin
 54.2183065,16.2030996,19,Warmińska,Koszalin
 54.2169052,16.2029185,2,Kujawska,Koszalin
 54.2167296,16.2021907,2,Podlaska,Koszalin
@@ -146842,25 +146843,25 @@ lat,lon,housenumber,street,city
 54.2178183,16.2018758,20,Kujawska,Koszalin
 54.2175239,16.2011345,20,Podlaska,Koszalin
 54.2184804,16.2035367,20,Warmińska,Koszalin
-54.2161958,16.2009215,21,Podlaska,Koszalin
-54.2162372,16.2006945,23,Podlaska,Koszalin
-54.2162856,16.2008181,25,Podlaska,Koszalin
-54.2163708,16.2008616,27,Podlaska,Koszalin
-54.2166041,16.2005781,29,Podlaska,Koszalin
+54.2161952,16.2009212,21,Podlaska,Koszalin
+54.2162361,16.2006941,23,Podlaska,Koszalin
+54.2162852,16.2008179,25,Podlaska,Koszalin
+54.216332,16.2007629,27,Podlaska,Koszalin
+54.2166041,16.2005784,29,Podlaska,Koszalin
 54.2169142,16.2024831,3,Kujawska,Koszalin
 54.2171359,16.2032143,3,Mazurska,Koszalin
 54.2165629,16.2015247,3,Podlaska,Koszalin
 54.2174732,16.2040652,3,Warmińska,Koszalin
-54.2165335,16.200661,31,Podlaska,Koszalin
-54.2165126,16.2007979,33,Podlaska,Koszalin
+54.2165335,16.2006607,31,Podlaska,Koszalin
+54.2165639,16.2007357,33,Podlaska,Koszalin
 54.2179485,16.2047006,33,Pomorska,Koszalin
-54.2165956,16.2008159,35,Podlaska,Koszalin
+54.2165956,16.2008157,35,Podlaska,Koszalin
 54.2180065,16.2046341,35,Pomorska,Koszalin
 54.2178961,16.2053602,36,Pomorska,Koszalin
-54.2165749,16.2009533,37,Podlaska,Koszalin
+54.2166262,16.2008917,37,Podlaska,Koszalin
 54.2181353,16.2044649,37,Pomorska,Koszalin
 54.2181143,16.2051078,38,Pomorska,Koszalin
-54.2166574,16.20097,39,Podlaska,Koszalin
+54.2166574,16.2009698,39,Podlaska,Koszalin
 54.2182088,16.2043811,39,Pomorska,Koszalin
 54.2169823,16.2028298,4,Kujawska,Koszalin
 54.2166884,16.2020901,4,Podlaska,Koszalin
@@ -146868,19 +146869,19 @@ lat,lon,housenumber,street,city
 54.217647,16.2044989,4,Warmińska,Koszalin
 54.2183063,16.2049242,40,Pomorska,Koszalin
 54.218388,16.2048316,40a,Pomorska,Koszalin
-54.2166363,16.2011063,41,Podlaska,Koszalin
+54.216688,16.2010461,41,Podlaska,Koszalin
 54.2184832,16.2040292,41,Pomorska,Koszalin
 54.2185378,16.204647,42,Pomorska,Koszalin
-54.2167194,16.2011246,43,Podlaska,Koszalin
+54.2167194,16.2011247,43,Podlaska,Koszalin
 54.2187719,16.2043452,44,Pomorska,Koszalin
-54.216699,16.2012626,45,Podlaska,Koszalin
+54.2167499,16.201201,45,Podlaska,Koszalin
 54.2186875,16.2040403,45,Pomorska,Koszalin
-54.2168818,16.2012702,47,Podlaska,Koszalin
+54.216882,16.201268,47,Podlaska,Koszalin
 54.2186214,16.2038777,47,Pomorska,Koszalin
-54.2167596,16.2014136,49,Podlaska,Koszalin
+54.21681,16.2013523,49,Podlaska,Koszalin
 54.2170759,16.2023028,5,Kujawska,Koszalin
 54.2172665,16.2030598,5,Mazurska,Koszalin
-54.2164946,16.2016061,5,Podlaska,Koszalin
+54.2164943,16.201606,5,Podlaska,Koszalin
 54.2176215,16.20389,5,Warmińska,Koszalin
 54.2169429,16.2008923,51,Podlaska,Koszalin
 54.2172274,16.2007663,53,Podlaska,Koszalin
@@ -146892,7 +146893,7 @@ lat,lon,housenumber,street,city
 54.2177866,16.2043378,6,Warmińska,Koszalin
 54.217124,16.2022465,7,Kujawska,Koszalin
 54.2173436,16.2029711,7,Mazurska,Koszalin
-54.2165018,16.2013717,7,Podlaska,Koszalin
+54.2165018,16.2013716,7,Podlaska,Koszalin
 54.2176811,16.2038195,7,Warmińska,Koszalin
 54.2171932,16.2025931,8,Kujawska,Koszalin
 54.217541,16.2034706,8,Mazurska,Koszalin
@@ -147025,7 +147026,7 @@ lat,lon,housenumber,street,city
 54.1572523,15.4078867,12d,Piastowska,Dźwirzyno
 54.1570305,15.4155202,2,Aleja Południowa,Dźwirzyno
 54.1570305,15.4161736,4,Aleja Południowa,Dźwirzyno
-54.1572898,15.4164503,5,Aleja Południowa,Dźwirzyno
+54.1572813,15.4164496,5,Aleja Południowa,Dźwirzyno
 54.1572074,15.4169809,7,Aleja Południowa,Dźwirzyno
 54.1581693,15.4074987,7,Piastowska,Dźwirzyno
 54.1573453,15.4158358,3,Aleja Południowa,Dźwirzyno
@@ -148200,6 +148201,7 @@ lat,lon,housenumber,street,city
 54.2115611,15.7566282,45,Górna,Ustronie Morskie
 54.2112026,15.7563697,5,Bogusława XIV,Ustronie Morskie
 54.2115495,15.7572802,2,Wakacyjna,Ustronie Morskie
+54.2427307,15.8689895,100,Nadbrzeżna,
 54.2134901,15.7519806,1a,Osiedlowa,Ustronie Morskie
 54.2141369,15.7606808,1e,Targowa,Ustronie Morskie
 54.2137916,15.7518016,1,Osiedlowa,Ustronie Morskie
@@ -148441,7 +148443,8 @@ lat,lon,housenumber,street,city
 54.1728309,15.5344172,17d,Klonowa,Kołobrzeg
 54.1727075,15.534002,17e,Klonowa,Kołobrzeg
 54.172331,15.5329075,17f,Klonowa,Kołobrzeg
-54.1719341,15.533441,17h,Klonowa,Kołobrzeg
+54.1715599,15.5336316,17i,Klonowa,Kołobrzeg
+54.1719337,15.5334428,17h,Klonowa,Kołobrzeg
 54.1703094,15.5293736,2,Plażowa,Kołobrzeg
 54.1514204,15.3946407,38,Jachtowa,Dźwirzyno
 54.1494049,15.3997452,46c,Jachtowa,Dźwirzyno
@@ -149519,7 +149522,6 @@ lat,lon,housenumber,street,city
 53.8996305,14.224192,53b,Mazowiecka,Świnoujście
 53.9007556,14.2250184,54,Mazowiecka,Świnoujście
 53.902651,14.2286314,54,Małopolska,Świnoujście
-53.8985565,14.2318821,54a,Grunwaldzka,Świnoujście
 53.900542,14.2289784,55,Juliana Markiewicza,
 53.9005959,14.2247672,55,Mazowiecka,Świnoujście
 53.9025127,14.2265306,55,Wielkopolska,Świnoujście
@@ -149611,7 +149613,7 @@ lat,lon,housenumber,street,city
 53.902932,14.2297503,1c,Szkolna,Świnoujście
 53.902882,14.2296314,1d,Szkolna,
 53.9021729,14.2355777,2,Grodzka,Świnoujście
-53.9012591,14.2325434,25d,Gdyńska,Świnoujście
+53.9012662,14.232532,25d,Gdyńska,Świnoujście
 53.9035765,14.2341992,26,Gdyńska,Świnoujście
 53.9019559,14.23084,27b,Gdyńska,Świnoujście
 53.9024857,14.2329463,29,Gdyńska,Świnoujście
@@ -156138,8 +156140,8 @@ lat,lon,housenumber,street,city
 53.5009979,14.4900226,16,Olchowa,Pilchowo
 53.5003792,14.4946291,23,Widokowa,Pilchowo
 53.5008769,14.4885588,25,Olchowa,Pilchowo
-53.49997,14.4942606,26,Widokowa,Pilchowo
-53.4998881,14.4942371,26a,Widokowa,Pilchowo
+53.49997,14.4942606,28a,Widokowa,Pilchowo
+53.4998881,14.4942371,28b,Widokowa,Pilchowo
 53.4994446,14.4911729,3,Widokowa,Pilchowo
 53.5010545,14.4893125,31,Olchowa,Pilchowo
 53.4993029,14.4903233,4,Klonowa,Pilchowo
@@ -171119,7 +171121,7 @@ lat,lon,housenumber,street,city
 54.4556856,16.4349142,29,,
 54.4617516,16.4322064,10,,
 54.4613717,16.4279135,35,,
-54.4600395,16.4307754,7a,,
+54.4600446,16.4307715,7A,,
 54.4610419,16.4336028,15,,
 54.4606439,16.4334938,16,,
 54.461213,16.4329603,14,,
@@ -176473,7 +176475,6 @@ lat,lon,housenumber,street,city
 53.5613265,16.2315262,36,Stanisława Moniuszki,Czaplinek
 53.5552559,16.2312686,7,Jana Długosza,Czaplinek
 53.5515028,16.2363885,15-17,Poznańska,Czaplinek
-53.58343,16.2095581,7,Pięciu Pomostów,Czaplinek
 53.5532734,16.243097,10a,Bolesława Chrobrego,Czaplinek
 53.5602533,16.2328061,1,Stanisława Moniuszki,Czaplinek
 53.5553282,16.230533,12,Jana Długosza,Czaplinek
@@ -176886,7 +176887,7 @@ lat,lon,housenumber,street,city
 53.4957793,16.2545056,16,,
 53.4819583,16.3475854,50,,
 53.493286,16.3737104,3,,
-53.5836623,16.2120114,1,,
+53.5836767,16.2120179,1,,
 53.5969357,16.097605,31,,
 53.5641442,16.0848191,10a,,
 53.5546071,16.1970881,5,,
@@ -193461,7 +193462,6 @@ lat,lon,housenumber,street,city
 53.9259656,14.4387157,46A,Gryfa Pomorskiego,Międzyzdroje
 53.9293496,14.4499959,4d,Krótka,Międzyzdroje
 53.933183,14.4565802,2a,Pomorska,Międzyzdroje
-53.9025451,14.4370109,5,Nadbrzeżna,Wicko
 53.9333847,14.4561811,25,Książąt Pomorskich,Międzyzdroje
 53.926936,14.4555671,29,Kolejowa,Międzyzdroje
 53.9311132,14.454381,36,Zwycięstwa,Międzyzdroje
@@ -199381,7 +199381,7 @@ lat,lon,housenumber,street,city
 53.8683562,14.822901,14,,
 53.8662237,14.8248524,12,,
 53.9760554,14.8061025,10,,
-53.9659303,14.8498018,3b,,
+53.9660027,14.8497323,3b,,
 53.9668445,14.7801099,21a,Cypriana Kamila Norwida,Kamień Pomorski
 53.9377198,14.8216249,31,,
 53.9187298,14.7073344,23,,
@@ -200490,6 +200490,7 @@ lat,lon,housenumber,street,city
 53.8750165,14.5803784,3,,
 53.9651558,14.6143263,2,Słoneczna,Kołczewo
 53.8343943,14.6112786,20a,Stanisława Moniuszki,Wolin
+53.9625465,14.5720124,9a,Warnowska,
 53.9762692,14.6981303,3,,
 53.9347129,14.578997,61,,
 53.837612,14.6102143,61,Słowiańska,Wolin
@@ -207840,6 +207841,7 @@ lat,lon,housenumber,street,city
 54.0774384,15.017329,14,Rumiankowa,Rewal
 54.0831289,15.0180283,1,Biała,Rewal
 54.0765777,15.0120757,38,Dworcowa,Rewal
+54.0791413,15.0200251,3,Chabrowa,
 54.0776402,15.0119365,22,Dworcowa,Rewal
 54.0793932,15.0147491,34,Rybacka,Rewal
 54.0763787,15.0132578,14r,Polna,Rewal
@@ -211950,7 +211952,7 @@ lat,lon,housenumber,street,city
 53.3514955,16.3987197,40,,
 53.3493739,16.5728239,7,Kościelna,Szwecja
 53.2004274,16.4970909,123,,
-53.2010783,16.4954146,89,,
+53.2010789,16.4954072,89,,
 53.2569101,16.5239724,9,,
 53.2299643,16.5368062,39,,
 53.1955811,16.4946765,37,,
@@ -212248,7 +212250,6 @@ lat,lon,housenumber,street,city
 53.2294643,16.4530097,36,,
 53.2467403,16.5896967,68,,
 53.3137297,16.3477904,22,,
-53.231967,16.5397509,23B,,
 53.2684471,16.6122033,33,,
 53.2988992,16.5302615,6,,
 53.2139062,16.389286,20,,
@@ -212787,7 +212788,7 @@ lat,lon,housenumber,street,city
 53.3457205,16.3657907,6,,
 53.2444525,16.3646,58,,
 53.3156712,16.3403033,52,,
-53.2315972,16.5379178,19,,
+53.2315906,16.5379391,19,,
 53.3241893,16.5671633,4,,
 53.2478051,16.5816433,37,,
 53.345404,16.4276598,3,,
@@ -212937,7 +212938,7 @@ lat,lon,housenumber,street,city
 53.3707036,16.4258471,3,,
 53.2570985,16.5214087,24,,
 53.3191584,16.4366656,44A,,
-53.2321493,16.5400696,23,,
+53.2321468,16.5400478,23,,
 53.2989259,16.5272884,196A,,
 53.1973449,16.4948507,45,,
 53.3456273,16.5693913,4,Szkolna,Szwecja
@@ -213386,7 +213387,7 @@ lat,lon,housenumber,street,city
 53.3550886,16.394855,30,,
 53.1993607,16.4972897,104,,
 53.3543448,16.3942424,29A,,
-53.2272216,16.5320297,50,,
+53.2272282,16.5320364,50,,
 53.3181352,16.4367177,17,,
 53.3493557,16.5706454,21,Szkolna,Szwecja
 53.1933855,16.4944165,29,,
@@ -228123,7 +228124,7 @@ lat,lon,housenumber,street,city
 53.8839463,16.2774383,14,,
 53.9231838,16.3617691,12,,
 53.8892414,16.1293411,11,,
-53.9768117,16.3160884,3,,
+53.9768121,16.3160924,3,,
 53.9319759,16.2653893,11,Bobolicka,Tychowo
 53.9467241,16.4094556,1A,,
 53.8653078,16.1720751,3,,
@@ -228206,7 +228207,7 @@ lat,lon,housenumber,street,city
 53.888638,16.204452,40,,
 53.8958486,16.2050545,21,,
 53.930816,16.1407486,12,,
-53.9768067,16.316449,2,,
+53.97686,16.3163085,2,,
 53.9489644,16.3484614,18,,
 53.9857004,16.1916266,12a,,
 53.9247531,16.2537252,5,Szczecinecka,Tychowo
@@ -228271,7 +228272,7 @@ lat,lon,housenumber,street,city
 53.8893673,16.1277698,19,,
 53.886689,16.3207647,6,,
 53.986632,16.1952464,28,,
-53.9800572,16.3129026,14,,
+53.9800562,16.3129026,14,,
 53.8992385,16.3154428,14,,
 53.9534397,16.165473,8,,
 53.9861702,16.1929349,14,,
@@ -228322,7 +228323,7 @@ lat,lon,housenumber,street,city
 53.8876083,16.1327214,5,,
 53.930801,16.2675553,16,Polna,Tychowo
 53.9202451,16.3360362,4,,
-53.9378786,16.2381538,11A,,
+53.9378845,16.2381999,11A,,
 53.9940652,16.3074713,16,,
 54.003645,16.3174909,3,,
 53.8792588,16.2209368,35,,
@@ -228357,7 +228358,7 @@ lat,lon,housenumber,street,city
 53.9289464,16.2661528,12A,Parkowa,Tychowo
 53.9246089,16.3635983,25,,
 53.9915582,16.3033208,26,,
-53.9224438,16.3606591,8,,
+53.9224437,16.3606586,8,,
 53.9282519,16.201189,8,,
 53.9765322,16.1704216,4,,
 53.9141032,16.4277304,7,,
@@ -228366,7 +228367,7 @@ lat,lon,housenumber,street,city
 53.9338605,16.2717094,44,Bobolicka,Tychowo
 54.0034671,16.3168416,1,,
 53.9753332,16.2416192,11,,
-53.9225038,16.3631829,17,,
+53.9225064,16.3631846,17,,
 53.930954,16.2619813,35,Wolności,Tychowo
 54.0023202,16.171282,1,,
 53.9310455,16.2587787,1,Ogrodowa,Tychowo
@@ -228438,7 +228439,7 @@ lat,lon,housenumber,street,city
 53.9311952,16.1396694,10,,
 53.9295721,16.2668966,17,Parkowa,Tychowo
 53.9816886,16.1932717,25,,
-53.9222573,16.3605797,7,,
+53.922258,16.3605799,7,,
 53.9344412,16.273499,58,Bobolicka,Tychowo
 53.8971638,16.2064216,18,,
 53.9348439,16.2740652,41,Bobolicka,Tychowo
@@ -228448,7 +228449,7 @@ lat,lon,housenumber,street,city
 53.9285965,16.2575711,3,Kościelna,Tychowo
 53.9250133,16.2534388,3,Szczecinecka,Tychowo
 53.9306238,16.2595316,21a,Wolności,Tychowo
-53.922741,16.3631765,16,,
+53.9227143,16.3631727,16,,
 53.9259471,16.2002465,29,,
 53.9285251,16.3659308,33,,
 54.0011413,16.1695321,10,,
@@ -228545,7 +228546,6 @@ lat,lon,housenumber,street,city
 53.8891839,16.1268362,18,,
 53.9920902,16.1161399,29A,,
 53.934058,16.2723176,50,Bobolicka,Tychowo
-53.8842078,16.2771492,4A,,
 53.9347589,16.2676967,12,Leśna,Tychowo
 53.9294744,16.2586956,9,Wolności,Tychowo
 53.8918481,16.1996952,59,,
@@ -228584,7 +228584,7 @@ lat,lon,housenumber,street,city
 53.9054511,16.06866,29,,
 53.9352562,16.2753123,45,Bobolicka,Tychowo
 53.924027,16.2629983,21A,Parkowa,Tychowo
-53.9798436,16.3130955,12,,
+53.9798474,16.3130923,12,,
 53.9299561,16.2659277,4,Polna,Tychowo
 53.9506519,16.3463229,16,,
 53.9326336,16.2679458,18,Bobolicka,Tychowo
@@ -228613,7 +228613,7 @@ lat,lon,housenumber,street,city
 53.9879453,16.120205,48,,
 53.9295678,16.2026396,12,,
 53.934494,16.2670154,11,Leśna,Tychowo
-53.9235635,16.3635079,22,,
+53.9235627,16.3635093,22,,
 53.9864163,16.1905955,10,,
 53.9267613,16.2548831,4,Dworcowa,Tychowo
 53.9271764,16.2570054,8a,Wolności,Tychowo
@@ -228717,7 +228717,6 @@ lat,lon,housenumber,street,city
 53.9079217,16.2442173,4,,
 53.873778,16.2317465,11,,
 53.8710621,16.235122,22,,
-53.9203698,16.3370297,6,,
 53.9303848,16.3682144,38,,
 53.9337042,16.2671691,7,Leśna,Tychowo
 53.9318307,16.265919,10,Bobolicka,Tychowo
@@ -228734,7 +228733,7 @@ lat,lon,housenumber,street,city
 53.8629663,16.1739835,16,,
 53.9541223,16.253735,2,,
 53.9250539,16.3638115,29,,
-53.9383939,16.2375788,10A,,
+53.9383836,16.2375598,10A,,
 53.9945077,16.3069256,8,,
 53.9079587,16.2441484,4A,,
 53.9291501,16.2589514,26,Wolności,Tychowo
@@ -228780,7 +228779,7 @@ lat,lon,housenumber,street,city
 53.8977628,16.2078966,16,,
 53.8883461,16.2046873,41,,
 53.9075835,16.2448228,3,,
-53.9203576,16.3369319,5,,
+53.9203331,16.3368008,5,,
 53.862903,16.1729196,22,,
 53.9302882,16.2755333,34,Topolowa,Tychowo
 53.9480698,16.3284789,2,,
@@ -228872,7 +228871,7 @@ lat,lon,housenumber,street,city
 53.9321716,16.2688275,1A,Topolowa,Tychowo
 53.931017,16.2674232,13,Polna,Tychowo
 53.9298123,16.2724099,7,Jaśminowa,Tychowo
-53.9799292,16.3129454,13,,
+53.979927,16.3129533,13,,
 53.8978321,16.0931925,23,,
 53.9873436,16.1953247,30,,
 53.8819405,16.218753,36,,
@@ -228888,7 +228887,6 @@ lat,lon,housenumber,street,city
 53.9302581,16.2666071,8,Polna,Tychowo
 53.929512,16.2735375,5,Klonowa,Tychowo
 53.9202835,16.3601698,3,,
-53.9472258,16.3488664,31,,
 53.9888633,16.1195012,44,,
 53.9220567,16.2349887,6,Kolejowa,Tychowo
 54.0017044,16.1634331,12,,
@@ -239916,7 +239914,6 @@ lat,lon,housenumber,street,city
 54.0557603,14.931718,25,Stanisława Moniuszki,Pobierowo
 54.0625976,14.9397483,10,Łomżyńska,Pobierowo
 54.0589503,14.9299813,7,Zgody,Pobierowo
-54.0603964,14.9265064,2 a,Adama Mickiewicza,Pobierowo
 54.0591152,14.9424339,14E,Poznańska,Pobierowo
 54.0618582,14.9406072,2,Ostrowska,Pobierowo
 54.0613368,14.9333755,2,Jana z Kolna,Pobierowo
@@ -242749,6 +242746,7 @@ lat,lon,housenumber,street,city
 53.2815612,15.0743873,3,Spółdzielców,Witkowo Pierwsze
 53.2956673,15.0518089,18,Kresowian,Witkowo Drugie
 53.281757,15.0731403,12,Spółdzielców,Witkowo Pierwsze
+53.3257908,15.084768,82j,,
 53.3656574,15.0379426,7,,
 53.3196803,15.0892585,17b,,
 53.3682212,15.0320052,23,,
@@ -243839,7 +243837,7 @@ lat,lon,housenumber,street,city
 53.2243759,15.3820997,61A,,
 53.1778589,15.4181779,7A,Wojska Polskiego,Choszczno
 53.2238014,15.4310669,26A,,
-53.1624578,15.4045434,3D,Fabryczna,Choszczno
+53.1623945,15.4045124,3D,Fabryczna,Choszczno
 53.1801336,15.4038448,118,,
 53.1776653,15.418806,7B,Wojska Polskiego,Choszczno
 53.1772059,15.399847,22,,
@@ -250457,6 +250455,7 @@ lat,lon,housenumber,street,city
 53.356221,15.0334159,86b,Brzozowa,Stargard
 53.3224319,15.0346116,60c,Bolesława Leśmiana,Stargard
 53.3292048,15.0288895,39E,Spokojna,Stargard
+53.3436018,15.053213,1,Gdańska,Stargard
 53.3413459,15.0396529,17,Andrzeja Struga,Stargard
 53.3453236,15.0423124,44,Bolesława Limanowskiego,Stargard
 53.3373617,15.0168105,15a,Aleja Żołnierza,Stargard
@@ -250500,6 +250499,7 @@ lat,lon,housenumber,street,city
 53.2893011,15.0275341,35,Juliana Ursyna Niemcewicza,Stargard
 53.312085,15.0428861,72AA,Niepodległości,Stargard
 53.3441347,14.9988983,71a,Bornholmska,Stargard
+53.3437308,15.0530573,1,Gdańska,Stargard
 53.3456908,15.0483393,19,Światopełka,Stargard
 53.3430468,15.0279476,6,Towarowa,Stargard
 53.3440412,15.0015444,8,Mieczysława Karłowicza,Stargard
@@ -250540,6 +250540,7 @@ lat,lon,housenumber,street,city
 53.3340312,15.0574949,51,Bydgoska,Stargard
 53.3318228,15.0430909,27b,Stanisława Staszica,Stargard
 53.3155572,15.0440543,53h,Niepodległości,Stargard
+53.3439816,15.0527957,1,Gdańska,Stargard
 53.3474163,15.0045409,1,Krótka,Stargard
 53.3157639,15.0457277,17g,Stanisława Ignacego Witkiewicza,Stargard
 53.3144204,15.0459336,53,Cypriana Kamila Norwida,Stargard
@@ -268763,6 +268764,7 @@ lat,lon,housenumber,street,city
 53.4405429,14.5678008,43b,Parkowa,
 53.4443527,14.5408895,18,Juliusza Słowackiego,Szczecin
 53.4366705,14.5691275,13,Parkowa,Szczecin
+53.4560094,14.5849574,37,Robotnicza,
 53.4261349,14.4830717,57,Hrubieszowska,Szczecin
 53.4245032,14.4708522,10,Gwiezdna,Mierzyn
 53.4202395,14.4741963,8,Generała Józefa Hallera,Szczecin
@@ -270654,7 +270656,7 @@ lat,lon,housenumber,street,city
 54.2086813,16.1587751,115,Franciszkańska,Koszalin
 54.2086368,16.1588268,113,Franciszkańska,Koszalin
 54.2085923,16.1588788,111,Franciszkańska,Koszalin
-54.2086037,16.1590965,25,Leonida Teligi,Koszalin
+54.2085657,16.1591315,25,Leonida Teligi,Koszalin
 54.2089843,16.1608572,130i,Franciszkańska,Koszalin
 54.2090057,16.1607739,130h,Franciszkańska,Koszalin
 54.2089374,16.1606879,130g,Franciszkańska,Koszalin
@@ -299568,7 +299570,7 @@ lat,lon,housenumber,street,city
 54.155938,15.4768388,22,Akacjowa,Grzybowo
 54.1557413,15.476984,9,Akacjowa,Grzybowo
 54.1557618,15.4800756,2,Akacjowa,Grzybowo
-53.0210236,16.0442489,1,,
+53.0210273,16.0442506,1,,
 54.0788444,15.0057253,2,Wakacyjna,Rewal
 53.8434372,14.6171773,24,Mostowa,Wolin
 53.8430824,14.616289,1,Światowida,Wolin
@@ -299946,7 +299948,7 @@ lat,lon,housenumber,street,city
 54.049808,15.302087,86M,,
 54.0499939,15.3028222,87L,,
 54.0503524,15.301991,86L,,
-54.0560946,15.2640456,16,Dąbrówki,Trzebiatów
+54.0560845,15.2640649,16,Dąbrówki,Trzebiatów
 54.0662391,15.2692048,7,Strumykowa,Trzebiatów
 54.0586946,15.2804057,11,Małej Kolejki,
 54.0930761,15.0730492,4A,Trzebiatowska,Niechorze
@@ -300183,6 +300185,7 @@ lat,lon,housenumber,street,city
 53.3789789,14.6270005,2D,Bukszpanowa,Szczecin
 53.3145217,15.0468321,19,Stanisława Ignacego Witkiewicza,Stargard
 53.3139527,15.046794,40,Stanisława Ignacego Witkiewicza,Stargard
+53.3089821,15.0441157,6,Diamentowa,Witkowo Drugie
 53.3088052,15.0432883,14,Diamentowa,Witkowo Drugie
 53.3088052,15.0432883,12,Diamentowa,Witkowo Drugie
 53.308889,15.0437595,8,Diamentowa,Witkowo Drugie
@@ -300211,6 +300214,12 @@ lat,lon,housenumber,street,city
 53.3107771,15.0467339,82B,Kresowian,Witkowo Drugie
 53.310757,15.0466437,82A,Kresowian,Witkowo Drugie
 53.3107772,15.0464264,80,Kresowian,Witkowo Drugie
+53.3101221,15.0457771,76,Kresowian,Stargard
+53.3100597,15.0458489,74,Kresowian,Stargard
+53.3098979,15.0459449,72,Kresowian,Stargard
+53.3098355,15.0460167,70,Kresowian,Stargard
+53.3096112,15.0461753,66,Kresowian,Stargard
+53.3096736,15.0461034,68,Kresowian,Stargard
 53.3115807,15.0379963,16,Miła,Stargard
 53.3120791,15.0374509,12,Miła,Stargard
 53.3119493,15.0371259,5,Powstańców Warszawy,Stargard
@@ -300497,7 +300506,7 @@ lat,lon,housenumber,street,city
 53.3460163,14.7576927,19,Kameralna,Szczecin
 53.3459583,14.7577787,19A,Kameralna,Szczecin
 53.5484811,14.5195641,24,Wspólna,Trzeszczyn
-53.302358,14.8125294,2,Warcisława,Kołbacz
+53.3023543,14.8125276,2,Warcisława,Kołbacz
 53.3248822,14.8494652,10,Łowczych,Bielkowo
 53.3224595,14.8455546,6,Na Wzgórzu,Bielkowo
 53.3229638,14.8459055,2,Na Wzgórzu,Bielkowo
@@ -300959,12 +300968,16 @@ lat,lon,housenumber,street,city
 53.5001758,14.4916015,7,Widokowa,Pilchowo
 53.4994411,14.493178,25,Warszewska,Pilchowo
 53.4987622,14.4921321,34,Warszewska,Pilchowo
+53.498707,14.4917416,32,Warszewska,Pilchowo
 53.4987076,14.4912052,30,Warszewska,Pilchowo
 53.5005183,14.4897244,11,Klonowa,Pilchowo
 53.5003765,14.4896319,12,Olchowa,Pilchowo
 53.5001762,14.4894417,10,Olchowa,Pilchowo
 53.4997652,14.4866059,11A,Olchowa,Pilchowo
-53.498479,14.4923877,30D,Warszewska,Pilchowo
+53.498479,14.4923877,3,Warszewska,Pilchowo
+53.4989387,14.4926237,38,Warszewska,
+53.4988833,14.4928139,38A,Warszewska,Pilchowo
+53.4988064,14.4928472,38B,Warszewska,Pilchowo
 53.4980232,14.4940615,48,Warszewska,Pilchowo
 53.4985212,14.4948672,58,Warszewska,Pilchowo
 53.4984651,14.49565,64A,Warszewska,Pilchowo
@@ -301584,7 +301597,11 @@ lat,lon,housenumber,street,city
 53.9811464,14.7875322,10,Kwiatów Polnych,Kamień Pomorski
 53.9812671,14.7870577,8,Kwiatów Polnych,Kamień Pomorski
 53.9823618,14.7847432,80,Kwiatów Polnych,
+53.9852739,14.7852219,4,Witolda Lutosławskiego,Kamień Pomorski
 53.9875826,14.7859612,3,Królowej Marysieńki,Kamień Pomorski
+53.9843551,14.7858174,8,Czesława Niemena,Kamień Pomorski
+53.9845678,14.7865843,3,Czesława Niemena,Kamień Pomorski
+53.9836391,14.7855327,12,Czesława Niemena,Kamień Pomorski
 54.1217767,16.1748137,71,,
 54.5202026,16.5281629,29,Morelowa,Rusinowo
 54.0488916,15.900847,3,,
@@ -302893,8 +302910,8 @@ lat,lon,housenumber,street,city
 53.5064469,14.8777025,21C,,
 54.459714,16.4268298,7M,,
 54.4605404,16.4244003,52I,,
-54.4607067,16.4268367,7D,,
-54.4607067,16.4268367,7F,,
+54.4607038,16.4268141,7D,,
+54.4607038,16.4268141,7F,,
 54.4562102,16.4095702,73,,
 54.4548852,16.4064391,76,,
 54.4636371,16.4179791,54A,,
@@ -302903,7 +302920,7 @@ lat,lon,housenumber,street,city
 54.4617672,16.4134917,61H,,
 54.4622578,16.4132043,60D,,
 54.4631953,16.4126035,59A,,
-54.4624538,16.4112017,62A,,
+54.4624537,16.4112024,62A,,
 54.4636244,16.4174885,54,,
 54.4625523,16.4122151,60,,
 54.4626321,16.4144663,59J,,
@@ -305205,6 +305222,7 @@ lat,lon,housenumber,street,city
 54.0283359,15.9879543,35,,
 54.0296685,15.9571406,56,,
 53.9894132,15.9557263,8A,,
+53.9980771,15.9995253,5,Wawelska,Białogard
 54.0235307,15.9338686,2A,,
 54.0260753,15.9899182,12c,,
 54.0077689,15.953756,3,Kamili Skolimowskiej,Białogard
@@ -305442,6 +305460,7 @@ lat,lon,housenumber,street,city
 53.3312743,15.0871837,114CD,,
 53.3313457,15.084626,116G,,
 53.3302553,15.085403,116C,,
+53.3259236,15.0852305,82h,,
 53.3310248,15.0843845,119,,
 53.3197936,15.0913914,18B,,
 53.3258036,15.0867169,82E,,
@@ -306829,10 +306848,12 @@ lat,lon,housenumber,street,city
 53.2421609,14.501432,2,Tęczowa,Gryfino
 53.507754,14.4854512,7,Orła Bielika,Pilchowo
 53.5064268,14.4855962,10,Gawrona,Pilchowo
+53.4984908,14.4943272,46,Warszewska,Pilchowo
 53.5004502,14.4972775,35,Widokowa,Pilchowo
 53.4997576,14.4955618,32,Widokowa,Pilchowo
+53.4974605,14.4940415,50,Warszewska,Pilchowo
 53.5071452,14.4842383,2,Gawrona,Pilchowo
-53.4982109,14.4971923,78,Warszewska,Pilchowo
+53.4982109,14.4971923,2,Panoramiczna,Pilchowo
 53.5273773,14.5365322,14D,,
 53.527891,14.537342,14H,,
 53.5293936,14.548018,225,,
@@ -307112,6 +307133,7 @@ lat,lon,housenumber,street,city
 52.954326,14.4356223,1,Fryderyka Chopina,Chojna
 54.251773,16.1506885,68b,Promowa,Koszalin
 54.2475606,16.1753452,1,Torfowa,Koszalin
+54.2470383,16.1785882,14,Orlików,Koszalin
 54.247978,16.1753053,5,Torfowa,Koszalin
 54.2480376,16.1753143,7,Torfowa,Koszalin
 54.246366,16.177129,8,Srebrna,Koszalin
@@ -308053,7 +308075,7 @@ lat,lon,housenumber,street,city
 53.714144,16.7316376,10,Marii Dąbrowskiej,Szczecinek
 53.7115978,16.7324859,22,Juliana Tuwima,Szczecinek
 53.5686247,14.8208724,2b,Niepodległości,Goleniów
-53.2003213,16.4939747,127A,,
+53.2003202,16.4939368,127A,,
 53.1981668,16.4945844,8,,
 53.1988801,16.4969214,104A,,
 53.1944797,16.4962804,33A,,
@@ -308734,6 +308756,7 @@ lat,lon,housenumber,street,city
 53.9463122,15.534652,5,Nowa,Rymań
 53.987395,14.7891831,1,Krzysztofa Pendereckiego,Kamień Pomorski
 53.988592,14.7902156,12,Krzysztofa Pendereckiego,Kamień Pomorski
+53.9830203,14.7859329,1,Zbigniewa Wodeckiego,Kamień Pomorski
 53.9796992,14.7870623,49b,,Kamień Pomorski
 53.9817603,14.79433,75a,Fryderyka Chopina,Kamień Pomorski
 53.9818157,14.794218,75,Fryderyka Chopina,Kamień Pomorski
@@ -308771,6 +308794,8 @@ lat,lon,housenumber,street,city
 53.4515556,14.5106991,2A,Zakładowa,Szczecin
 53.4514855,14.5100618,2,Zakładowa,Szczecin
 53.4527499,14.5288699,7,Władysława Broniewskiego,Szczecin
+53.9849028,14.7867338,1,Czesława Niemena,Kamień Pomorski
+53.9842878,14.7874756,4,Feliksa Nowowiejskiego,Kamień Pomorski
 54.3615158,16.673075,13a,Armii Krajowej,Sławno
 53.128453,14.8881565,8A,Lipiańska,Pyrzyce
 53.1775562,15.4086514,2,Czesława Miłosza,Choszczno
@@ -309204,7 +309229,8 @@ lat,lon,housenumber,street,city
 52.8381602,14.1165387,17A,Alte Kanalstraße,Bad Freienwalde (Oder)
 54.1402882,15.5317449,11,Kolonijna,Zieleniewo
 54.2069713,15.72784,1l,Lotnicza,Sianożęty
-54.2084674,15.7178416,38a,Lotnicza,Sianożęty
+54.2077979,15.7169164,4,Perłowa,Sianożęty
+54.2084674,15.7178416,6,Perłowa,Sianożęty
 54.2061428,15.7151809,27,Lotnicza,Sianożęty
 53.3234685,14.5462009,24,Kościelna,Radziszewo
 53.3232625,14.5451858,3,Krajobrazowa,Radziszewo
@@ -309323,7 +309349,7 @@ lat,lon,housenumber,street,city
 53.9130948,14.2288657,9a,Strzelecka,
 54.0582515,15.2544808,8,Leśna,Trzebiatów
 54.1787385,16.2009641,14,Sezamkowa,Koszalin
-53.4979751,14.5895415,11,Policka,Szczecin
+53.4979751,14.5895387,11,Policka,Szczecin
 54.0039754,15.990213,10a,Plac Wolności,Białogard
 54.1823504,15.5649617,1,Solna,Kołobrzeg
 53.5202452,14.4034868,18C,,
@@ -309453,7 +309479,6 @@ lat,lon,housenumber,street,city
 53.8399907,15.9681499,14,,
 53.7758405,15.7697581,9,Słowiańska,Świdwin
 54.0500588,15.3030324,88P,,
-54.4144223,16.4016756,25,Generała Józefa Sowińskiego,Darłowo
 54.4118728,16.4124056,371,Jana Henryka Dąbrowskiego,Darłowo
 54.4093139,16.4087027,33C,Aleje Wojska Polskiego,Darłowo
 54.4094419,16.4087419,33C,Aleje Wojska Polskiego,Darłowo
@@ -309517,6 +309542,8 @@ lat,lon,housenumber,street,city
 53.5368025,16.2311276,20aa,Pławieńska,Czaplinek
 53.9985465,15.642352,11,,
 53.9862215,14.6793042,606,,
+53.9831905,14.7851597,3,Zbigniewa Wodeckiego,Kamień Pomorski
+53.9832559,14.7847321,4,Zbigniewa Wodeckiego,Kamień Pomorski
 54.0155419,14.8145439,32F,,Wrzosowo
 53.0782784,15.7971893,51C,,
 53.0783026,15.7969623,51B,,
@@ -309838,6 +309865,11 @@ lat,lon,housenumber,street,city
 54.1553361,15.3700861,117P,,
 54.1543053,15.4899206,8,Jasna,Grzybowo
 53.5136298,14.4255338,19,Cicha,Sławoszewo
+53.4982886,14.4967517,72,Warszewska,Pilchowo
+53.4981563,14.4947986,56A,Warszewska,Pilchowo
+53.4985783,14.4930067,1,Malownicza,Pilchowo
+53.498183,14.4927773,15,Malownicza,Pilchowo
+53.4976189,14.4945392,52,Warszewska,Pilchowo
 54.1151256,15.8104351,3d,,
 54.1155182,15.8084253,1g,,
 54.1157245,15.813112,8/1,,
@@ -309897,6 +309929,7 @@ lat,lon,housenumber,street,city
 53.4341499,14.460399,58A,Grafitowa,Mierzyn
 53.4340937,14.4606274,58B,Grafitowa,Mierzyn
 53.9105956,14.2495448,7,Marszałka Józefa Piłsudskiego,Świnoujście
+53.9105211,14.2477564,3,Piastowska,Świnoujście
 53.4320332,14.4016921,23,Żubrza,Dołuje
 53.9083131,14.2459508,2,Stanisława Staszica,Świnoujście
 53.4858952,14.4151605,13A,Dereszowa,Dobra
@@ -310182,6 +310215,8 @@ lat,lon,housenumber,street,city
 53.3537517,14.5022018,5,Nad Odrą,Siadło Dolne
 53.4959779,14.4825485,10,Nad Potokiem,Pilchowo
 53.5284331,14.5514506,99,Siedlice,
+53.4998699,14.4952184,30,Widokowa,
+53.4985119,14.4925431,1A,Malownicza,Pilchowo
 53.717483,16.621963,54,Trzesiecka,Szczecinek
 53.2484511,14.5679005,9,Letniskowa,Wełtyń
 53.247697,14.56628,6,Spokojna,Wełtyń
@@ -310329,6 +310364,7 @@ lat,lon,housenumber,street,city
 54.2445104,16.1789962,22,Złota,Koszalin
 54.2444442,16.1799687,26,Złota,Koszalin
 54.2466792,16.1780654,1,Srebrna,Koszalin
+54.2468398,16.1810172,2,Platynowa,Koszalin
 54.2538976,16.1729689,39,Północna,Koszalin
 54.2539568,16.1710833,39E,Północna,Koszalin
 53.3843013,14.6385419,8,Citroena,Szczecin
@@ -310369,7 +310405,7 @@ lat,lon,housenumber,street,city
 53.561665,14.844493,7,Maszewska,Goleniów
 53.279954,16.462491,16,Kołobrzeska,Wałcz
 53.9940516,15.5419312,4a,,
-53.4223849,14.5547675,2B,Dworcowa,Szczecin
+53.422386,14.554778,2B,Dworcowa,Szczecin
 54.0906775,15.680685,15b,,
 54.0148667,15.5160621,16,,
 53.9609885,15.5711828,46a,,
@@ -310491,11 +310527,11 @@ lat,lon,housenumber,street,city
 54.2112564,15.7640875,10,Polna,Ustronie Morskie
 54.2107296,15.7638431,10g,Polna,Ustronie Morskie
 53.8929709,14.358355,46,Odrzańska,
-53.4982169,14.5893232,11A,Policka,Szczecin
-53.499015,14.5893964,11B,Policka,Szczecin
-53.4996019,14.5888733,11C,Policka,Szczecin
-53.4992698,14.5878461,11D,Policka,Szczecin
-53.4992698,14.5878461,11E,Policka,Szczecin
+53.4982173,14.5893193,11A,Policka,Szczecin
+53.4990119,14.5893925,11B,Policka,Szczecin
+53.4995967,14.5888625,11C,Policka,Szczecin
+53.4992731,14.587855,11D,Policka,Szczecin
+53.4992731,14.587855,11E,Policka,Szczecin
 53.7275412,16.5835341,75a,Parsęcko,
 53.9228589,14.4339839,72B,Gryfa Pomorskiego,Międzyzdroje
 53.9234339,14.4342501,72A,Gryfa Pomorskiego,Międzyzdroje
@@ -310594,6 +310630,7 @@ lat,lon,housenumber,street,city
 52.8379501,14.1177435,20,Alte Kanalstraße,Bad Freienwalde (Oder)
 52.8370367,14.1179634,30,Oderstraße,Bad Freienwalde (Oder)
 53.386423,14.4966029,57C,,
+54.0602884,15.2908978,9,Koralowa,Trzebiatów
 54.0595249,15.288484,10,Miła,Trzebiatów
 54.0601561,15.2919451,18,Koralowa,Trzebiatów
 54.0599295,15.2902136,8,Koralowa,Trzebiatów
@@ -310617,6 +310654,7 @@ lat,lon,housenumber,street,city
 53.5511208,14.5208015,1,Akacjowa,Trzeszczyn
 53.5512051,14.5166393,4,Leśna,Trzeszczyn
 53.0957876,14.4921365,1FW,,Kłodowo
+53.9841548,14.7852967,9,Witolda Lutosławskiego,Kamień Pomorski
 53.6225604,16.005175,1CK,,
 53.3992336,14.6237901,11,Przystani,Szczecin
 53.3989594,14.623702,9,Przystani,Szczecin
@@ -310678,3 +310716,145 @@ lat,lon,housenumber,street,city
 54.2006727,16.1818962,59,Bałtycka,Koszalin
 53.7956008,16.5174071,12A,,
 53.7447779,16.3558148,12,Wojska Polskiego,Barwice
+53.3092374,15.0469172,2,Truskawkowa,Witkowo Drugie
+54.0001575,14.9718521,90G,,Gostyniec
+54.0002342,14.9737197,90B,,Gostyniec
+54.0003506,14.9735125,90C,,Gostyniec
+53.3510422,14.7257854,32,Senna,Szczecin
+53.3513098,14.7246994,36,Senna,Szczecin
+53.5002856,14.4917808,9,Widokowa,Pilchowo
+53.4997229,14.4924404,6,Widokowa,Pilchowo
+53.5488831,16.3366841,20,,
+53.4282483,14.9475281,42A,,Poczernin
+53.4260357,14.942118,54L,,Poczernin
+53.4261883,14.942401,54K,,Poczernin
+53.4280656,14.9445355,45B,,Poczernin
+54.4591548,16.4219622,52R,,
+54.4607919,16.4256486,50,,
+54.4597142,16.427156,7N,,
+54.4607083,16.4268562,7E,,
+54.4597142,16.427156,7K,,
+54.4599937,16.4246953,52F,,
+54.4621125,16.4121886,62C,,
+53.3587213,15.0102413,30,Podleśna,Stargard
+53.3590323,15.0109879,33,Podleśna,Stargard
+53.3590323,15.0109879,35,Podleśna,Stargard
+54.2074156,15.7170797,2,Perłowa,Sianożęty
+53.5835408,16.209345,7,Pięciu Pomostów,Czaplinek
+53.584072,16.2055485,13J,Pięciu Pomostów,Czaplinek
+53.5839469,16.2054459,13K,Pięciu Pomostów,Czaplinek
+53.5838629,16.206036,11K,Pięciu Pomostów,Czaplinek
+53.5841031,16.2062254,11G,Pięciu Pomostów,Czaplinek
+53.5843505,16.2064188,11E,Pięciu Pomostów,Czaplinek
+53.5840416,16.2068075,9E,Pięciu Pomostów,Czaplinek
+53.5846428,16.2073199,9,Pięciu Pomostów,Czaplinek
+53.5262402,16.0143727,4,Piaskowa,Złocieniec
+52.9716759,15.1824322,271/11,Brukowa,Moczkowo
+53.474981,14.4523095,0,Lipowa,Wołczkowo
+54.2573437,16.1046055,144m,Podamirowo,
+53.6327718,16.0141544,4,,
+54.2553501,16.0959976,1j,,
+53.3104009,15.0443335,6,Rubinowa,Witkowo Drugie
+53.3103802,15.0442198,8,Rubinowa,Witkowo Drugie
+53.3103115,15.0438428,12,Rubinowa,Witkowo Drugie
+53.3103322,15.0439566,10,Rubinowa,Witkowo Drugie
+53.3101117,15.0443277,5,Rubinowa,Witkowo Drugie
+53.3101324,15.0444414,3,Rubinowa,Witkowo Drugie
+53.3100429,15.043949,9,Rubinowa,Witkowo Drugie
+53.3100637,15.0440627,7,Rubinowa,Witkowo Drugie
+53.3099763,15.0435739,13,Rubinowa,Witkowo Drugie
+53.309997,15.0436876,11,Rubinowa,Witkowo Drugie
+53.3099129,15.0431952,17,Rubinowa,Witkowo Drugie
+53.3099336,15.0433089,15,Rubinowa,Witkowo Drugie
+53.3098431,15.04282,21,Rubinowa,Witkowo Drugie
+53.3098638,15.0429337,19,Rubinowa,Witkowo Drugie
+53.3098962,15.0444652,4,Szmaragdowa,Witkowo Drugie
+53.3098962,15.0444652,6,Szmaragdowa,Witkowo Drugie
+53.3098391,15.0441432,10,Szmaragdowa,Witkowo Drugie
+53.3098391,15.0441432,8,Szmaragdowa,Witkowo Drugie
+53.3097784,15.043829,14,Szmaragdowa,Witkowo Drugie
+53.3097784,15.043829,12,Szmaragdowa,Witkowo Drugie
+53.3097204,15.0435101,18,Szmaragdowa,Witkowo Drugie
+53.3097204,15.0435101,16,Szmaragdowa,Witkowo Drugie
+53.3096633,15.0431927,22,Szmaragdowa,Witkowo Drugie
+53.3096633,15.0431927,20,Szmaragdowa,Witkowo Drugie
+53.309609,15.0428723,26,Szmaragdowa,Witkowo Drugie
+53.309609,15.0428723,24,Szmaragdowa,Witkowo Drugie
+53.3095529,15.0425534,30,Szmaragdowa,Witkowo Drugie
+53.3095529,15.0425534,28,Szmaragdowa,Witkowo Drugie
+53.3094967,15.0422361,34,Szmaragdowa,Witkowo Drugie
+53.3094967,15.0422361,32,Szmaragdowa,Witkowo Drugie
+53.3094369,15.0419172,38,Szmaragdowa,Witkowo Drugie
+53.3094369,15.0419172,36,Szmaragdowa,Witkowo Drugie
+53.3093798,15.0415998,42,Szmaragdowa,Witkowo Drugie
+53.3093798,15.0415998,40,Szmaragdowa,Witkowo Drugie
+53.3088607,15.0415844,46,Koralowa,Witkowo Drugie
+53.3088607,15.0415844,44,Koralowa,Witkowo Drugie
+53.3089178,15.0419018,42,Koralowa,Witkowo Drugie
+53.3089178,15.0419018,40,Koralowa,Witkowo Drugie
+53.3089776,15.0422176,38,Koralowa,Witkowo Drugie
+53.3089776,15.0422176,36,Koralowa,Witkowo Drugie
+53.3090319,15.0425396,34,Koralowa,Witkowo Drugie
+53.3090319,15.0425396,32,Koralowa,Witkowo Drugie
+53.3090881,15.0428584,30,Koralowa,Witkowo Drugie
+53.3090881,15.0428584,28,Koralowa,Witkowo Drugie
+53.3091414,15.0431789,26,Koralowa,Witkowo Drugie
+53.3091414,15.0431789,24,Koralowa,Witkowo Drugie
+53.3092004,15.0434962,22,Koralowa,Witkowo Drugie
+53.3092004,15.0434962,20,Koralowa,Witkowo Drugie
+53.3092593,15.043812,18,Koralowa,Witkowo Drugie
+53.3092593,15.043812,16,Koralowa,Witkowo Drugie
+53.3093182,15.0441309,14,Koralowa,Witkowo Drugie
+53.3093182,15.0441309,12,Koralowa,Witkowo Drugie
+53.3093728,15.044451,10,Koralowa,Witkowo Drugie
+53.3093728,15.044451,8,Koralowa,Witkowo Drugie
+53.3094305,15.0447688,6,Koralowa,Witkowo Drugie
+53.3094305,15.0447688,4,Koralowa,Witkowo Drugie
+53.3101366,15.0447773,1,Rubinowa,Witkowo Drugie
+53.3101366,15.0447773,59,Kresowian,Witkowo Drugie
+53.3099295,15.044879,57,Kresowian,Witkowo Drugie
+53.3099295,15.044879,2,Szmaragdowa,Witkowo Drugie
+53.3096819,15.0451239,1,Szmaragdowa,Witkowo Drugie
+53.3096819,15.0451239,55,Kresowian,Witkowo Drugie
+53.3094748,15.0452256,53,Kresowian,Witkowo Drugie
+53.3094748,15.0452256,2,Koralowa,Witkowo Drugie
+53.3081776,15.0413183,35,Diamentowa,Witkowo Drugie
+53.3081776,15.0413183,35a,Diamentowa,Witkowo Drugie
+53.3082442,15.0416598,33,Diamentowa,Witkowo Drugie
+53.3082442,15.0416598,33a,Diamentowa,Witkowo Drugie
+53.3083204,15.0420934,27,Diamentowa,Witkowo Drugie
+53.3083204,15.0420934,27a,Diamentowa,Witkowo Drugie
+53.3083775,15.0424101,25,Diamentowa,Witkowo Drugie
+53.3083775,15.0424101,25a,Diamentowa,Witkowo Drugie
+53.3084324,15.0427127,23,Diamentowa,Witkowo Drugie
+53.3084324,15.0427127,23a,Diamentowa,Witkowo Drugie
+53.3093113,15.0427492,25,Szmaragdowa,Witkowo Drugie
+53.309332,15.0428629,23,Szmaragdowa,Witkowo Drugie
+53.3093779,15.0431244,21,Szmaragdowa,Witkowo Drugie
+53.3093986,15.0432381,19,Szmaragdowa,Witkowo Drugie
+53.3094508,15.0434995,17,Szmaragdowa,Witkowo Drugie
+53.3094716,15.0436133,15,Szmaragdowa,Witkowo Drugie
+53.3095143,15.0438782,13,Szmaragdowa,Witkowo Drugie
+53.309535,15.043992,11,Szmaragdowa,Witkowo Drugie
+53.3095809,15.0442534,9,Szmaragdowa,Witkowo Drugie
+53.3096016,15.0443671,7,Szmaragdowa,Witkowo Drugie
+53.3096496,15.0446285,5,Szmaragdowa,Witkowo Drugie
+53.3096703,15.0447423,3,Szmaragdowa,Witkowo Drugie
+53.309115,15.0450107,2d,Diamentowa,Witkowo Drugie
+53.3090643,15.0451351,2c,Diamentowa,Witkowo Drugie
+53.3091471,15.0451905,2b,Diamentowa,Witkowo Drugie
+53.3090977,15.0453139,2a,Diamentowa,Witkowo Drugie
+53.3091797,15.0453718,2,Diamentowa,Witkowo Drugie
+53.3089437,15.0456182,1,Diamentowa,Witkowo Drugie
+53.3088059,15.0448203,7,Diamentowa,Witkowo Drugie
+53.3085898,15.0425542,18,Diamentowa,Witkowo Drugie
+53.3084175,15.0413679,22,Diamentowa,Witkowo Drugie
+53.3075634,15.0433741,29a,Złota,
+53.3075854,15.0434129,29,Złota,
+53.3076509,15.043802,27,Złota,
+53.3076289,15.043762,27a,Złota,
+53.3091106,15.0416246,37,Szmaragdowa,Witkowo Drugie
+53.3091313,15.0417384,35,Szmaragdowa,Witkowo Drugie
+53.3113853,15.0436964,2,Tadeusza Różewicza,Stargard
+53.9259472,16.2499395,1C,Białogardzka,Tychowo
+54.2086037,16.1590964,25,Leonida Teligi,Koszalin
